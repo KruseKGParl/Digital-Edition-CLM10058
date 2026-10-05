@@ -65,7 +65,7 @@
     });
     el.addEventListener('shown.bs.popover', function () {
       var tip = document.getElementById(el.getAttribute('aria-describedby'));
-      if (tip && window.$) $(tip).localize();
+      if (tip && window.$ && $.fn.localize) $(tip).localize();
     });
     function toggle(ev) {
       ev.stopPropagation();

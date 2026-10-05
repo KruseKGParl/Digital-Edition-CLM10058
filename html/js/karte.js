@@ -54,7 +54,8 @@
     detail.innerHTML = '';
     detail.appendChild(tpl.content.cloneNode(true));
     detail.hidden = false;
-    if (window.$) $(detail).localize();
+    // i18next lädt asynchron; ist es noch nicht bereit, übersetzt i18n.js die Karte nach dem Start
+    if (window.$ && $.fn.localize) $(detail).localize();
     history.replaceState(null, '', '?hl=' + li.id);
     if (zoom) focusOn(li);
     // Liste: Abschnitt aufklappen und Eintrag in Sicht bringen
