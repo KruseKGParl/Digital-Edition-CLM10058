@@ -7,9 +7,9 @@
     <xsl:param name="project_short_title">Isidor Clm 10058</xsl:param>
     <xsl:param name="default_lang">de</xsl:param>
     <!-- TODO: GitHub-Nutzer/Organisation und Repo-Namen anpassen, sobald das Repo feststeht -->
-    <xsl:param name="github_url">https://github.com/CHANGE-ME/isidor-clm10058</xsl:param>
+    <xsl:param name="github_url">https://github.com/KruseKGParl/Digital-Edition-CLM10058</xsl:param>
     <xsl:param name="html_title">Isidor Clm 10058</xsl:param>
     <xsl:param name="project_logo">images/logo.png</xsl:param>
-    <xsl:param name="base_url">https://CHANGE-ME.github.io/isidor-clm10058/</xsl:param>
+    <xsl:param name="base_url">https://krusekgparl.github.io/Digital-Edition-CLM10058/</xsl:param>
     <xsl:param name="iiif_base">https://api.digitale-sammlungen.de/iiif/image/v2/</xsl:param>
 </xsl:stylesheet>

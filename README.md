@@ -4,7 +4,7 @@
 
 🇩🇪 [Deutsch](#deutsch) · 🇬🇧 [English](#english)
 
-> **Website:** <!-- TODO: Adresse eintragen, z. B. https://<NAME>.github.io/<REPO>/ -->  *(folgt / to follow)*
+> **Website:** <https://krusekgparl.github.io/Digital-Edition-CLM10058/> *(sobald GitHub Pages aktiviert ist / once GitHub Pages is enabled)*
 > **Lizenz Edition / Licence (edition):** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---

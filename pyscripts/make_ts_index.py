@@ -50,7 +50,7 @@ current_schema = {
     "enable_nested_fields": True,
     "metadata": {
         "owners": ["dse-static-cookiecutter"],
-        "description": "Used by https://github.com/CHANGE-ME/isidor-clm10058",
+        "description": "Used by https://github.com/KruseKGParl/Digital-Edition-CLM10058",
         "service_ids": [18716],
     },
     "fields": [
