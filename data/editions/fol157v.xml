@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol157v.xml" prev="fol157r.xml" next="fol158r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 157v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol157v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00318/full/full/0/default.jpg" n="bsb00112097_00318"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 157v" facs="#fol157v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>quae dum pro brevitate duos fratres <lb n="2"/>reges <persName ref="#lyd41" xml:id="m-157v-001">liddum</persName> et <persName ref="#tyr42" xml:id="m-157v-002">tirrenum</persName> ferre non <lb n="3"/>posset, hinc ex sorte <persName ref="#tyr42" xml:id="m-157v-003">tirrenus</persName> cum <lb n="4"/>ingenti multitudine profectus loca <lb n="5"/>
+                    <placeName ref="#gal132" xml:id="m-157v-004">galliae</placeName> occupavit, et <placeName ref="#tyr118" xml:id="m-157v-005">tirreniam</placeName> <lb n="6"/>nominavit. <placeName ref="#lyd105" xml:id="m-157v-006">Liddia</placeName> autem a <persName ref="#lyd41" xml:id="m-157v-007">lid<lb break="no" n="7"/>do</persName> regis fratre, qui in provincia reman<lb break="no" n="8"/>serat, cognominata est. Coniungi<lb break="no" n="9"/>tur autem ab
+               occidente <placeName ref="#phr103" xml:id="m-157v-008">minori <lb n="10"/>frigiae</placeName>, ab ortu <placeName ref="#smy115" xml:id="m-157v-009">zmirnam</placeName> urbem <lb n="11"/>habet, quam <placeName ref="#hel119" xml:id="m-157v-010">elles</placeName> fluvius cingit; <lb n="12"/>cuius campos <placeName ref="#pac120" xml:id="m-157v-011">pactulus</placeName> et <placeName ref="#her117" xml:id="m-157v-012">ermus</placeName> <lb n="13"/>circunfluunt, harenis aureis <lb n="14"/>ditissimi. <placeName ref="#pam107" xml:id="m-157v-013">Pamphilia</placeName> colociae so<lb break="no" n="15"/>ciatur cuius ultima phaselis
+               dehinc <lb n="16"/>que <placeName ref="#lyk113" xml:id="m-157v-014">licaonia</placeName> quae ab illa part qua <lb n="17"/>
+                    <placeName ref="#gal104" xml:id="m-157v-015">galatiae</placeName> contermina est habet civi<lb break="no" n="18"/>tates <placeName ref="#isa97" xml:id="m-157v-016">Isauria</placeName> ex situ loci <lb n="19"/>perhibetur cognominata, quod un<lb break="no" n="20"/>dique apta aurarum flatibus
+               pateat. <lb n="21"/>Metropolim urbem <placeName ref="#sel121" xml:id="m-157v-017">seleutiam</placeName> habet. <lb n="22"/>
+                    <placeName ref="#kil96" xml:id="m-157v-018">Cilicia</placeName> a <persName ref="#kil43" xml:id="m-157v-019">cilice</persName> quodam nomen traxit, <lb n="23"/>quem ortum fenice dicunt,
+                  antiquiorem<lb break="no" n="24"/>que <persName ref="#jup37" xml:id="m-157v-020">iove</persName> fuisse asserunt. Plurima <lb n="25"/>iacet campis, recipiens ab occiduo <lb n="26"/>
+                    <placeName ref="#lyk108" xml:id="m-157v-021">lichiam</placeName>, a meridie <placeName ref="#kre122" xml:id="m-157v-022">mare creticum</placeName>, <lb n="27"/>a tergo <placeName ref="#tau35" xml:id="m-157v-023">montis tauri</placeName> iuga. hanc <lb n="28"/>
+                    <placeName ref="#kyd123" xml:id="m-157v-024">cignus</placeName> amnis intersecat. Matrem <lb n="29"/>urbium habet <placeName ref="#tar124" xml:id="m-157v-025">tharsum</placeName>. In ea <lb n="30"/>et <placeName ref="#kor125" xml:id="m-157v-026">coriscus</placeName> oppidum est, unde crocum <lb n="31"/>plurimum et optimum venit, spira<lb break="no" n="32"/>mine
+               fraglantiori et colore plus auro. <lb n="33"/>
+                    <placeName ref="#lyk108" xml:id="m-157v-027">Licia</placeName> nuncupata quod ab oriente <lb n="34"/>adiuncta <placeName ref="#kil96" xml:id="m-157v-028">ciliciae</placeName> sit. Nam habet <lb n="35"/>ab ortu <placeName ref="#kil96" xml:id="m-157v-029">ciliciam</placeName>, ab occasu et <lb n="36"/>meridie <placeName ref="#mit4" xml:id="m-157v-030">mare</placeName>, a septentrione <lb n="37"/>
+                    <placeName ref="#kar106" xml:id="m-157v-031">cariam</placeName>. Ibi est mons <placeName ref="#chi126" xml:id="m-157v-032">cymera</placeName>, qui <lb n="38"/>nocturnis aestibus ignem exhalat:
+               <lb n="39"/>sicut in <placeName ref="#siz127" xml:id="m-157v-033">sicilia</placeName> <placeName ref="#atn128" xml:id="m-157v-034">ethna</placeName> et <placeName ref="#ves129" xml:id="m-157v-035">vesulus</placeName> in <lb n="40"/>
+                    <placeName ref="#kam130" xml:id="m-157v-036">Campania</placeName>. De europa et partibus. </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>Post <placeName ref="#asi1" xml:id="m-157v-037">Asiam</placeName> ad <placeName ref="#eur2" xml:id="m-157v-038">Europam</placeName> stilum <lb n="2"/>vertendum. <persName ref="#eur35" xml:id="m-157v-039">Europa</persName> quippe <lb n="3"/>
+                    <persName ref="#age44" xml:id="m-157v-040">agenoris</persName> <placeName ref="#afr3" xml:id="m-157v-041">libiae</placeName> regis filia fuit, quam <lb n="4"/>
+                    <persName ref="#jup37" xml:id="m-157v-042">iovis</persName> ab <placeName ref="#afr3" xml:id="m-157v-043">africa</placeName> raptam <placeName ref="#kre133" xml:id="m-157v-044">cretam</placeName> ad<lb break="no" n="5"/>vexit, et partem
+               terciam orbis ex <lb n="6"/>eius nomine appellavit. Iste est <lb n="7"/>autem <persName ref="#age44" xml:id="m-157v-045">agenor</persName> <persName ref="#lib45" xml:id="m-157v-046">libiae</persName> filius, ex qua <lb n="8"/>et <placeName ref="#afr3" xml:id="m-157v-047">libia</placeName>, id est <placeName ref="#afr3" xml:id="m-157v-048">africa</placeName>, fertur cognomi<lb break="no" n="9"/>nata; Unde apparet prius <placeName ref="#afr3" xml:id="m-157v-049">libiam</placeName> <lb n="10"/>accepisse vocabulum, postea <placeName ref="#eur2" xml:id="m-157v-050">europam</placeName>. <lb n="11"/>
+                    <placeName ref="#eur2" xml:id="m-157v-051">Europa</placeName> autem in terciam partem orbis <lb n="12"/>divisa incipit a flumine <placeName ref="#tan6" xml:id="m-157v-052">tanai</placeName>, <lb n="13"/>descendens ad occasum per septentriona<lb break="no" n="14"/>lem occeanum usque in
+               fines <placeName ref="#his134" xml:id="m-157v-053">ispaniae</placeName>; <lb n="15"/>cuius pars orientalis et
+               meridiana <lb n="16"/>a <placeName ref="#sch74" xml:id="m-157v-054">ponto</placeName> consurgens, tota <placeName ref="#mit4" xml:id="m-157v-055">mari <lb n="17"/>magno</placeName> coniungitur, et in <placeName ref="#gad135" xml:id="m-157v-056">insu<lb break="no" n="18"/>las gades</placeName> finitur. Prima <placeName ref="#eur2" xml:id="m-157v-057">europae</placeName> <lb n="19"/>regio <placeName ref="#sky27" xml:id="m-157v-058">scithia</placeName> inferior, quae a <lb n="20"/>
+                    <placeName ref="#mao80" xml:id="m-157v-059">meotidis paludibus</placeName> incipiens inter <lb n="21"/>
+                    <placeName ref="#don81" xml:id="m-157v-060">danubium</placeName> et occeanum septentriona<lb break="no" n="22"/>lem usque ad <placeName ref="#ger82" xml:id="m-157v-061">germaniam</placeName> porrigitur; <lb n="23"/>Quae terra generaliter propter barbaras <lb n="24"/>gentes, quibus inhabitatur,
+                  <placeName ref="#ger82" xml:id="m-157v-062">barbari<lb break="no" n="25"/>ca</placeName> dicitur. Huius pars prima ala<lb break="no" n="26"/>nia est, quae ad <placeName ref="#mao80" xml:id="m-157v-063">meotidas paludes</placeName> <lb n="27"/>pertingit; Post hanc <placeName ref="#dak137" xml:id="m-157v-064">Dacia</placeName>, ubi et <lb n="28"/>
+                    <placeName ref="#lan79" xml:id="m-157v-065">gotia</placeName>; Deinde <placeName ref="#ger82" xml:id="m-157v-066">germania</placeName>, ubi plu<lb break="no" n="29"/>rimam partem suevi incoluerunt.
+                  <lb n="30"/>
+                    <placeName ref="#ger82" xml:id="m-157v-067">Germania</placeName> post <placeName ref="#sky27" xml:id="m-157v-068">scithiam</placeName> inferio<lb break="no" n="31"/>rem a <placeName ref="#don81" xml:id="m-157v-069">danubio</placeName> inter <placeName ref="#rhe138" xml:id="m-157v-070">renum</placeName> fluvium <lb n="32"/>occeanumque conclusa cingitur <lb n="33"/>a septentrione et occasu occeano, <lb n="34"/>ab
+               ortu vero <placeName ref="#don81" xml:id="m-157v-071">danubio</placeName>, a meridie <lb n="35"/>
+                    <placeName ref="#rhe138" xml:id="m-157v-072">reno</placeName> flumine dirimitur. terra <lb n="36"/>dives virum ac
+               populis numerosis <lb n="37"/>et inmanibus; <lb n="38"/>unde et propter fecundi<lb break="no" n="39"/>tatem gignendorum populorum <placeName ref="#ger82" xml:id="m-157v-073">germa<lb break="no" n="40"/>nia</placeName> dicta est. Gignit aves hircanias, <lb n="41"/>quarum penne nocte
+               perlucent;</p>
+            </div>
+            </body>
+  </text>
+</TEI>

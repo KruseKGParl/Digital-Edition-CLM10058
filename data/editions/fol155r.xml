@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol155r.xml" prev="fol154v.xml" next="fol155v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 155r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol155r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00313/full/full/0/default.jpg" n="bsb00112097_00313"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div> <pb n="fol. 155r" facs="#fol155r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>De <placeName ref="#asi1" xml:id="m-155r-001">asia</placeName> et partibus euis iii<lb n="2"/>
+                    <placeName ref="#asi1" xml:id="m-155r-002">Asia</placeName> ex nomine cuiusdam mulieris <lb n="3"/>est appelata, quae
+               apud antiquos <lb n="4"/>imperium tenuit orientis. Haec in ter<lb break="no" n="5"/>tia orbis
+               parte disposita, ab oriente <lb n="6"/>ortu solis, a meridie Oceano, ab oc<lb break="no" n="7"/>ciduo nostro mare finitur, a septen<lb break="no" n="8"/>trione <placeName ref="#mao5" xml:id="m-155r-003">maeotide lacu</placeName> et <placeName ref="#tan6" xml:id="m-155r-004">Tanai</placeName> flu<lb break="no" n="9"/>vio terminatur. Habet autem provin<lb break="no" n="10"/>cias multas et
+               regiones, quarum <lb n="11"/>breviter nomina et situs expediam, <lb n="12"/>sumpto initio a
+               paradiso. <lb n="13"/>
+                    <placeName ref="#par7" xml:id="m-155r-005">Paradisus</placeName> est locus in orientis par<lb break="no" n="14"/>tibus constitutus, cuius vocabularum<lb n="15"/>ex Graeco in Latinum
+               vertitur <placeName ref="#par7" xml:id="m-155r-006">hortus</placeName>: <lb n="16"/>Porro hebraice <placeName ref="#par7" xml:id="m-155r-007">eden</placeName> dicitur, quod in no<lb break="no" n="17"/>stra lingua
+               deliciae interpretatur. <lb n="18"/>Quod utrumque iunctum facit <placeName ref="#par7" xml:id="m-155r-008">hor<lb break="no" n="19"/>tum deliciarum</placeName>; Est enim omni ge<lb break="no" n="20"/>nere ligni et pomiferarum arborum <lb n="21"/>consitus, habens etiam et lignum <lb n="22"/>vitae:
+               Non ibi frigus, non estus, <lb n="23"/>sed perpetua aeris temperies. E cuius <lb n="24"/>medio fons
+               prorumpens totum nemus <lb n="25"/>irrigat, dividiturque in quattuor <lb n="26"/>nascentia flumina.
+               Cuius loci <lb n="27"/>post peccatum hominis aditus est<lb n="28"/>interclusus est; septus est enim
+               undique <lb n="29"/>romphea flammea, id est muro ig<lb break="no" n="30"/>neo accinctus, ita ut
+               eius cum caelo <lb n="31"/>pene iungat incendium. <persName ref="#che4" xml:id="m-155r-009">Cheru<lb break="no" n="32"/>bin</persName> quoque, id est angelorum praesidium, <lb n="33"/>arcendis spiritibus
+               malis super <lb n="34"/>rumpheae flagrantiam ordinatum est, <lb n="35"/>ut homines flammae,
+               angelos vero ma<lb break="no" n="36"/>los cherubin submoveant, ne <lb n="37"/>cui carni vel
+               spiritui transgressionis <lb n="38"/>aditus Paradisi pateat. <placeName ref="#ind8" xml:id="m-155r-010">India</placeName> <lb n="39"/>vocata ab <placeName ref="#ind9" xml:id="m-155r-011">Indo</placeName> flumine, quo ex <lb n="40"/>parte
+               occidentali clauditur. Haec</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>a meridiano mari porrecta usque <lb n="2"/>ad ortum solis, et ab septentrione
+               <lb n="3"/>usque ad <placeName ref="#kau10" xml:id="m-155r-012">montem caucasum</placeName> pervenit; <lb n="4"/>habens gentes multas et oppida, <lb n="5"/>insulam quoque <placeName ref="#tab11" xml:id="m-155r-013">taprobanen</placeName> gemmis <lb n="6"/>et elefantis refertam, <placeName ref="#chr12" xml:id="m-155r-014">chrysam</placeName> et <lb n="7"/>
+                    <placeName ref="#arg13" xml:id="m-155r-015">argyren</placeName> auro argentoque fecundas, <lb n="8"/>
+                    <placeName ref="#til14" xml:id="m-155r-016">Tilen</placeName> quoque arboribus folius numquam <lb n="9"/>carentem. Habet et fluvios <placeName ref="#gan15" xml:id="m-155r-017">gan<lb break="no" n="10"/>gen</placeName> et <placeName ref="#ind9" xml:id="m-155r-018">indian</placeName> et <placeName ref="#hyp16" xml:id="m-155r-019">hypanem</placeName> inlustran<lb break="no" n="11"/>tes indos.
+               Terra <placeName ref="#ind8" xml:id="m-155r-020">indiae</placeName> <persName ref="#fav5" xml:id="m-155r-021">favonii</persName> <lb n="12"/>spiritu saluberrima in anno bis <lb n="13"/>metit fruges: vice hiemis etesias
+               <lb n="14"/>patitur. Gignit autem tincti colo<lb break="no" n="15"/>ris homines, elefantos
+               ingentes, <lb n="16"/>monoceron bestiam, psittacum avem, <lb n="17"/>ebenum quoque lignum, et
+                  cinna<lb break="no" n="18"/>mum et piper et calamum aromati<lb break="no" n="19"/>cum. Mittit et
+               ebur, lapides <lb n="20"/>quoque pretiosos: berillos, chrisoprasos <lb n="21"/>adamantem,
+               carbunculos, lig<lb break="no" n="22"/>nites, margaritas et uniones, <lb n="23"/>quibus nobilium
+               feminarum ardet <lb n="24"/>ambitio. Ibi sunt et montes aurei, <lb n="25"/>quos adire propter
+               dracones et grifes <lb n="26"/>et inmensorum hominum monstra im<lb break="no" n="27"/>possible est.
+                  <placeName ref="#par17" xml:id="m-155r-022">Parthia</placeName> ab <placeName ref="#ind8" xml:id="m-155r-023">Indiae</placeName> fi<lb break="no" n="28"/>nibus usque ad <placeName ref="#mes18" xml:id="m-155r-024">mesopotamiam</placeName> gene<lb break="no" n="29"/>raliter nominatur. Propter in<lb break="no" n="30"/>victam enim virtutem parthorum<lb n="31"/>et <placeName ref="#ass19" xml:id="m-155r-025">assyria</placeName> et reliquae proximae regi<lb break="no" n="32"/>ones in eius nomen
+               transierunt. Sunt<lb n="33"/>enim in ea <placeName ref="#ara20" xml:id="m-155r-026">aracusia</placeName>, <placeName ref="#par17" xml:id="m-155r-027">parthia</placeName>, <lb n="34"/>
+                    <placeName ref="#ass19" xml:id="m-155r-028">assyria</placeName>, <placeName ref="#med21" xml:id="m-155r-029">media</placeName> et <placeName ref="#per22" xml:id="m-155r-030">persida</placeName>, quae regi<lb break="no" n="35"/>ones invicem sibi
+               coniunctae in<lb break="no" n="36"/>itium ab <placeName ref="#ind9" xml:id="m-155r-031">indo</placeName> flumine sumunt, <lb n="37"/>
+                    <placeName ref="#tig23" xml:id="m-155r-032">Tigri</placeName> clauduntur, locis montuosis <lb n="38"/>et asperioribus sitae, habentes fluvios <lb n="39"/>
+                    <placeName ref="#hyd24" xml:id="m-155r-033">hidaspem</placeName> et <placeName ref="#arb25" xml:id="m-155r-034">arbim</placeName>. Sunt enim inter <lb n="40"/>se finibus suis discretae, nomina</p>
+            </div>
+            </body>
+  </text>
+</TEI>

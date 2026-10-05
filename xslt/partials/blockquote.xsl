@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="xs"
+    version="2.0">
+    <xsl:template name="blockquote">
+        <xsl:param name="pageId" select="''"></xsl:param>
+        <xsl:param name="customUrl" select="$base_url"></xsl:param>
+        <xsl:variable name="fullUrl" select="concat($customUrl, $pageId)"/>
+        <div>
+            <h2 class="fs-5" data-i18n="common__cite">Zitiervorschlag</h2>
+            <blockquote class="blockquote fs-6">
+                <!-- TODO: Zitiervorschlag (Angaben, Jahr) wird später übernommen -->
+                <p>
+                    Maximilian Kruse (Bearb.): <xsl:value-of select="$project_title"/>. Digitale Edition. Universität Paderborn 2023 (<a href="{$fullUrl}"><xsl:value-of select="$fullUrl"/></a>).
+                </p>
+            </blockquote>
+        </div>
+    </xsl:template>
+</xsl:stylesheet>

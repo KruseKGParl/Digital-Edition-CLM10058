@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol154r.xml" next="fol154v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 154r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol154r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00311/full/full/0/default.jpg" n="bsb00112097_00311"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+            <pb n="fol. 154r" facs="#fol154r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>Capta in libro xiiii <lb n="2"/>i De terra <lb n="3"/>ii De orbe <lb n="4"/>iii De asia et
+               partibus <lb n="5"/>iiii De europa et partibus <lb n="6"/>v De libia et partibus <lb n="7"/>vi De
+               insulis <lb n="8"/>vii De promontorius <lb n="9"/>viii De montibus ceterifque locorum vocabulis
+               <lb n="10"/>viiii De inferioribus terrae</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>Incip lib xiiii <lb n="2"/>De terra I <lb n="3"/>Terra est in media <lb n="4"/>mundi regione
+               <lb n="5"/>posita, omnibus par<lb break="no" n="6"/>tibus caeli in modum <lb n="7"/>centri aequali
+                  in<lb break="no" n="8"/>tervallo consistens; <lb n="9"/>quae singulari numero totum <lb n="10"/>orbem
+               significat, plurali vero sin<lb break="no" n="11"/>gulas partes. cuius nomina di<lb break="no" n="12"/>versa dat ratio; Nam terra dicta <lb n="13"/>a superiori parte, qua teritur;
+               <lb n="14"/>humus ab inferiori vel humi<lb break="no" n="15"/>da terra, ut sub mari; Tellus
+               <lb n="16"/>autem, quia fructus eius tollimus; <lb n="17"/>Haec et ops dicta, eo quod opem fert
+               <lb n="18"/>frugibus; Eadem et arva, ab aran<lb break="no" n="19"/>do et colendo vocata. Proprie
+               autem <lb n="20"/>terra ad distinctionem aquae ari<lb break="no" n="21"/>da nuncupatur, sicut
+               scriptura <lb n="22"/>ait:quod vocaverit <persName ref="#got19" xml:id="m-154r-001">deus</persName> aridam ter<lb break="no" n="23"/>ram. Naturalis enim proprietas <lb n="24"/>siccitas est terris; Nam ut
+                  hu<lb break="no" n="25"/>mida sit, hoc aquarum affini<lb break="no" n="26"/>tate sortitur. Cuius
+               motum alii <lb n="27"/>dicunt ventum esse in concavis <lb n="28"/>eius, qui motus eam movet.
+                  <lb n="29"/>
+                    <persName ref="#sal1" xml:id="m-154r-002">Salustius</persName>: Venti per cava terrae <lb n="30"/>citatea
+               ruptis aliquot montes <lb n="31"/>tumulique sedere. Alii dicunt <lb n="32"/>aquam genetalem in
+               terris mo<lb break="no" n="33"/>veri, et eas simul concutere, sicut <lb n="34"/>vas, ut dicit
+                  <persName ref="#luk2" xml:id="m-154r-003">lucretius</persName>. Alii fran<lb break="no" n="35"/>gi eandem
+               terram volunt, cuius <lb n="36"/>plerumque latentes ruinae super<lb break="no" n="37"/>positae
+               cuncta concutiunt. Ter<lb break="no" n="38"/>rae quoque hiatus aut motu aquae
+               <lb n="39"/>inferioris fit, aut crebris tonitru<lb break="no" n="40"/>is, aut de concavis terrae
+               erumpentibus <lb n="41"/>ventis.</p> </div>
+            </body>
+  </text>
+</TEI>

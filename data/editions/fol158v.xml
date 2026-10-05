@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol158v.xml" prev="fol158r.xml" next="fol159r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 158v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol158v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00320/full/full/0/default.jpg" n="bsb00112097_00320"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 158v" facs="#fol158v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>duae sunt provinciae: <placeName ref="#boo164" xml:id="m-158v-001">boetia</placeName> et <placeName ref="#pel165" xml:id="m-158v-002">pelo<lb break="no" n="2"/>ponensis</placeName>. <placeName ref="#boo164" xml:id="m-158v-003">Boetia</placeName> autem dicta hac <lb n="3"/>ex causa. Dum <persName ref="#kad15" xml:id="m-158v-004">cathmus</persName> <persName ref="#age44" xml:id="m-158v-005">agenoris</persName> <lb n="4"/>filius <persName ref="#eur35" xml:id="m-158v-006">europam</persName> sororem a <persName ref="#jup37" xml:id="m-158v-007">iove</persName> <lb n="5"/>raptam ex praecepto genitoris que<lb break="no" n="6"/>reret nec repperiret, patris
+               iram <lb n="7"/>formidans confirmato animo <lb n="8"/>elegit exilium. Nam bovis forte
+               <lb n="9"/>conspectae secutus vestigia am<lb break="no" n="10"/>plexus est sedem, ubi illa
+                  recuba<lb break="no" n="11"/>verat, Sicque locum de nomine <lb n="12"/>bovis <placeName ref="#boo164" xml:id="m-158v-008">boetiam</placeName> nominavit; ubi <lb n="13"/>et <placeName ref="#the166" xml:id="m-158v-009">thebas</placeName> urbem construxit, in <lb n="14"/>qua olim civilia bella detonaue<lb break="no" n="15"/>rent, et ubi nati sunt <persName ref="#apo58" xml:id="m-158v-010">apollo</persName> et <lb n="16"/>
+                    <persName ref="#her59" xml:id="m-158v-011">hercules</persName> maior ille thebanus. <lb n="17"/>Eadem
+               est <placeName ref="#the166" xml:id="m-158v-012">eonia</placeName> vocata, a fonte quodam <lb n="18"/>
+                    <persName ref="#apo58" xml:id="m-158v-013">apollini</persName> et Musis consecrato, qui <lb n="19"/>in eadem boetia
+               est. <placeName ref="#pel165" xml:id="m-158v-014">Peleponensis</placeName> <lb n="20"/>vero secunda pars <placeName ref="#hel153" xml:id="m-158v-015">elladis</placeName> a <persName ref="#pel118" xml:id="m-158v-016">pelope</persName> rege <lb n="21"/>atticae vocata. <placeName ref="#the154" xml:id="m-158v-017">Thessalia</placeName> a <persName ref="#the117" xml:id="m-158v-018">thessa<lb break="no" n="22"/>lo</persName> rege cognominata, quae ad me<lb break="no" n="23"/>ridianam plagam
+                  <placeName ref="#mak140" xml:id="m-158v-019">macedoniae</placeName> <lb n="24"/>coniuncta est, cuius a tergo <placeName ref="#pir167" xml:id="m-158v-020">pieria</placeName> <lb n="25"/>est. Multa in <placeName ref="#the154" xml:id="m-158v-021">thessalia</placeName> flumina <lb n="26"/>et
+               oppida, inter quae praecipue <placeName ref="#the168" xml:id="m-158v-022">thessa<lb break="no" n="27"/>lonica</placeName>: Ibi est et mons <placeName ref="#par169" xml:id="m-158v-023">parnasus</placeName> <lb n="28"/>quondam <persName ref="#apo58" xml:id="m-158v-024">apollini</persName> consecratus. <lb n="29"/>
+                    <placeName ref="#the154" xml:id="m-158v-025">Thessalia</placeName> patria <persName ref="#ach48" xml:id="m-158v-026">achillis</persName> et origo <lb n="30"/>laphitarum fuit, De quibus fertur <lb n="31"/>quod hi
+               primo equos frenis domu<lb break="no" n="32"/>erunt, unde et centauri dicti sunt. <lb n="33"/>In
+                  <placeName ref="#the154" xml:id="m-158v-027">thessalia</placeName> primum solidi aurei fa<lb break="no" n="34"/>cti sunt, domandorum quoque equorum <lb n="35"/>usus primum repertus est.
+                  <lb n="36"/>
+                    <placeName ref="#mak140" xml:id="m-158v-028">Macedoniae</placeName> in exordio ab <persName ref="#ema60" xml:id="m-158v-029">emathio</persName> <lb n="37"/>rege <placeName ref="#mak140" xml:id="m-158v-030">emathiae</placeName> nomen erat, sed <persName ref="#mak61" xml:id="m-158v-031">ma<lb break="no" n="38"/>cedo</persName> <persName ref="#deu55" xml:id="m-158v-032">deucalionis</persName> maternus nepos, <lb n="39"/>postquam ibi
+               accepit principatum, <lb n="40"/>mutavit vocabulum <placeName ref="#mak140" xml:id="m-158v-033">Macedo<lb break="no" n="41"/>niamque</placeName> </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>a suo nomine dixit. Est autem <lb n="2"/>confinis ab oriente <placeName ref="#aga148" xml:id="m-158v-034">egeo mari</placeName>, <lb n="3"/>a meridie <placeName ref="#ach155" xml:id="m-158v-035">achaiae</placeName>, ab occasu <placeName ref="#dal151" xml:id="m-158v-036">dal<lb break="no" n="4"/>matiae</placeName>, a septentrione <placeName ref="#moe139" xml:id="m-158v-037">mesiae</placeName>; patria <lb n="5"/>
+                    <persName ref="#ale62" xml:id="m-158v-038">Alexandri magni</persName>, et regio aureis <lb n="6"/>venis argentique opima. Lapidem <lb n="7"/>quem piriten vocant ista gignit.
+                  <lb n="8"/>
+                    <placeName ref="#oly170" xml:id="m-158v-039">Mons olympus</placeName> in ea est, qui excellen<lb break="no" n="9"/>ti vertice tantus adtollitur ut <lb n="10"/>in cacumine eius nec nubes nec
+                  ven<lb break="no" n="11"/>ti sentiantur. <placeName ref="#ach155" xml:id="m-158v-040">Achaia</placeName> ab <persName ref="#ach63" xml:id="m-158v-041">acheo</persName> <lb n="12"/>rege et urbs et provincia appellata. <lb n="13"/>Haec pene insula est; Nam absque
+                  sep<lb break="no" n="14"/>tentrionali parte, qua <placeName ref="#mak140" xml:id="m-158v-042">macedo<lb break="no" n="15"/>niae</placeName> iungitur, undique septa est <lb n="16"/>
+                    <placeName ref="#mit4" xml:id="m-158v-043">mari</placeName>. Ab oriente enim habet <placeName ref="#myr172" xml:id="m-158v-044">mir<lb break="no" n="17"/>teum mare</placeName>, ab euro <placeName ref="#kre122" xml:id="m-158v-045">egeum</placeName>, a me<lb break="no" n="18"/>ridie <placeName ref="#ion173" xml:id="m-158v-046">ionicum</placeName>, ab <placeName ref="#afr3" xml:id="m-158v-047">africo</placeName> et occasu <lb n="19"/>
+                    <placeName ref="#kas174" xml:id="m-158v-048">cassiopas insulas</placeName>, a sola septentrio<lb break="no" n="20"/>nali parte <placeName ref="#mak140" xml:id="m-158v-049">macedoniae</placeName> vel <placeName ref="#att160" xml:id="m-158v-050">atticae</placeName> <lb n="21"/>terrae adiungitur. Huius caput est urbs <lb n="22"/>
+                    <placeName ref="#kor175" xml:id="m-158v-051">chorinthus</placeName> <placeName ref="#gri150" xml:id="m-158v-052">greciae</placeName> decus. <placeName ref="#ina176" xml:id="m-158v-053">Inachus</placeName> est <lb n="23"/>
+                    <placeName ref="#ina176" xml:id="m-158v-054">achaiae</placeName> fluvius. <placeName ref="#ark161" xml:id="m-158v-055">archadia</placeName> vero sinus <lb n="24"/>
+                    <placeName ref="#ach155" xml:id="m-158v-056">achaiae</placeName> est, ut platani folium inter <lb n="25"/>
+                    <placeName ref="#ion173" xml:id="m-158v-057">ionium</placeName> et <placeName ref="#aga148" xml:id="m-158v-058">egeum mare</placeName> exposita, <lb n="26"/>quam <persName ref="#ark64" xml:id="m-158v-059">archas</persName>, <persName ref="#jup37" xml:id="m-158v-060">iovis</persName> et <persName ref="#kal65" xml:id="m-158v-061">calistae</persName> filius, <lb n="27"/>pelasgis in deditionem redactis, <lb n="28"/>ex suo
+               nomine <placeName ref="#ark161" xml:id="m-158v-062">archadiam</placeName> nun<lb break="no" n="29"/>cupavit.
+               Ipsa est et <placeName ref="#ark161" xml:id="m-158v-063">sicionia</placeName>, a <persName ref="#sik66" xml:id="m-158v-064">sici<lb break="no" n="30"/>one</persName> rege, a quo et regnum sicioni<lb break="no" n="31"/>orum est dictum. Habet autem <lb n="32"/>
+                    <placeName ref="#ark161" xml:id="m-158v-065">archadia</placeName> fluvium magni <placeName ref="#eri178" xml:id="m-158v-066">erimantum</placeName>; <lb n="33"/>asbeston quoque
+               lapidem, qui semel <lb n="34"/>accensus numquam extinguitur: <lb n="35"/>Candidissimae etiam
+               merulae ibi <lb n="36"/>nascuntur. <placeName ref="#pan142" xml:id="m-158v-067">Pannonia</placeName> ab <placeName ref="#ape179" xml:id="m-158v-068">alpibus <lb n="37"/>appenninis</placeName> est nuncupata, quibus ab <lb n="38"/>
+                    <placeName ref="#ita180" xml:id="m-158v-069">italia</placeName> secernitur, regio fortis et solo <lb n="39"/>leta, duobus satis acribus fluviis, <lb n="40"/>dravo savoque, vallata. Coniungitur
+               autem</p>
+            </div>
+            </body>
+  </text>
+</TEI>

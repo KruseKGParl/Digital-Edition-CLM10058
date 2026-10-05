@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol162r.xml" prev="fol161v.xml" next="fol162v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 162r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol162r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00327/full/full/0/default.jpg" n="bsb00112097_00327"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 162r" facs="#fol162r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>cervis eget; lupos et vulpes aliaque <lb n="2"/>ferarum noxia nusquam gignit; Ser<lb break="no" n="3"/>pens nulla ibi, nulla noctua, et si <lb n="4"/>inveniatur, statim moritur.
+               Larga <lb n="5"/>est autem vitibus et arboribus: Dictan<lb break="no" n="6"/>nus herba in <placeName ref="#kre133" xml:id="m-162r-001">creta</placeName> nascitur et ali<lb break="no" n="7"/>mosa quae morsa diuturnam famem <lb n="8"/>prohibet.
+               Sfalongos autem venena<lb break="no" n="9"/>tos
+               gignit et lapidem qui ideus da<lb break="no" n="10"/>ctilis dicitur. <placeName ref="#aby272" xml:id="m-162r-002">Abidos</placeName> insula in <lb n="11"/>
+                    <placeName ref="#eur2" xml:id="m-162r-003">europa</placeName> super <placeName ref="#hel114" xml:id="m-162r-004">ellespontum</placeName> posita, an<lb break="no" n="12"/>gusto et periculoso mari
+               separata, <lb n="13"/>et <placeName ref="#aby272" xml:id="m-162r-005">abidos</placeName> grece dicta quod sit introitus <lb n="14"/>
+                    <placeName ref="#hel114" xml:id="m-162r-006">ellesponti maris</placeName>, in quo <persName ref="#xer120" xml:id="m-162r-007">xerses</persName> pon<lb break="no" n="15"/>tem ex navibus fecit,
+               et in <placeName ref="#gri150" xml:id="m-162r-008">greciam</placeName> transiit. <lb n="16"/>
+                    <placeName ref="#kos273" xml:id="m-162r-009">Coos</placeName> insula adiacens provinciae <placeName ref="#att160" xml:id="m-162r-010">atticae</placeName>, <lb n="17"/>in qua
+                  <persName ref="#hip80" xml:id="m-162r-011">ypocrates</persName> medicus natus est; <lb n="18"/>quae, ut
+                  <persName ref="#var81" xml:id="m-162r-012">varro</persName> testis est, arte lanifi<lb break="no" n="19"/>cii
+               prima in ornamentum feminarum <lb n="20"/>inclaruit. <placeName ref="#kyk156" xml:id="m-162r-013">Ciclades</placeName> insulae anti<lb break="no" n="21"/>quitus <placeName ref="#gri150" xml:id="m-162r-014">greciae</placeName> fuerunt, quas inde <lb n="22"/>
+                    <placeName ref="#kyk156" xml:id="m-162r-015">ciclades</placeName> autumant dictas quod, licet <lb n="23"/>spatiis longioribus a <placeName ref="#del274" xml:id="m-162r-016">delo</placeName> proiectae, <lb n="24"/>in orbem tamen circa <placeName ref="#del274" xml:id="m-162r-017">delum</placeName> sitae sint; <lb n="25"/>Nam orbem ciclon greci loquuntur. <lb n="26"/>Quidam vero non quod in orbem
+               digestae, sed prop<lb break="no" n="27"/>ter scopulos qui circa easdem sunt, <lb n="28"/>dictas
+               <placeName ref="#kyk156" xml:id="m-162r-018">ciclades</placeName> putant. Hae in <placeName ref="#hel114" xml:id="m-162r-019">el<lb break="no" n="29"/>lesponto</placeName> inter <placeName ref="#aga148" xml:id="m-162r-020">aegeum</placeName> et <placeName ref="#mal275" xml:id="m-162r-021">maleum <lb n="30"/>mare</placeName> constitutae circundantur <lb n="31"/>etiam mirteo pelago. Sunt autem <lb n="32"/>omnis numero
+               quinquaginta tres, <lb n="33"/>tendentes a septentrione in meri<lb break="no" n="34"/>diem per
+               milia quingenta, ab oriente <lb n="35"/>in occasum milia ducenta. Metro<lb break="no" n="36"/>polis
+               earum <placeName ref="#rho276" xml:id="m-162r-022">Rodus</placeName>. <placeName ref="#del274" xml:id="m-162r-023">Delos</placeName> insu<lb break="no" n="37"/>la in medio <placeName ref="#kyk156" xml:id="m-162r-024">cicladum</placeName> sita. et dicta <lb n="38"/>
+                    <placeName ref="#del274" xml:id="m-162r-025">delos</placeName> fertur, quod post diluvium, quod <lb n="39"/>
+                    <persName ref="#ogy82" xml:id="m-162r-026">ogigi</persName> temporibus notatur, cum orbem <lb n="40"/>multis mensibus continua nox in<lb break="no" n="41"/>umbrasset,
+            </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>ante omnes terras radiis solis illumina<lb break="no" n="2"/>ta est; sortitaque ex eo
+               nomen, quod prima <lb n="3"/>visibus manifestata fuisset ; Nam <lb n="4"/>
+                    <placeName ref="#del274" xml:id="m-162r-027">delon</placeName> greci manifestum dicunt. <lb n="5"/>Ipsa est et <placeName ref="#del274" xml:id="m-162r-028">ortigia</placeName>, eo quod ibi primum <lb n="6"/>visae sunt coturnices aves,
+               quas <lb n="7"/>greci ortigias vocant. In hac insu<lb break="no" n="8"/>la <persName ref="#lat83" xml:id="m-162r-029">laton</persName> enixa est <persName ref="#apo58" xml:id="m-162r-030">apollinem</persName> et <persName ref="#dia84" xml:id="m-162r-031">dianam</persName>. <lb n="9"/>
+                    <placeName ref="#del277" xml:id="m-162r-032">Delos</placeName> autem et civitas dicitur et insula. <lb n="10"/>
+                    <placeName ref="#rho278" xml:id="m-162r-033">Rodus</placeName> <placeName ref="#kyk156" xml:id="m-162r-034">cicladum</placeName> prima ab orien<lb break="no" n="11"/>te, in qua rosae capitulum
+               dicitur <lb n="12"/>esse inventum, dum ibi civitas <lb n="13"/>conderetur, ex quo et urbs et in<lb break="no" n="14"/>sula <placeName ref="#rho278" xml:id="m-162r-035">rodus</placeName> est appellata. In hac ur<lb break="no" n="15"/>be <persName ref="#sol85" xml:id="m-162r-036">solis</persName> colossus fuit aereus septu<lb break="no" n="16"/>aginta
+               cubitorum altitudine; Fue<lb break="no" n="17"/>runt et alii centum numero in ea<lb break="no" n="18"/>dem insula colossi minores. Fertur <lb n="19"/>autem quondam haec insula adeo
+                  mag<lb break="no" n="20"/>no terremotu fuisse concussa ut <lb n="21"/>labentibus in illa textis
+               ingens quoque <lb n="22"/>ille colossus rueret. <placeName ref="#ten279" xml:id="m-162r-037">Tenedos</placeName> una <lb n="23"/>ex <placeName ref="#kyk156" xml:id="m-162r-038">cicladibus</placeName> ad septentrione sita, <lb n="24"/>in qua olim civitas a quodam <persName ref="#ten86" xml:id="m-162r-039">tene</persName> <lb n="25"/>condita est. unde nomen urbis illius <lb n="26"/>vel potius insulae fuit; Nam <persName ref="#ten86" xml:id="m-162r-040">tenes</persName> <lb n="27"/>iste infamatus quod cum noverca sua <lb n="28"/>concubuisset, fugiens hanc insu<lb break="no" n="29"/>lam vacuam cultoribus obtinuit; <lb n="30"/>unde et <placeName ref="#ten279" xml:id="m-162r-041">tenedos</placeName> est dicta. Sic <persName ref="#cic87" xml:id="m-162r-042">cicero</persName>: <lb n="31"/>
+                    <persName ref="#ten86" xml:id="m-162r-043">Tenen</persName> ipsum, cuius ex nomine <placeName ref="#ten279" xml:id="m-162r-044">tene<lb break="no" n="32"/>dos</placeName> nominatam. <placeName ref="#kar280" xml:id="m-162r-045">Carpatos</placeName> una ex <lb n="33"/>
+                    <placeName ref="#kyk156" xml:id="m-162r-046">cicladibus</placeName> a meridie posita contra <lb n="34"/>
+                    <placeName ref="#agy42" xml:id="m-162r-047">aegyptum</placeName>; a qua <placeName ref="#kar271" xml:id="m-162r-048">capartium mare</placeName> ap<lb break="no" n="35"/>pellatum est, vocata propter celerem <lb n="36"/>fructuum
+               maturitatem. Est enim <lb n="37"/>inter <placeName ref="#agy42" xml:id="m-162r-049">aegyptum</placeName> et <placeName ref="#rho278" xml:id="m-162r-050">rodum</placeName>. Ex hac <lb n="38"/>insula dicuntur et
+               carpasiae naves, <lb n="39"/>magnae et spatiosae. <placeName ref="#kyr281" xml:id="m-162r-051">Cytherea</placeName> insu<lb break="no" n="40"/>la una ex
+               <placeName ref="#kyk156" xml:id="m-162r-052">cicladibus</placeName> a parte occidua</p>
+            </div>
+            </body>
+  </text>
+</TEI>

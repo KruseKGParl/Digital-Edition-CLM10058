@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol162v.xml" prev="fol162r.xml" next="fol163r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 162v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol162v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00328/full/full/0/default.jpg" n="bsb00112097_00328"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 162v" facs="#fol162v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>sita, cuius <placeName ref="#kyr281" xml:id="m-162v-001">porphiris</placeName> antea nomen <lb n="2"/>fuit. <placeName ref="#kyr281" xml:id="m-162v-002">Cytherea</placeName> autem vocata quod <lb n="3"/>ibi
+                  <persName ref="#ven78" xml:id="m-162v-003">venus</persName> sit orta. <placeName ref="#ika282" xml:id="m-162v-004">Icaria</placeName> insu<lb break="no" n="4"/>la
+               una de <placeName ref="#kyk156" xml:id="m-162v-005">cicladibus</placeName>, quae <placeName ref="#ika283" xml:id="m-162v-006">icario <lb n="5"/>mari</placeName> nomen dedit. Haec inter <lb n="6"/>
+                    <placeName ref="#sam284" xml:id="m-162v-007">samum</placeName> et <placeName ref="#myk285" xml:id="m-162v-008">miconum</placeName> procurrentibus <lb n="7"/>saxis inhospitalis est, et nullis <lb n="8"/>sinibus portuosa.
+               Dicitur autem <persName ref="#ika88" xml:id="m-162v-009">ica<lb break="no" n="9"/>rum cretensem</persName> ibi naufragio <lb n="10"/>interisse, et de exitu hominis <lb n="11"/>inpositum nomen loco. <placeName ref="#nax286" xml:id="m-162v-010">Naxon</placeName> <lb n="12"/>insula a <persName ref="#dio121" xml:id="m-162v-011">dyonisio</persName> dicta, quasi <lb n="13"/>
+                    <placeName ref="#nax286" xml:id="m-162v-012">dyonaxon</placeName>, quod fertilitate vitium <lb n="14"/>vincat ceteras. Est autem a <placeName ref="#del274" xml:id="m-162v-013">delo</placeName> <lb n="15"/>decem et octo
+               milia passuum separata, <lb n="16"/>ex qua olim <persName ref="#jup37" xml:id="m-162v-014">iovis</persName> fertur adversus <lb n="17"/>titanas fuisse profectus. <placeName ref="#mel287" xml:id="m-162v-015">Melos</placeName> ex <lb n="18"/>numero <placeName ref="#kyk156" xml:id="m-162v-016">cicladum</placeName>, una omnium <lb n="19"/>insularum rotundissima; unde <lb n="20"/>et nuncupata. Historia dicit <lb n="21"/>ex
+                  <persName ref="#ias119" xml:id="m-162v-017">iasone</persName> natum fuisse <persName ref="#phi89" xml:id="m-162v-018">filomelum</persName> <lb n="22"/>et <persName ref="#plu90" xml:id="m-162v-019">plutum</persName>, ex <persName ref="#phi89" xml:id="m-162v-020">filomelo</persName> <persName ref="#par91" xml:id="m-162v-021">pareantem</persName> <lb n="23"/>genitum, qui de suo nomine <placeName ref="#par288" xml:id="m-162v-022">pa<lb break="no" n="24"/>ron</placeName> insulam et oppidum appella<lb break="no" n="25"/>vit: Prius autem <placeName ref="#par288" xml:id="m-162v-023">minoia</placeName>, deinde <lb n="26"/>
+                    <placeName ref="#par288" xml:id="m-162v-024">paros</placeName> dicta. De qua <persName ref="#ver29" xml:id="m-162v-025">virgilius</persName>: <lb n="27"/>Niveumque <placeName ref="#par288" xml:id="m-162v-026">paron</placeName>. Gignit enim <lb n="28"/>marmor candidissimum, quod parium <lb n="29"/>dicunt.
+               Mittit et sardem lapidem <lb n="30"/>marmoribus quidem prestantiorum, <lb n="31"/>sed inter gemmas
+               vilissimum. <placeName ref="#chi289" xml:id="m-162v-027">Chion</placeName> <lb n="32"/>insula syra lingua appellatur <lb n="33"/>eo quod ibi mastix
+               gignitur; Syri <lb n="34"/>enim masticem chio vocant. <placeName ref="#sam284" xml:id="m-162v-028">Samo</placeName> <lb n="35"/>insula est in <placeName ref="#aga148" xml:id="m-162v-029">mari egeo</placeName>, ubi na<lb break="no" n="36"/>ta est <persName ref="#jun92" xml:id="m-162v-030">iuno</persName>; ex qua fuit <persName ref="#sib93" xml:id="m-162v-031">sibilla <lb n="37"/>samia</persName> et <persName ref="#pyt94" xml:id="m-162v-032">pytagoras samius</persName>, a quo <lb n="38"/>phylosophiae nomen inventum est. <lb n="39"/>In
+               hac insula reperta prius fictilia <lb n="40"/>vasa traduntur; unde et vasa sa<lb break="no" n="41"/>mia</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>appellata sunt. <placeName ref="#siz127" xml:id="m-162v-033">Sicilia</placeName> a <persName ref="#sik95" xml:id="m-162v-034">sicano</persName> <lb n="2"/>rege <placeName ref="#siz127" xml:id="m-162v-035">sicania</placeName> cognominata est, <lb n="3"/>deinde a <persName ref="#sik96" xml:id="m-162v-036">siculo</persName> <persName ref="#ita68" xml:id="m-162v-037">itali</persName> fratre <placeName ref="#siz127" xml:id="m-162v-038">sicilia</placeName>. <lb n="4"/>Prius autem <placeName ref="#siz127" xml:id="m-162v-039">trinacria</placeName> dicta propter <lb n="5"/>tria acra, id est promontoria: <placeName ref="#pel290" xml:id="m-162v-040">pelorum</placeName>, <lb n="6"/>
+                    <placeName ref="#pac291" xml:id="m-162v-041">pachinum</placeName> et <placeName ref="#lil292" xml:id="m-162v-042">libeumi</placeName>. Trinacria <lb n="7"/>enim grecum est, quod latine triqua<lb break="no" n="8"/>dra dicitur, quasi
+               in tres quadras <lb n="9"/>divisa. Haec ab <placeName ref="#ita180" xml:id="m-162v-043">italia</placeName> exiguo fre<lb break="no" n="10"/>to discreta,
+               <placeName ref="#afr312" xml:id="m-162v-044">africum mare</placeName> prospec<lb break="no" n="11"/>tans, terris frugifera, auro ha<lb break="no" n="12"/>bundans, cavernis tamen et fistu<lb break="no" n="13"/>lis penetrabilis, ventisque et
+                  sulphu<lb break="no" n="14"/>re plena; unde et ibi <placeName ref="#atn128" xml:id="m-162v-045">ethnae</placeName> montis <lb n="15"/>extant incendia. In
+               cuius freto scilla <lb n="16"/>est et caribdis, quibus navigia aut <lb n="17"/>absorbentur aut
+               colliduntur. Fuit <lb n="18"/>autem quondam patria ciclopum, <lb n="19"/>et postea nutrix
+               tyrannorum; <lb n="20"/>frugum fertilis, ac primum terris omni<lb break="no" n="21"/>bus commissis
+               seminibus aratro proscissa. <lb n="22"/>Principem urbium <placeName ref="#syr293" xml:id="m-162v-046">syracusim</placeName> habet, <lb n="23"/>et fontem
+               <placeName ref="#are294" xml:id="m-162v-047">aretusam</placeName> et <placeName ref="#alp295" xml:id="m-162v-048">alfeiam</placeName> fluvium <lb n="24"/>magnorum generatorem equorum. <lb n="25"/>In ea insula
+               primum est inventa come<lb break="no" n="26"/>dia. Agatem lapidem ipsa primum <lb n="27"/>ex achate
+               flumine dedit. Parturit <lb n="28"/>et mare eius corallium; Gignit et sales
+               <lb n="29"/>agrigentinos in igne solubiles, <lb n="30"/>crepitantes in aquis. Omnis ambitus
+               <lb n="31"/>eius clauditur stadiorum tribus milium. <lb n="32"/>
+                    <persName ref="#sal1" xml:id="m-162v-049">Salustius</persName> autem dicit <placeName ref="#ita180" xml:id="m-162v-050">italiae</placeName> coniun<lb break="no" n="33"/>ctam fuisse
+               <placeName ref="#siz127" xml:id="m-162v-051">Siciliam</placeName> sed medium <lb n="34"/>spatium impetu maris divisum <lb n="35"/>et per angustiam scissum.
+               <placeName ref="#tha297" xml:id="m-162v-052">Tapson</placeName> <lb n="36"/>insula stadiis decem a <placeName ref="#siz127" xml:id="m-162v-053">sicilia</placeName> re<lb break="no" n="37"/>mota iacens et planior,
+               unde et <lb n="38"/>nuncupata. De qua <persName ref="#ver29" xml:id="m-162v-054">vergilius</persName>: <placeName ref="#tha297" xml:id="m-162v-055">Tapsumque</placeName> <lb n="39"/>iacentem. <placeName ref="#aol298" xml:id="m-162v-056">Eoliae insulae</placeName> <placeName ref="#siz127" xml:id="m-162v-057">siciliae</placeName> <lb n="40"/>appellatae ab <persName ref="#aeo97" xml:id="m-162v-058">eolo</persName> <persName ref="#hip98" xml:id="m-162v-059">ipotae</persName> filio, quem</p>
+            </div>
+            </body>
+  </text>
+</TEI>

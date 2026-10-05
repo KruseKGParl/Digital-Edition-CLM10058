@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol161r.xml" prev="fol160v.xml" next="fol161v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 161r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol161r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00325/full/full/0/default.jpg" n="bsb00112097_00325"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 161r" facs="#fol161r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>Insulae dictae De insulis. vi <lb n="2"/>quod in salo sint, id est in mari. Ex his
+               <lb n="3"/>quoque notissimae et maxime, quas <lb n="4"/>plurimi veterum sollerti studio
+               <lb n="5"/>indagaverunt, notandae sunt. <lb n="6"/>
+                    <placeName ref="#bri250" xml:id="m-161r-001">Britannia</placeName> occeani insula interfuso <lb n="7"/>mari toto orbe diffisa, a vocabu<lb break="no" n="8"/>lo suae
+               gentis cognominita est. Haec <lb n="9"/>adversa <placeName ref="#gal132" xml:id="m-161r-002">galliarum</placeName> parte ad prospe<lb break="no" n="10"/>ctum <placeName ref="#his134" xml:id="m-161r-003">ispaniae</placeName> sita est; circuitus eius <lb n="11"/>quadragies octies
+               septuaginta quinque <lb n="12"/>milia; Multa et magna flumina <lb n="13"/>in ea, fontes calidi,
+               metallorum <lb n="14"/>larga et varia copia: Gagates lapis ibi <lb n="15"/>plurimus et margaritae.
+                  <placeName ref="#tha251" xml:id="m-161r-004">Tanatos</placeName> <lb n="16"/>insula <placeName ref="#arm252" xml:id="m-161r-005">occeani freto gallico</placeName>, a <placeName ref="#bri250" xml:id="m-161r-006">bri<lb break="no" n="17"/>tannia</placeName> est urario tenui separata, <lb n="18"/>frumentariis campis et gleba ubi. <lb n="19"/>Dicta autem <placeName ref="#tha251" xml:id="m-161r-007">tanatos</placeName> a morte serpen<lb break="no" n="20"/>tum, quos dum ipsa nesciat,
+                  aspor<lb break="no" n="21"/>tata inde terra quocunque gentium <lb n="22"/>vecta sit, angues
+               ilico perimit. <lb n="23"/>
+                    <placeName ref="#thu253" xml:id="m-161r-008">Tyle</placeName> ultima insula occeani inter <lb n="24"/>septentrionalem et occidentalem <lb n="25"/>plagam ultra <placeName ref="#bri250" xml:id="m-161r-009">britanniam</placeName>, a sole <lb n="26"/>nomen habens, quia in ea estivum solstitium
+               <lb n="27"/>sol facit, et continuus in ea solsti<lb break="no" n="28"/>tiali tempore dies brumali
+               que nex <lb n="29"/>perhennis exigit. Ultra quam navi<lb break="no" n="30"/>gatione unius diei et
+               pigrum et <lb n="31"/>concretum est mare. <placeName ref="#ork254" xml:id="m-161r-010">Orcades</placeName> in<lb break="no" n="32"/>sulae occeani intra <placeName ref="#bri250" xml:id="m-161r-011">britanniam</placeName> <lb n="33"/>positae numero triginta tres, quarum <lb n="34"/>viginti desertae sunt, tredecim
+               coluntur. <lb n="35"/>
+                    <placeName ref="#sco256" xml:id="m-161r-012">Scotia</placeName> eadem et <placeName ref="#hib257" xml:id="m-161r-013">hibernia</placeName> proxima <lb n="36"/>
+                    <placeName ref="#bri250" xml:id="m-161r-014">britanniae</placeName> insula, spatio terrarum <lb n="37"/>angustior, sed situ
+               fecundior. Haec <lb n="38"/>ab <placeName ref="#afr3" xml:id="m-161r-015">africo</placeName> in boream porrigitur. <lb n="39"/>cuius partes priores <placeName ref="#hib257" xml:id="m-161r-016">hiberiam</placeName> <lb n="40"/>et <placeName ref="#kan258" xml:id="m-161r-017">cantabricum occeanum</placeName> intendunt,</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>unde et <placeName ref="#hib257" xml:id="m-161r-018">hibernia</placeName> dicta: <placeName ref="#sco256" xml:id="m-161r-019">Scotia</placeName> autem, <lb n="2"/>ab scotorum gentibus creditur,
+               appellata. <lb n="3"/>Illic nulla anguis, avis rara, apis <lb n="4"/>nulla, adeo ut advectos inde
+                  pul<lb break="no" n="5"/>veres ulla lapillos si quis alibi sparse<lb break="no" n="6"/>rit
+               inter alvearia, examina favos <lb n="7"/>deserant. <placeName ref="#gad260" xml:id="m-161r-020">Gadis insula</placeName> in fine <lb n="8"/>
+                    <placeName ref="#bae206" xml:id="m-161r-021">beticae</placeName> provinciae sita, quae dirimit <lb n="9"/>
+                    <placeName ref="#eur2" xml:id="m-161r-022">europam</placeName> ab <placeName ref="#afr3" xml:id="m-161r-023">africa</placeName>, in qua <placeName ref="#sau259" xml:id="m-161r-024">herculis <lb n="10"/>columpnae </placeName> visuntur, et unde <placeName ref="#tyr181" xml:id="m-161r-025">tir<lb break="no" n="11"/>reni maris</placeName> faucibus occeani aestus <lb n="12"/>inmittitur. Est autem a continenti <lb n="13"/>terra centum viginti passibus di<lb break="no" n="14"/>visa, quam tyri a <placeName ref="#rot28" xml:id="m-161r-026">rubro mari</placeName> profe<lb break="no" n="15"/>cti occupantes lingua sua <placeName ref="#gad260" xml:id="m-161r-027">gadis</placeName>, <lb n="16"/>id est septam, nominaverunt, pro eo <lb n="17"/>quod circunsepta
+               sit mari. Nascitur <lb n="18"/>in ea arbor similis palmae, cuius <lb n="19"/>gummis infectum vitrum
+               ceraunium <lb n="20"/>gemmam reddit. <placeName ref="#ins261" xml:id="m-161r-028">Fortunatarum insu<lb break="no" n="21"/>lae</placeName> vocabulo suo significant omnia <lb n="22"/>ferre bona,
+               quasi felices et beatae <lb n="23"/>fructuum ubertate. Sua enim aptae <lb n="24"/>natura
+               pretiosarum poma silva<lb break="no" n="25"/>rum parturiunt; fortuitis vitibus <lb n="26"/>iuga
+               collium vestiuntur; ad her<lb break="no" n="27"/>barum vicem messis et holus vul<lb break="no" n="28"/>go est. Unde gentilium error et secu<lb break="no" n="29"/>larium carmina
+               poetarum propter <lb n="30"/>soli fecunditatem easdem esse <placeName ref="#par7" xml:id="m-161r-029">parady<lb break="no" n="31"/>sum</placeName> putaverunt.Harum prima <lb n="32"/>membriona dicitur sedea
+               iuniona, tercia <lb n="33"/>theode quarta capraria, alia niva<lb break="no" n="34"/>ria quae aere
+               nebuloso et concreto <lb n="35"/>est max caninaria, canibus immensae <lb n="36"/>magnitdudinis
+               plena. Omnis auibus <lb n="37"/>plenae, nemorosae, palmiserae, nuceae, <lb n="38"/>pineae, mellis
+               copia animalibus que <lb n="39"/>siluestribus ac piscibus habundantes. <lb n="40"/>Sitae sunt autem
+               in occeano contra levam</p>
+            </div>
+           </body>
+  </text>
+</TEI>

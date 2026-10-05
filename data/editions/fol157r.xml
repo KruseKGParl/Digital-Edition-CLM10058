@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol157r.xml" prev="fol156v.xml" next="fol157v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 157r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol157r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00317/full/full/0/default.jpg" n="bsb00112097_00317"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 157r" facs="#fol157r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>usque ad <placeName ref="#mao80" xml:id="m-157r-001">meotidas paludes</placeName> per deserta <lb n="2"/>et inculta extenditur. Huic terrae <lb n="3"/>canes ingentes sunt, tantaeque ferita<lb break="no" n="4"/>tis ut tauros premant, leones perimant. <lb n="5"/>
+                    <placeName ref="#arm31" xml:id="m-157r-002">Armenia</placeName> vocata ab <persName ref="#arm30" xml:id="m-157r-003">armeno</persName> <persName ref="#jas31" xml:id="m-157r-004">iasonis</persName> <lb n="6"/>thessali comite, qui amisso rege <lb n="7"/>
+                    <persName ref="#jas31" xml:id="m-157r-005">iasone</persName> collecta multitudine eius, <lb n="8"/>quae passim vagabatur, <placeName ref="#arm31" xml:id="m-157r-006">armeniam</placeName> <lb n="9"/>cepit, et ex suo nomine nuncupavit. Sita <lb n="10"/>est autem inter <placeName ref="#tau35" xml:id="m-157r-007">taurum</placeName> et <placeName ref="#kau10" xml:id="m-157r-008">caucasum</placeName> <lb n="11"/>a <placeName ref="#kap43" xml:id="m-157r-009">capadocia</placeName> usque ad <placeName ref="#kas29" xml:id="m-157r-010">caspium mare</placeName> pro<lb break="no" n="12"/>tensa, habens a septentrione
+                  <placeName ref="#ker91" xml:id="m-157r-011">cerau<lb break="no" n="13"/>nios montes</placeName>, ex quorum collibus <placeName ref="#tig23" xml:id="m-157r-012">tigris <lb n="14"/>fluvius</placeName> nascitur, et in cuius montibus <lb n="15"/>archa post diluvium sedisse perhibetur. <lb n="16"/>Duplex est autem
+                  <placeName ref="#arm31" xml:id="m-157r-013">armenia</placeName>, superior <lb n="17"/>et inferior, sicut duae
+               pannoniae. <lb n="18"/>
+                    <placeName ref="#hib89" xml:id="m-157r-014">Hiberia</placeName> regio est <placeName ref="#asi1" xml:id="m-157r-015">asiae</placeName> est, prope <placeName ref="#sch74" xml:id="m-157r-016">pontum</placeName> <lb n="19"/>
+                    <placeName ref="#arm31" xml:id="m-157r-017">armeniae</placeName> iuncta. In hac herbae tin<lb break="no" n="20"/>cturae utiles nascuntur. <placeName ref="#kap43" xml:id="m-157r-018">Cappado<lb break="no" n="21"/>ciam</placeName> urbs propria nominavit. Haec <lb n="22"/>in capite <placeName ref="#syr41" xml:id="m-157r-019">syriae</placeName> sita ab oriente <placeName ref="#arm31" xml:id="m-157r-020">ar<lb break="no" n="23"/>meniam</placeName> tangit, ab occasu <placeName ref="#kle93" xml:id="m-157r-021">asiam <lb n="24"/>minorem</placeName>, ab aquilone mare <placeName ref="#kim94" xml:id="m-157r-022">cyme<lb break="no" n="25"/>ricum</placeName> et <placeName ref="#the95" xml:id="m-157r-023">themiscerios campos</placeName>, quos <lb n="26"/>habuere amazones; a meridie vero <lb n="27"/>
+                    <placeName ref="#tau35" xml:id="m-157r-024">taurum montem</placeName>, cui subiacet <placeName ref="#kil96" xml:id="m-157r-025">ci<lb break="no" n="28"/>licia</placeName> et <placeName ref="#isa97" xml:id="m-157r-026">isauria</placeName> usque ad <placeName ref="#kil98" xml:id="m-157r-027">cilicium sinum</placeName>, <lb n="29"/>qui spectat contra
+               insulam <placeName ref="#zyp99" xml:id="m-157r-028">cyprum</placeName>. <lb n="30"/>Terra eius ante alias nutrix
+               equorum. <lb n="31"/>
+                    <placeName ref="#hal100" xml:id="m-157r-029">Elis</placeName> amnis per eam fluit, qui quondam <lb n="32"/>lidiae regna disiunxit a persis. <lb n="33"/>
+                    <placeName ref="#kle93" xml:id="m-157r-030">Asia minor</placeName> ab oriente <placeName ref="#kap43" xml:id="m-157r-031">capadocia</placeName> <lb n="34"/>cingitur, ab aliis partibus undique <lb n="35"/>mare circumdatur; Nam a septentr<lb break="no" n="36"/>ione <placeName ref="#sch74" xml:id="m-157r-032">pontum</placeName> euxinum habet, ab occasu <lb n="37"/>
+                    <placeName ref="#pro101" xml:id="m-157r-033">propontidem</placeName>, a meridie egeum <placeName ref="#mit4" xml:id="m-157r-034">Aegyptium</placeName> <lb n="38"/>mare. Habet provincias <placeName ref="#bit102" xml:id="m-157r-035">bithyniam</placeName>, <lb n="39"/>
+                    <placeName ref="#phr103" xml:id="m-157r-036">frigiam</placeName>, <placeName ref="#gal104" xml:id="m-157r-037">galatiam</placeName>, <placeName ref="#lyd105" xml:id="m-157r-038">liddiam</placeName>, <placeName ref="#kar106" xml:id="m-157r-039">cariam</placeName>, <lb n="40"/>
+                    <placeName ref="#pam107" xml:id="m-157r-040">pamphiliam</placeName>, <placeName ref="#isa97" xml:id="m-157r-041">isauriam</placeName>, <placeName ref="#lyk108" xml:id="m-157r-042">lichiam</placeName> atque <lb n="41"/>
+                    <placeName ref="#kil96" xml:id="m-157r-043">ciliciam</placeName>. </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>Prima <placeName ref="#kle93" xml:id="m-157r-044">Asiae minoris</placeName> <placeName ref="#bit102" xml:id="m-157r-045">bithinia</placeName> in <lb n="2"/>
+                    <placeName ref="#sch74" xml:id="m-157r-046">ponti</placeName> exordio ad partem solis orien<lb break="no" n="3"/>tis adversa
+                  <placeName ref="#thr109" xml:id="m-157r-047">traciae</placeName> iacet, multis <lb n="4"/>antea nominibus
+               appellata. Nam <lb n="5"/>prius <placeName ref="#bit102" xml:id="m-157r-048">bibrtia</placeName> dicta, deinde <placeName ref="#bit102" xml:id="m-157r-049">migdo<lb break="no" n="6"/>nia</placeName>, mox a <persName ref="#bit32" xml:id="m-157r-050">bithinio</persName> rege <placeName ref="#bit102" xml:id="m-157r-051">bithinia</placeName> <lb n="7"/>nuncupata est. Ipsa est et <placeName ref="#phr103" xml:id="m-157r-052">maior fri<lb break="no" n="8"/>gia</placeName>. <placeName ref="#nik110" xml:id="m-157r-053">Nichomedia</placeName> urbs in ea est, <lb n="9"/>ubi <persName ref="#han33" xml:id="m-157r-054">hannibal</persName> fugiens veneni hau<lb break="no" n="10"/>stu animam expiravit. <placeName ref="#gal104" xml:id="m-157r-055">Galatia</placeName> <lb n="11"/>dicta a priscis gallorum gentibus, a <lb n="12"/>quibus extitit occupata. Nam galli
+               <lb n="13"/>in auxilium a rege bithiniae evo<lb break="no" n="14"/>cati, regnum cum eo parta vic<lb break="no" n="15"/>toria diviserunt, Sicque deinde <lb n="16"/>grecis admixti primum gallogreci,
+               <lb n="17"/>nunc ex antiquo gallorum nomine <lb n="18"/>galatae dicuntur; et eorum regio ga<lb break="no" n="19"/>latia nuncupatur. <placeName ref="#phr103" xml:id="m-157r-056">Frigia</placeName> dicta <lb n="20"/>a <persName ref="#phr34" xml:id="m-157r-057">frigia</persName> <persName ref="#eur35" xml:id="m-157r-058">europis</persName> filia. Haec et <placeName ref="#phr103" xml:id="m-157r-059">dar<lb break="no" n="21"/>dania</placeName> a <persName ref="#dar36" xml:id="m-157r-060">dardano</persName> <persName ref="#jup37" xml:id="m-157r-061">iovis</persName> filio dicta. <lb n="22"/>de quo <persName ref="#hom38" xml:id="m-157r-062">omerus</persName> ait: Quem primum ge<lb break="no" n="23"/>nuit caelesti
+                  <persName ref="#jup37" xml:id="m-157r-063">iupiter</persName> arce.Hic enim <lb n="24"/>profectus de
+                  <placeName ref="#kor111" xml:id="m-157r-064">chorinto</placeName> civitate primus <lb n="25"/>venit in
+                  <placeName ref="#phr103" xml:id="m-157r-065">frigiam</placeName>. Est autem regio <lb n="26"/>
+                    <placeName ref="#tro112" xml:id="m-157r-066">troadi</placeName> superiecta ab aquilonis par<lb break="no" n="27"/>te
+                  <placeName ref="#gal104" xml:id="m-157r-067">galatiae</placeName> est; a meridiana vicina <lb n="28"/>est
+                  <placeName ref="#lyk113" xml:id="m-157r-068">licaoniae</placeName>; ab oriente <placeName ref="#lyd105" xml:id="m-157r-069">liddiae</placeName> <lb n="29"/>adheret; ab occidente <placeName ref="#hel114" xml:id="m-157r-070">ellesponto</placeName> <lb n="30"/>mari terminatur. Huius regio <placeName ref="#tro112" xml:id="m-157r-071">troia</placeName> <lb n="31"/>est, quam ex suo nomine appella<lb break="no" n="32"/>vit <persName ref="#tro39" xml:id="m-157r-072">tros</persName>, troianorum rex, <persName ref="#gan40" xml:id="m-157r-073">ganimedis</persName> <lb n="33"/>pater. Duae sunt autem <placeName ref="#phr103" xml:id="m-157r-074">frigiae</placeName>: <lb n="34"/>maior
+               et minor. <placeName ref="#phr103" xml:id="m-157r-075">Maior frigia</placeName> <placeName ref="#smy115" xml:id="m-157r-076">zmirnam</placeName> <lb n="35"/>habet, minor vero <placeName ref="#tro116" xml:id="m-157r-077">ilium</placeName>. <placeName ref="#lyk113" xml:id="m-157r-078">licaoniam</placeName> <lb n="36"/>
+                    <placeName ref="#kar106" xml:id="m-157r-079">Cariam</placeName> <placeName ref="#her117" xml:id="m-157r-080">ermus</placeName> fluvius discernit a <lb n="37"/>
+                    <placeName ref="#phr103" xml:id="m-157r-081">frigia</placeName>. <placeName ref="#lyd105" xml:id="m-157r-082">Liddia</placeName> sedes antiqua <lb n="38"/>regnorum, quam pactuli unda <lb n="39"/>extulit in divitias torrentibus
+               <lb n="40"/>aureis. Haec antea <placeName ref="#lyd105" xml:id="m-157r-083">meonia</placeName> dicebatur,</p>
+            </div>
+            </body>
+  </text>
+</TEI>

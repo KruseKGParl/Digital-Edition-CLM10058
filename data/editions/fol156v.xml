@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol156v.xml" prev="fol156r.xml" next="fol157r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 156v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol156v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00316/full/full/0/default.jpg" n="bsb00112097_00316"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 156v" facs="#fol156v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>quasi adhuc ardeant. <placeName ref="#nab67" xml:id="m-156v-001">Nabathea</placeName> <lb n="2"/>regio a <persName ref="#nab21" xml:id="m-156v-002">nabeth</persName> filio <persName ref="#ism22" xml:id="m-156v-003">ismael</persName> nun<lb break="no" n="3"/>cupata. Iacet autem inter <placeName ref="#jud47" xml:id="m-156v-004">iudeam</placeName> <lb n="4"/>et <placeName ref="#ara38" xml:id="m-156v-005">arabiam</placeName>, et surgens ab <placeName ref="#euf34" xml:id="m-156v-006">eufrata</placeName> <lb n="5"/>in <placeName ref="#rot28" xml:id="m-156v-007">mare rubrum</placeName> porrigitur, <lb n="6"/>et est pars
+                  <placeName ref="#ara38" xml:id="m-156v-008">arabiae</placeName>. <placeName ref="#agy42" xml:id="m-156v-009">Aegyptus</placeName>, quea <lb n="7"/>prius <placeName ref="#agy42" xml:id="m-156v-010">aerea</placeName> dicebatur, ab <persName ref="#agy23" xml:id="m-156v-011">aegypto</persName> <lb n="8"/>
+                    <persName ref="#dan24" xml:id="m-156v-012">danai</persName> fratre postea ibi regnante no<lb break="no" n="9"/>men accepit. Haec ab oriente <placeName ref="#syr41" xml:id="m-156v-013">syriae</placeName> <lb n="10"/>ac <placeName ref="#rot28" xml:id="m-156v-014">rubro mari</placeName> coniuncta, ab oc<lb break="no" n="11"/>casu <placeName ref="#afr3" xml:id="m-156v-015">libiam</placeName> habet, a septentrione <lb n="12"/>
+                    <placeName ref="#mit4" xml:id="m-156v-016">mare magnum</placeName>, a meridie vero intror<lb break="no" n="13"/>sus recedit, pertendens usque ad <placeName ref="#ath69" xml:id="m-156v-017">ethi<lb break="no" n="14"/>opes</placeName>; regio caeli imbribus insueta <lb n="15"/>et pluviarum
+               ignara. <placeName ref="#nil70" xml:id="m-156v-018">Nilus</placeName> solus <lb n="16"/>eam circumfluens
+               inrigat, et in<lb break="no" n="17"/>undatione sua fecundat; Unde <lb n="18"/>et ferax frugibus
+               multam partem <lb n="19"/>terrarum frumento alit; ceterorum <lb n="20"/>quoque negotiorum adeo
+               copiosa ut <lb n="21"/>impleat necessariis mercibus etiam <lb n="22"/>orbem terrarum. Finis
+                  <placeName ref="#agy42" xml:id="m-156v-019">aegypti</placeName> <lb n="23"/>
+                    <placeName ref="#kan71" xml:id="m-156v-020">canopia</placeName> a <persName ref="#kan25" xml:id="m-156v-021">canope</persName> <persName ref="#men26" xml:id="m-156v-022">menelai</persName> guber<lb break="no" n="24"/>natore, sepulto in ea
+               insula quae <lb n="25"/>
+                    <placeName ref="#afr3" xml:id="m-156v-023">libie</placeName> principium et <placeName ref="#nil70" xml:id="m-156v-024">ostium nili</placeName> facit. <lb n="26"/>
+                    <placeName ref="#ser72" xml:id="m-156v-025">Seres</placeName> oppidum orientis, a quo et <lb n="27"/>genus sericum et regio
+               nuncupata est. <lb n="28"/>Haec ab <placeName ref="#sch74" xml:id="m-156v-026">scitico occeano</placeName> et <placeName ref="#kas29" xml:id="m-156v-027">mari caspio</placeName> <lb n="29"/>ad occeanum orientalem inflectitur, <lb n="30"/>nobilibus frondibus fertilis, e
+               quibus <lb n="31"/>vellera decerpuntur, quae ceterarum <lb n="32"/>gentium populis seres ad usum
+               vestium <lb n="33"/>vendunt. <placeName ref="#bak75" xml:id="m-156v-028">Bactriae</placeName> regionis proprius <lb n="34"/>amnis <placeName ref="#bak76" xml:id="m-156v-029">bactrus</placeName> vocabulum dedit. <lb n="35"/>Partes
+               eius quae plane sunt <placeName ref="#kam77" xml:id="m-156v-030">propanisi <lb n="36"/>montis</placeName> ambiuntur, quae ad<lb break="no" n="37"/>versae sunt <placeName ref="#ind9" xml:id="m-156v-031">indi fluvii</placeName> fontibus <lb n="38"/>terminantur; Reliyqua includit <lb n="39"/>
+                    <placeName ref="#oxu78" xml:id="m-156v-032">occus</placeName> fluvius. Mittit <placeName ref="#bak75" xml:id="m-156v-033">bactria</placeName> for<lb break="no" n="40"/>tissimos camelos numquam atterentes pe<lb break="no" n="41"/>dem.</p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>
+                    <placeName ref="#sky27" xml:id="m-156v-034">Scithia</placeName> sicut et <placeName ref="#lan79" xml:id="m-156v-035">gotia</placeName> a <persName ref="#mag27" xml:id="m-156v-036">magog</persName> filio <lb n="2"/>
+                    <persName ref="#jap28" xml:id="m-156v-037">iafet</persName> fertur cognominata. cuius <lb n="3"/>terra olim ingens
+               fuit; Nam ab <lb n="4"/>oriente <placeName ref="#ind8" xml:id="m-156v-038">indiae</placeName>, a septentrione per <lb n="5"/>
+                    <placeName ref="#mao80" xml:id="m-156v-039">paludes meotidas</placeName> inter <placeName ref="#don81" xml:id="m-156v-040">danubium</placeName> <lb n="6"/>et occeanum usque ad <placeName ref="#ger82" xml:id="m-156v-041">germaniae</placeName> <lb n="7"/>fines porrigebatur. Postea vero <lb n="8"/>minor effecta, a dextra orientis
+               <lb n="9"/>parte, qua <placeName ref="#ser83" xml:id="m-156v-042">occeanus sericus</placeName> tenditur, <lb n="10"/>usque ad <placeName ref="#kas29" xml:id="m-156v-043">mare caspium</placeName>, quod est ad oc<lb break="no" n="11"/>casum; dehinc a meridie usque <lb n="12"/>ad <placeName ref="#kau10" xml:id="m-156v-044">caucasi</placeName> iugum deducta est, <lb n="13"/>cui <placeName ref="#kas29" xml:id="m-156v-045">subiacet hircania</placeName> ab occasu <lb n="14"/>habens pariter gentes multas, propter
+               <lb n="15"/>terrarum infecunditatem late vagan<lb break="no" n="16"/>tes. Ex quibus quaedam agros
+               incolunt, <lb n="17"/>quaedam portentuosae ac truces <lb n="18"/>carnibus humanis et eorum
+                  sangui<lb break="no" n="19"/>ne vivunt. <placeName ref="#sky27" xml:id="m-156v-046">Scithiae</placeName> plures terrae <lb n="20"/>sunt locupletes, inhabitabiles <lb n="21"/>tamen plures; nam dum in
+               plerisque <lb n="22"/>locis auro et gemmis affluant, gri<lb break="no" n="23"/>forum inmanitate
+               accessus hominum <lb n="24"/>rarus est. Zmaragdis autem optima <lb n="25"/>haec patria est: Cianeus
+               quoque lapis <lb n="26"/>et cristallus purissimus <placeName ref="#sky27" xml:id="m-156v-047">scithie</placeName> est. <lb n="27"/>Habet et flumina <placeName ref="#mos84" xml:id="m-156v-048">magna oscorum</placeName>, <lb n="28"/>
+                    <placeName ref="#pha85" xml:id="m-156v-049">fasiden</placeName> atque <placeName ref="#ara86" xml:id="m-156v-050">araxem</placeName>. <placeName ref="#hyr87" xml:id="m-156v-051">Hircania</placeName> dicta <lb n="29"/>a silva hircania, quae scithie sub<lb break="no" n="30"/>iacet, habens ab oriente <placeName ref="#kas29" xml:id="m-156v-052">mare cas<lb break="no" n="31"/>pium</placeName>, a meridie <placeName ref="#arm31" xml:id="m-156v-053">armeniam</placeName>, a septen<lb break="no" n="32"/>trione <placeName ref="#alb88" xml:id="m-156v-054">albaniam</placeName>, ab occasu <placeName ref="#hib89" xml:id="m-156v-055">hibe<lb break="no" n="33"/>riam</placeName>. Est autem silvis aspera, copio<lb break="no" n="34"/>sa inmanibus feris, tigribus panteri<lb break="no" n="35"/>busque et pardis. De qua <persName ref="#ver29" xml:id="m-156v-056">Vergilius</persName>:<lb n="36"/>hircanaeque admorunt ubera tigres.<lb n="37"/>
+               <placeName ref="#alb88" xml:id="m-156v-057">Albania</placeName> a colore populi nuncupata, <lb n="38"/>eo quod
+               alba crine nascantur. Haec <lb n="39"/>ab oriente sub <placeName ref="#kas29" xml:id="m-156v-058">mare caspium</placeName> sur<lb break="no" n="40"/>gens, per ora occeani septentrionalis </p>
+            </div>
+            </body>
+  </text>
+</TEI>

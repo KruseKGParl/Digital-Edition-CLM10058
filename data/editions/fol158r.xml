@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol158r.xml" prev="fol157v.xml" next="fol158v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 158r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol158r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00319/full/full/0/default.jpg" n="bsb00112097_00319"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 158r" facs="#fol158r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>Visontes quoque feras et uros atque calces <lb n="2"/>parturit. Mittit et gemmas,
+                  cristal<lb break="no" n="3"/>lum et sucinum, callaicum quoque <lb n="4"/>viridem, et ceraunium
+               camdidum. <lb n="5"/>Duae sunt autem <placeName ref="#ger82" xml:id="m-158r-001">germaniae</placeName>: superior <lb n="6"/>iuxta septentrionalem occeanum, <lb n="7"/>inferior circa <placeName ref="#rhe138" xml:id="m-158r-002">renum</placeName>. Provinciae <lb n="8"/>autem sunt quas <placeName ref="#don81" xml:id="m-158r-003">danubius</placeName> a <placeName ref="#ger82" xml:id="m-158r-004">barba<lb break="no" n="9"/>rico</placeName> ad <placeName ref="#mit4" xml:id="m-158r-005">mediterraneum mare</placeName> seclu<lb break="no" n="10"/>dit: Prima est <placeName ref="#moe139" xml:id="m-158r-006">mesia</placeName>, a messium proven<lb break="no" n="11"/>tu vocata; unde et eam veteres <placeName ref="#moe139" xml:id="m-158r-007">cere<lb break="no" n="12"/>ris horreum</placeName> vocabant. Haec autem <lb n="13"/>ab
+               oriente <placeName ref="#don81" xml:id="m-158r-008">ostiis danubii</placeName> iungitur, <lb n="14"/>ab euro
+               vero <placeName ref="#thr109" xml:id="m-158r-009">traciae</placeName>, a meridie <placeName ref="#mak140" xml:id="m-158r-010">mace<lb break="no" n="15"/>doniae</placeName>, ab occasu <placeName ref="#ist141" xml:id="m-158r-011">histriae</placeName> copulatur. <lb n="16"/>Post <placeName ref="#moe139" xml:id="m-158r-012">mesiam</placeName> autem <placeName ref="#pan142" xml:id="m-158r-013">pannonia</placeName> est. Inde <lb n="17"/>
+                    <placeName ref="#nor143" xml:id="m-158r-014">noricus ager</placeName> frigidus et parcius fruc<lb break="no" n="18"/>tuosus. Post quem <placeName ref="#rat144" xml:id="m-158r-015">reticus</placeName> frugibus <lb n="19"/>ferax, qui excipit <placeName ref="#gal132" xml:id="m-158r-016">galliam</placeName> <placeName ref="#bel145" xml:id="m-158r-017">belgicam</placeName>. <lb n="20"/>
+                    <placeName ref="#thr109" xml:id="m-158r-018">Traciae</placeName> <persName ref="#thi46" xml:id="m-158r-019">tiras</persName> <persName ref="#jap28" xml:id="m-158r-020">iaphet</persName> filius veniens nomen <lb n="21"/>dedisse
+               perhibetur: Alii a sevitia in<lb break="no" n="22"/>colarum <placeName ref="#thr109" xml:id="m-158r-021">traciam</placeName> appellatam di<lb break="no" n="23"/>xerunt. Huic ab oriente
+                  <placeName ref="#pro101" xml:id="m-158r-022">propon<lb break="no" n="24"/>tis</placeName> et urbs <placeName ref="#kon147" xml:id="m-158r-023">constantinopolis</placeName> oppo<lb break="no" n="25"/>sita est, a
+               septentrione vero <placeName ref="#don81" xml:id="m-158r-024">hister</placeName> ob<lb break="no" n="26"/>tenditur, a meridie vero <placeName ref="#aga148" xml:id="m-158r-025">egeo mari</placeName> <lb n="27"/>adheret, ab occasu <placeName ref="#mak140" xml:id="m-158r-026">macedonia</placeName> il<lb break="no" n="28"/>li subiacet. Cuius regionem olim di<lb break="no" n="29"/>versarum gentium
+               populi mesi<lb break="no" n="30"/>getae, sarmatae, scithae et aliae plu<lb break="no" n="31"/>rimae
+               nationes incoluerunt; Am<lb break="no" n="32"/>pla est enim, ideoque plurimas con<lb break="no" n="33"/>tinuit gentes. <placeName ref="#heb149" xml:id="m-158r-027">Ebrum</placeName> fluvium <lb n="34"/>
+                    <placeName ref="#thr109" xml:id="m-158r-028">tracia</placeName> fundit, qui etiam gentes bar<lb break="no" n="35"/>barorum plurimas tangit. <placeName ref="#gri150" xml:id="m-158r-029">Grecia</placeName> <lb n="36"/>a <persName ref="#gra75" xml:id="m-158r-030"/> rege vocata, qui cunctam <lb n="37"/>eam regionem regno
+               incoluit. Sunt <lb n="38"/>autem provinciae greciae septem: qua<lb break="no" n="39"/>rum prima ab
+               occidente <placeName ref="#dal151" xml:id="m-158r-031">dalma<lb break="no" n="40"/>tia</placeName>, deinde <placeName ref="#epi152" xml:id="m-158r-032">epyrus</placeName>, inde <placeName ref="#hel153" xml:id="m-158r-033">elladas</placeName>,</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>inde <placeName ref="#the154" xml:id="m-158r-034">thessalia</placeName>, inde <placeName ref="#mak140" xml:id="m-158r-035">macedonia</placeName>, <lb n="2"/>inde <placeName ref="#ach155" xml:id="m-158r-036">achaia</placeName>, et duae in <placeName ref="#mit4" xml:id="m-158r-037">mari</placeName>, <placeName ref="#kre122" xml:id="m-158r-038">creta</placeName> <lb n="3"/>et <placeName ref="#kyk156" xml:id="m-158r-039">ciclades</placeName>. Illiricus autem genera<lb break="no" n="4"/>liter omnis <placeName ref="#gri150" xml:id="m-158r-040">grecia</placeName> est. <placeName ref="#dal151" xml:id="m-158r-041">Dalmatia</placeName> <lb n="5"/>a <placeName ref="#del157" xml:id="m-158r-042">delmi</placeName> maxima eiusdem provin<lb break="no" n="6"/>ciae civitate traxisse nomen existima<lb break="no" n="7"/>tur. Adheret autem ab oriente
+                  <placeName ref="#mak140" xml:id="m-158r-043">ma<lb break="no" n="8"/>cedoniae</placeName>, a septentrione <placeName ref="#moe139" xml:id="m-158r-044">mesiae</placeName>, ab <lb n="9"/>occasu <placeName ref="#don81" xml:id="m-158r-045">histria</placeName> terminatur, a meri<lb break="no" n="10"/>die vero
+                  <placeName ref="#adr158" xml:id="m-158r-046">Adriatico sinu</placeName> clauditur. <lb n="11"/>
+                    <placeName ref="#epi152" xml:id="m-158r-047">Epyrus</placeName> a <persName ref="#pyr47" xml:id="m-158r-048">pyrro</persName> <persName ref="#ach48" xml:id="m-158r-049">achillis</persName> filio cog<lb break="no" n="12"/>nominata. cuius
+               pars <placeName ref="#cha159" xml:id="m-158r-050">caonia</placeName>, quae <lb n="13"/>antea <placeName ref="#cha159" xml:id="m-158r-051">molosia</placeName> dicta est, a <persName ref="#mol49" xml:id="m-158r-052">molosso</persName> <lb n="14"/>filio <persName ref="#pyr47" xml:id="m-158r-053">pyrri</persName> quem de <persName ref="#and50" xml:id="m-158r-054">andromacha</persName> <lb n="15"/>habuit. Sed postquam occisus est <lb n="16"/>
+                    <persName ref="#pyr47" xml:id="m-158r-055">pyrrus</persName> <persName ref="#ore51" xml:id="m-158r-056">orestis</persName> insidiis, <persName ref="#and50" xml:id="m-158r-057">andro<lb break="no" n="17"/>macham</persName> <persName ref="#hel52" xml:id="m-158r-058">elenus</persName> suscepit tenu<lb break="no" n="18"/>itque regnum
+               privigni qui succes<lb break="no" n="19"/>serat patri; a quo <placeName ref="#cha159" xml:id="m-158r-059">molosia</placeName> dicta <lb n="20"/>est pars <placeName ref="#epi152" xml:id="m-158r-060">epyri</placeName>, quam <persName ref="#hel52" xml:id="m-158r-061">elenus</persName> postea <lb n="21"/>a
+               fratre <persName ref="#cha53" xml:id="m-158r-062">caone</persName>, quem in venatu per igno<lb break="no" n="22"/>rantiam dicitur occidisse, <placeName ref="#cha159" xml:id="m-158r-063">caoniam</placeName> <lb n="23"/>nominavit, quasi ad solatium <lb n="24"/>fratris extincti. <placeName ref="#hel153" xml:id="m-158r-064">Elladas</placeName> dicta <lb n="25"/>a rege <persName ref="#hel54" xml:id="m-158r-065">ellana</persName>, <persName ref="#deu55" xml:id="m-158r-066">deucalionis</persName> et <persName ref="#pyr116" xml:id="m-158r-067">pyr<lb break="no" n="26"/>rae</persName> filio, a quo et prius greci ellenes <lb n="27"/>nuncupati
+               sunt. Ipsa est et <placeName ref="#att160" xml:id="m-158r-068">attica</placeName> <lb n="28"/>terra atte prius dicta. Nam <persName ref="#gra56" xml:id="m-158r-069">granus</persName> <lb n="29"/>quidam <placeName ref="#gri150" xml:id="m-158r-070">greciae</placeName> indigena fuit, <lb n="30"/>ex cuius
+               filia <persName ref="#att57" xml:id="m-158r-071">attis</persName> nomine <placeName ref="#att160" xml:id="m-158r-072">attica</placeName> <lb n="31"/>terra vocata est. Haec inter <placeName ref="#mak140" xml:id="m-158r-073">macedoniam</placeName> <lb n="32"/>et <placeName ref="#ach155" xml:id="m-158r-074">achaiam</placeName> media iacet, <placeName ref="#ark161" xml:id="m-158r-075">arch<lb break="no" n="33"/>diae</placeName> a septentrionali parte con<lb break="no" n="34"/>iuncta. Ipsa est et vera <placeName ref="#gri150" xml:id="m-158r-076">greci</placeName>, ubi <lb n="35"/>fuit <placeName ref="#ath162" xml:id="m-158r-077">athenas</placeName> civitas, mater libera<lb break="no" n="36"/>lium litterarum et phylosophorum <lb n="37"/>nutrix, qua nichil habuit
+                  <placeName ref="#gri150" xml:id="m-158r-078">grecia</placeName> <lb n="38"/>clarius atque nobilius. In ea est et <placeName ref="#mar163" xml:id="m-158r-079">mara<lb break="no" n="39"/>tonius</placeName> campus opinione quondam <lb n="40"/>proelii cruentissimus.
+                  <placeName ref="#hel153" xml:id="m-158r-080">Elladas</placeName> autem</p>
+            </div>
+            </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol163v.xml" prev="fol163r.xml" next="fol164r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 163v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol163v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00330/full/full/0/default.jpg" n="bsb00112097_00330"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 163v" facs="#fol163v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>quae referta est anguibus. <placeName ref="#bal319" xml:id="m-163v-001">Baleares</placeName> <lb n="2"/>insulae <placeName ref="#his134" xml:id="m-163v-002">ispaniae</placeName> duae sunt: <placeName ref="#men321" xml:id="m-163v-003">afrafiades</placeName> <lb n="3"/>et <placeName ref="#mal320" xml:id="m-163v-004">gemnaside</placeName>, maior et minor; Un<lb break="no" n="4"/>de et eas vulgus <placeName ref="#mal320" xml:id="m-163v-005">maioricam</placeName> et <placeName ref="#men321" xml:id="m-163v-006">mino<lb break="no" n="5"/>ricam</placeName> nuncupant. In his primum <lb n="6"/>insulis inventus est usus
+               fundarum <lb n="7"/>quibus lapides emittuntur, unde et <lb n="8"/>baleares sint dictae; Balin
+               enim grece <lb n="9"/>emittere dicitur; Unde et balista, <lb n="10"/>quasi missa, et fundibalum.
+                  <persName ref="#ver29" xml:id="m-163v-007">Vergilius</persName>: <lb n="11"/>Balearis verbera fundae. De
+               promontoriis <lb n="12"/>Commune est insulis ut vii <lb n="13"/>promineant. unde et loca earum
+               <lb n="14"/>promontoria dicintur. Sic <persName ref="#sal1" xml:id="m-163v-008">salustius</persName> <lb n="15"/>de <placeName ref="#sar234" xml:id="m-163v-009">sardinia</placeName>: In orientem quam in occiden<lb break="no" n="16"/>tem latior prominet.
+               <placeName ref="#sig322" xml:id="m-163v-010">Sigeum</placeName> pro<lb break="no" n="17"/>montorium <placeName ref="#asi1" xml:id="m-163v-011">asiae</placeName>, ubi <placeName ref="#hel114" xml:id="m-163v-012">ellespontus</placeName> <lb n="18"/>apertius dilatatur.
+               Dictum autem <placeName ref="#sig322" xml:id="m-163v-013">sigeum</placeName> <lb n="19"/>propter <persName ref="#her59" xml:id="m-163v-014">herculis</persName> taciturnitatem, quia <lb n="20"/>prohibitus hospitio a <persName ref="#lau103" xml:id="m-163v-015">laomedonte</persName> <lb n="21"/>troianorum rege, simulavit absces<lb break="no" n="22"/>sum, et inde contra <placeName ref="#tro116" xml:id="m-163v-016">troiam</placeName> cum si<lb break="no" n="23"/>lentio venit, quod dicitur fige. <lb n="24"/>
+                    <placeName ref="#mal323" xml:id="m-163v-017">Maleum</placeName> promontorium <placeName ref="#gri150" xml:id="m-163v-018">greciae</placeName>, quod <lb n="25"/>intrat in <placeName ref="#mit4" xml:id="m-163v-019">mare</placeName>, et per milia quinqua<lb break="no" n="26"/>ginta
+               protenditur; ubi unda ita <lb n="27"/>seva est ut persequi navigantes vi<lb break="no" n="28"/>deatur. Hoc autem promontorium <lb n="29"/>a <persName ref="#mal104" xml:id="m-163v-020">maleo</persName> rege argivorum nomen accepit. <lb n="30"/>
+                    <placeName ref="#pel290" xml:id="m-163v-021">Pelorum</placeName> promontorium <placeName ref="#siz127" xml:id="m-163v-022">siciliae</placeName> respi<lb break="no" n="31"/>ciens <persName ref="#aqu123" xml:id="m-163v-023">aquilonem</persName>, secundum <persName ref="#sal1" xml:id="m-163v-024">salustium</persName> <lb n="32"/>dictum a gubernatore <persName ref="#han33" xml:id="m-163v-025">hannibalis</persName> <lb n="33"/>illic sepulto. <placeName ref="#pac291" xml:id="m-163v-026">Pachinum</placeName> promonto<lb break="no" n="34"/>rium <placeName ref="#siz127" xml:id="m-163v-027">siciliae</placeName> austrum spectans, <lb n="35"/>ab aeris crassitudine dictum, Nam <lb n="36"/>pachis est pinguis et crassus: austro
+               <lb n="37"/>enim perflatur. <placeName ref="#lil292" xml:id="m-163v-028">Libeum</placeName> promonto<lb break="no" n="38"/>rium <placeName ref="#siz127" xml:id="m-163v-029">siciliae</placeName>, solis occasum intendens, <lb n="39"/>vocatum ab eiusdem nominis civitate, <lb n="40"/>quae ibi est sita. <placeName ref="#bor324" xml:id="m-163v-030">Borion</placeName> promontorium</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>
+                    <placeName ref="#num214" xml:id="m-163v-031">numidiae</placeName>, vocatum ita quod ad <persName ref="#aqu123" xml:id="m-163v-032">aqui<lb break="no" n="2"/>lonem</persName> intendat. Hoc <placeName ref="#hip235" xml:id="m-163v-033">yppone re<lb break="no" n="3"/>gium</placeName> postea dictum, pro eo quod sit <lb n="4"/>
+                    <placeName ref="#mit4" xml:id="m-163v-034">aequore</placeName> interruptum. <placeName ref="#cal326" xml:id="m-163v-035">Calpis</placeName> <lb n="5"/>
+                    <placeName ref="#his134" xml:id="m-163v-036">ispaniae</placeName> promonotorium avenna <placeName ref="#afr3" xml:id="m-163v-037">afri<lb break="no" n="6"/>cae</placeName>, qui utringque prominentes prorup<lb break="no" n="7"/>tionem interfluentis occeani concluditer. <lb n="8"/>De
+               montibus ceterisque locorum vocabulis VIII. <lb n="9"/>Montes sunt
+               tumores terrarum altis<lb break="no" n="10"/>simi, dicti quod sint eminentes. Quidam
+               <lb n="11"/>autem propriis ex causis vocati sunt, <lb n="12"/>ex quibus notandi sunt qui opinione
+               <lb n="13"/>maximi celebrantur. Mons <placeName ref="#kau10" xml:id="m-163v-038">cau<lb break="no" n="14"/>casus</placeName> ab <placeName ref="#ind8" xml:id="m-163v-039">india</placeName> usque ad <placeName ref="#tau35" xml:id="m-163v-040">taurum</placeName> por<lb break="no" n="15"/>rectus, pro gentium ac lingua<lb break="no" n="16"/>rum varietate
+               quaque versum vadit, <lb n="17"/>diversis nominibus nuncupatur. <lb n="18"/>Ubi autem ad orientem
+               in excelsiorem <lb n="19"/>consurgit sullimitatem, propter nivi<lb break="no" n="20"/>um candorem
+               <placeName ref="#kau10" xml:id="m-163v-041">caucasus</placeName> nuncupatur. <lb n="21"/>Nam orientali lingua signi<lb break="no" n="22"/>ficat candidum.
+               Eest enim densissi<lb break="no" n="23"/>mis nivibus candidatum. Unde et <lb n="24"/>eum scithae,
+               qui eidem monti iun<lb break="no" n="25"/>guntur, <placeName ref="#kau10" xml:id="m-163v-042">croacasin</placeName> vocaverunt. <lb n="26"/>Casin enim apud
+               eos candor sive nix <lb n="27"/>dicitur. <placeName ref="#tau35" xml:id="m-163v-043">Mons taurus</placeName> a plerisque <lb n="28"/>idem vocatur et
+               <placeName ref="#kau10" xml:id="m-163v-044">caucasus</placeName>. <placeName ref="#lib57" xml:id="m-163v-045">Libanus</placeName> <lb n="29"/>mons faenicum altissimus, cuius memi<lb break="no" n="30"/>nerunt
+               prophetae; dictus a thure, <lb n="31"/>quia ibi colligitur. cuius ea pars, quae <lb n="32"/>est
+               super eum ad orientalem plagam <lb n="33"/>respiciens, <placeName ref="#lib57" xml:id="m-163v-046">antilibanus</placeName> appellatur, <lb n="34"/>id est
+               contra libanum. <placeName ref="#ara327" xml:id="m-163v-047">Ararat</placeName> mons <lb n="35"/>
+                    <placeName ref="#arm31" xml:id="m-163v-048">armeniae</placeName>, in quo archam historiae <lb n="36"/>post diluvium
+               sedisse testantur. <lb n="37"/>unde et usque hodie ibidem lignorum <lb n="38"/>eius videntur
+               vestigia. <placeName ref="#kau10" xml:id="m-163v-049">Acro<lb break="no" n="39"/>cerauni</placeName> montes propter altitudinem <lb n="40"/>fulminum ictus
+               vocati sunt;</p>
+            </div>
+            </body>
+  </text>
+</TEI>

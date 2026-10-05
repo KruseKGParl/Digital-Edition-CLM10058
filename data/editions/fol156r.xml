@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol156r.xml" prev="fol155v.xml" next="fol156v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 156r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol156r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00315/full/full/0/default.jpg" n="bsb00112097_00315"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div> <pb n="fol. 156r" facs="#fol156r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>angustior. Habet autem in se provinci<lb break="no" n="2"/>as <placeName ref="#kom44" xml:id="m-156r-001">commagenam</placeName>, et <placeName ref="#pho45" xml:id="m-156r-002">Phoeniciam</placeName> et <placeName ref="#pal46" xml:id="m-156r-003">Palae<lb break="no" n="3"/>stinam</placeName>, cuius pars est <placeName ref="#jud47" xml:id="m-156r-004">iudea</placeName> absque Sar<lb break="no" n="4"/>racenis et
+               nabatheos. <placeName ref="#kom44" xml:id="m-156r-005">Commagena</placeName> <lb n="5"/>prima provincia <placeName ref="#syr41" xml:id="m-156r-006">syriae</placeName> a vocabulo <lb n="6"/>
+                    <placeName ref="#kom44" xml:id="m-156r-007">commagae</placeName> urbis nuncupata, quae quon<lb break="no" n="7"/>dam ibi metropolis habebatur. Huius <lb n="8"/>est a septentrione <placeName ref="#arm31" xml:id="m-156r-008">armenia</placeName>, ab ortu <lb n="9"/>
+                    <placeName ref="#mes18" xml:id="m-156r-009">mesopotamia</placeName>, a meridie <placeName ref="#syr41" xml:id="m-156r-010">syria</placeName>, <lb n="10"/>ab occasu <placeName ref="#mit4" xml:id="m-156r-011">mare magnum</placeName>. <persName ref="#pho14" xml:id="m-156r-012">Foenix</persName> <persName ref="#kad15" xml:id="m-156r-013">chat<lb break="no" n="11"/>mi</persName> frater de <placeName ref="#the49" xml:id="m-156r-014">thebis</placeName> <placeName ref="#agy42" xml:id="m-156r-015">egyptiorum</placeName> in <placeName ref="#syr41" xml:id="m-156r-016">syriam</placeName> <lb n="12"/>profectus apud <placeName ref="#sid50" xml:id="m-156r-017">sidonem</placeName> regnavit, <lb n="13"/>eam provinciam ex suo nomine <placeName ref="#pho45" xml:id="m-156r-018">fe<lb break="no" n="14"/>niceam</placeName> appellavit. Ipsa est ubi est <placeName ref="#tyr51" xml:id="m-156r-019">tyrus</placeName>, <lb n="15"/>ad quam <persName ref="#jes16" xml:id="m-156r-020">isaias</persName> loquitur. Habet <lb n="16"/>autem <placeName ref="#ara38" xml:id="m-156r-021">arabiam</placeName> ab oriente, a me<lb break="no" n="17"/>ridie <placeName ref="#rot28" xml:id="m-156r-022">mare rubrum</placeName>. <placeName ref="#pal46" xml:id="m-156r-023">Palestina</placeName> <lb n="18"/>provincia <placeName ref="#phi52" xml:id="m-156r-024">phylistym</placeName> urbem metro<lb break="no" n="19"/>polim habuit, quae nunc dicitur <lb n="20"/>
+                    <placeName ref="#phi52" xml:id="m-156r-025">ascalon</placeName>, ex qua civitate omnis cir<lb break="no" n="21"/>ca eam regio
+                  <placeName ref="#pal46" xml:id="m-156r-026">palestina</placeName> est nuncupata. <lb n="22"/>Huius ab oriente
+                  <placeName ref="#rot28" xml:id="m-156r-027">mare rubrum</placeName> occur<lb break="no" n="23"/>rit, a
+               meridiano latere <placeName ref="#jud47" xml:id="m-156r-028">iudea</placeName> ex<lb break="no" n="24"/>cipitur,
+               a septentrionali laga <lb n="25"/>tyriorum finibus clauditur, ab occasu <lb n="26"/>
+                    <placeName ref="#agy42" xml:id="m-156r-029">egyptio</placeName> limite terminatur. <placeName ref="#jud47" xml:id="m-156r-030">Iudea</placeName> <lb n="27"/>regio <placeName ref="#pal46" xml:id="m-156r-031">palestina</placeName> ex nomine <persName ref="#jud17" xml:id="m-156r-032">iudea</persName> <lb n="28"/>appellata, ex cuius tribu reges <lb n="29"/>habuit. Haec prius <placeName ref="#kan54" xml:id="m-156r-033">chanaan</placeName> dicta <lb n="30"/>a filio <persName ref="#cha18" xml:id="m-156r-034">Cham</persName>, sive a decem chananae<lb break="no" n="31"/>orum gentibus, quibus expulsis ean<lb break="no" n="32"/>dem terram iudei possiderunt. <lb n="33"/>Inicium longitudinis eius a vico <lb n="34"/>
+                    <placeName ref="#arf55" xml:id="m-156r-035">arfa</placeName> usque ad vicum <placeName ref="#iul56" xml:id="m-156r-036">iuliadem</placeName> <lb n="35"/>porrigitur, in quo iudeorum pari<lb break="no" n="36"/>ter ac tyriorum communis
+                  habita<lb break="no" n="37"/>tio est. Latitudo autem eius a <placeName ref="#lib57" xml:id="m-156r-037">monte <lb n="38"/>libani</placeName> usque ad <placeName ref="#see58" xml:id="m-156r-038">tyberiadis lacum</placeName> <lb n="39"/>extenditur. In medio autem <placeName ref="#jud47" xml:id="m-156r-039">iudee</placeName> <lb n="40"/>civitas <placeName ref="#jer59" xml:id="m-156r-040">ierosolima</placeName> est, quasi umbilicus</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>regionis totius. terra variarum <lb n="2"/>opum dives, frugibus fertilis, aquis
+               inlustris, opima <lb n="3"/>balsamis. Unde secundum elementorum <lb n="4"/>gratiam existimaverunt
+               iudei eam <lb n="5"/>promissam patribus terram fluentem <lb n="6"/>melle et lacte, cum hinc illis
+               deus <lb n="7"/>resurrectionis gratiam polliceretur. <lb n="8"/>
+                    <placeName ref="#sam60" xml:id="m-156r-041">Samaria</placeName> regio <placeName ref="#pal46" xml:id="m-156r-042">palestinae</placeName> ab oppido <lb n="9"/>quodam nomen accepit qui vocabatur <lb n="10"/>
+                    <placeName ref="#sam60" xml:id="m-156r-043">samaria</placeName>, civitas quondam regalis <lb n="11"/>in <placeName ref="#isr61" xml:id="m-156r-044">israel</placeName>, quae nunc ab <persName ref="#aug20" xml:id="m-156r-045">augusti</persName> no<lb break="no" n="12"/>mine <placeName ref="#seb62" xml:id="m-156r-046">sebastia</placeName> nuncupatur. Haec <lb n="13"/>regio inter <placeName ref="#jud47" xml:id="m-156r-047">iudaeam</placeName> et <placeName ref="#gal63" xml:id="m-156r-048">galilaeam</placeName> media <lb n="14"/>iacet, incipiens a vico cui nomen
+               est <lb n="15"/>
+                    <placeName ref="#ele64" xml:id="m-156r-049">eleas</placeName>, deficiens in terram <placeName ref="#agr65" xml:id="m-156r-050">agrabato</placeName>. <lb n="16"/>Situs eius natura consimilisconsimili nec
+               <lb n="17"/>ullo differens a <placeName ref="#jud47" xml:id="m-156r-051">iudea</placeName>. <placeName ref="#gal63" xml:id="m-156r-052">Galilea</placeName> <lb n="18"/>regio <placeName ref="#pal46" xml:id="m-156r-053">palestinae</placeName> vocata quod gignat <lb n="19"/>candidiores homines quam <placeName ref="#pal46" xml:id="m-156r-054">palestina</placeName>. <lb n="20"/>Haec autem duplex est, superior et infe<lb break="no" n="21"/>rior, sibi tamen conexe,
+                  <placeName ref="#syr41" xml:id="m-156r-055">syrie</placeName> et <placeName ref="#pho45" xml:id="m-156r-056">fe<lb break="no" n="22"/>nici</placeName> adherentes. Terra earum opi<lb break="no" n="23"/>ma et
+               ferax et fructibus satis fe<lb break="no" n="24"/>cunda. <placeName ref="#pen66" xml:id="m-156r-057">Pentapolis</placeName> regio in confi<lb break="no" n="25"/>nio <placeName ref="#ara38" xml:id="m-156r-058">arabiae</placeName> et <placeName ref="#pal46" xml:id="m-156r-059">palestinae</placeName> sita, dicta <lb n="26"/>a quinque civitatibus impiorum <lb n="27"/>quae igne caelesti consumptae sunt.
+               <lb n="28"/>terra amplius ab <placeName ref="#jer59" xml:id="m-156r-060">ierosolimis</placeName> olim <lb n="29"/>uberrima, nunc autem deserta <lb n="30"/>atque exusta; Nam pro scelere inco<lb break="no" n="31"/>larum de caelo descendit ignis, <lb n="32"/>qui regionem illam in cineres
+                  aeter<lb break="no" n="33"/>nos dissolvit. Cuius umbra quaedam <lb n="34"/>et species in
+               favillis et arbori<lb break="no" n="35"/>bus ipsis etiam adhuc videtur. <lb n="36"/>Nascuntur enim
+               ibi poma virentia <lb n="37"/>sub tanta specie maturitatis, <lb n="38"/>ut edendi desiderium
+               gignant; <lb n="39"/>quae si carpas fatiscunt ac resol<lb break="no" n="40"/>vuntur in cinerem,
+               fumumque exhalant</p>
+            </div>
+            </body>
+  </text>
+</TEI>

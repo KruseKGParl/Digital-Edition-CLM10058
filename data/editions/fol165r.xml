@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol165r.xml" prev="fol164v.xml" next="fol165v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 165r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol165r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00333/full/full/0/default.jpg" n="bsb00112097_00333"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 165r" facs="#fol165r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>quia fluctu eliditur, vel quod aqua <lb n="2"/>alluitur. <persName ref="#cic87" xml:id="m-165r-001">Cicero</persName> in topicis: Litus est <lb n="3"/>aqua fluctus eludit. Circumluvi<lb break="no" n="4"/>um locus quem aqua circunluit; <lb n="5"/>Alluvium consumptio riparum ex
+               aquis. <lb n="6"/>Margo est pars cuiuslibet loci, utputa <lb n="7"/>maris; unde et nomen accepit
+               et est <lb n="8"/>generis communis hic et haec margo. <lb n="9"/>Maritima loca mari vicina et
+               dicta <lb n="10"/>maritima quasi maris intima . Ostia <lb n="11"/>ab ingressu et exitu fluminis in
+               <lb n="12"/>mare dicta. Continens perpetua <lb n="13"/>terra nec ullo mari discreta, quae
+               <lb n="14"/>greci epyron vocant.
+               <lb n="15"/>De inferioribus terrae VIII. <lb n="16"/>Specus est fossa sub terra qua prospici
+               <lb n="17"/>potest; Specus autem latine grece <lb n="18"/>antra dicuntur. Sunt autem loca <lb n="19"/>ex
+               quibus repercussae voces imaginae <lb n="20"/>referunt Spelea grece, speluncae <lb n="21"/>latine.
+               Est autem rupis cauata Spi<lb break="no" n="22"/>racula appellata omnia loca pesti<lb break="no" n="23"/>feri spiritus, quae greci paronia appel<lb break="no" n="24"/>lant vel
+               acherontea. Etiam <persName ref="#var81" xml:id="m-165r-002">varro</persName> <lb n="25"/>spiraculum dicit huiuscemodi locum; <lb n="26"/>et spiracula ex eo dicuntur loca quo
+               <lb n="27"/>terra spiritum edit. Hiatus preruptio <lb n="28"/>terrae profunda, quasi itus. Proprie
+               <lb n="29"/>autem hiatus est ominis oris apertio, trans<lb break="no" n="30"/>lata a feris quarum
+               aviditas oris ad<lb break="no" n="31"/>apertione monstratur. Profundum <lb n="32"/>proprie quasi
+               cuius porro sit fundus. <lb n="33"/>Abusive autem profundum vel sursum <lb n="34"/>vel deorsum
+               dicitur, ut: maria terra <lb n="35"/>caelumque profundum. Baratrum <lb n="36"/>nimiae altitudinis
+               nomen est: et dic<lb break="no" n="37"/>tum baratrum quasi vorago atra, <lb n="38"/>scilicet a
+               profunditate. Erebus in<lb break="no" n="39"/>ferorum profunditas atque recessus. <lb n="40"/>
+                    <placeName ref="#sty336" xml:id="m-165r-003">Stix</placeName> apotoyctpeictoc, hoc est a tristicia,</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>dicta, eo quod tristicia dicta eo quod tri<lb break="no" n="2"/>stes faciat vel quod tristiciam gignat. <lb n="3"/>
+                    <placeName ref="#coc337" xml:id="m-165r-004">Cocitus</placeName> locus inferi, de quo <persName ref="#hio115" xml:id="m-165r-005">iob</persName> loquitur <lb n="4"/>
+                    <placeName ref="#coc337" xml:id="m-165r-006">Cocitus</placeName> autem nomen accepit greca <lb n="5"/>interpretatione, a luctu et gemitu. <lb n="6"/>
+                    <placeName ref="#tar338" xml:id="m-165r-007">Tartarus</placeName> vel quia omnia ibi turba<lb break="no" n="7"/>ta sunt, apotoy tristirizin, aut, <lb n="8"/>quod est verius,
+               apototestixes, id est <lb n="9"/>a tremore frigoris, quod est algere et <lb n="10"/>rigere,
+               scilicet quia lucem solemque <lb n="11"/>caret; quia neque illinc vapores sunt, <lb n="12"/>qui ex
+               solis luce gignuntur, neque <lb n="13"/>flatus, qui eiusdem motibus inci<lb break="no" n="14"/>tatur, sed perpetuus stupor; Tar<lb break="no" n="15"/>tarizen enim horrere et tremere
+               <lb n="16"/>apud grecos legitur. Illic enim fletus <lb n="17"/>et stridor dentium. <placeName ref="#geh334" xml:id="m-165r-008">Gehenna</placeName> est <lb n="18"/>locus ignis et sulphuris, quem ap<lb break="no" n="19"/>pellari putant a valle idolis
+                  con<lb break="no" n="20"/>secrata, quae est iuxta muros <placeName ref="#jer59" xml:id="m-165r-009">ierusalem</placeName>, <lb n="21"/>repleta olim
+               cadaveribus mortuorum; <lb n="22"/>Ibi enim hebrei filios suos inmola<lb break="no" n="23"/>runt
+               demonibus, et appellabatur locus <lb n="24"/>ille <placeName ref="#geh339" xml:id="m-165r-010">gehennon</placeName>. Futuri ergo supplicii <lb n="25"/>locus, ubi peccatores cruciandi sunt, <lb n="26"/>huius loci vocabulo designatur. Du<lb break="no" n="27"/>plicem autem esse <placeName ref="#geh334" xml:id="m-165r-011">gehennam</placeName> et ignis <lb n="28"/>et frigoris. <placeName ref="#inf340" xml:id="m-165r-012">Inferus</placeName> appellatur <lb n="29"/>eo quod infra sit. Sicut autem secundum <lb n="30"/>corpus, si ponderis sui
+               ordinem tene<lb break="no" n="31"/>ant, inferiora sunt omnia gravi<lb break="no" n="32"/>ora, ita
+               secundum spiritum inferiora sunt <lb n="33"/>omnia tristiora; Unde et in greca <lb n="34"/>lingua
+               origo nominis, quo appella<lb break="no" n="35"/>tur <placeName ref="#inf340" xml:id="m-165r-013">inferus</placeName>, ex eo quod nichil sua<lb break="no" n="36"/>ve habeat resonare perhibetur. Sicut <lb n="37"/>autem cor animalis in medio
+               est, ita et <lb n="38"/>
+                    <placeName ref="#inf340" xml:id="m-165r-014">inferus</placeName> in medio terrae esse perhibetur. Unde <lb n="39"/>et in evangelio
+               legimus: In corde terrae. <lb n="40"/>Phylosophi autem dicunt quod <placeName ref="#inf340" xml:id="m-165r-015">inferi</placeName> </p>
+            </div>
+            </body>
+  </text>
+</TEI>

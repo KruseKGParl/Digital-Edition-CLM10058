@@ -1,0 +1,1212 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kartenedition der Handschrift Clm10058 des Isidorus Hispalensis</title>
+            <title type="sub">Das 14. Buch 'De terra'</title>
+            <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</persName>
+               <resp>transcription</resp>
+               <resp>encoding</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="1"/>
+            
+         </editionStmt>
+         <publicationStmt>
+           <!-- <publisher>
+               <orgName ref="/">
+                  <address>
+                     <addrLine></addrLine>
+                     <postCode></postCode>
+                     <placeName></placeName>
+                  </address>
+               </orgName>
+               <persName ref="https://orcid.org/0000-0002-6615-6791">
+                        Maximilian
+                        Kruse
+                    </persName>
+               <date when="2023-02-06"/>
+            </publisher>-->
+            <availability> <!--Fehler nicht nachvollziehbar, nach TEI-Website ist availabillity ein mögliches Kindelement, vgl. https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-publicationStmt.html -->
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author n="1" ref="http://viaf.org/viaf/803890">
+                        <forename>Isidorus</forename>
+                        <surname>Hispalensis</surname>
+                    </author>
+               <author n="2" ref="http://viaf.org/viaf/61906861 ">
+                        <forename>Braulio</forename>
+                        <surname>Ceasaraugustanus</surname>
+                    </author>
+               <title type="main" xml:lang="la">Epistolae Isidori et Braulionis</title>
+               <title type="sub">BSB Clm10058</title>
+               <date notBefore="1100" notAfter="1150"/>
+               <pubPlace>
+                  <placeName>France</placeName><!--Auf Normdaten wird bewusst verzichtet, da kein genauer Standort bekannt ist--> 
+               </pubPlace>
+               <textLang xml:lang="la"/>
+            </bibl>
+            <msDesc>
+               <msIdentifier>
+                  <country ref="http://viaf.org/viaf/189116956">Germany</country>
+                  <region ref="http://viaf.org/viaf/125426357">Bavaria</region>
+                  <settlement ref="http://viaf.org/viaf/154701792">Munich</settlement>
+                  <institution ref="http://viaf.org/viaf/129557156">Bayerische
+                     Staatsbibliothek</institution>
+                  <repository>Handschriften</repository>
+                  <collection>Codices latini monacenses</collection>
+                  <idno>Clm10058</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc form="http://vocab.getty.edu/page/aat/300224200">
+                     <supportDesc>
+                        <support>
+                           <material ref="http://vocab.getty.edu/page/aat/300011851">Parchment</material><!--kontrollieren ob das passt-->
+                           <dimensions>
+                              <height unit="cm">37-38</height>
+                              <width unit="cm">25,5</width>
+                           </dimensions>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <locus from="154r" to="154r"/>
+                                    <p>2 columns on one surface</p>
+                           <locus from="154v" to="154v"/>
+                                    <p>World Map above 2 columns of text</p>
+                           <locus from="155r" to="165v"/>
+                                    <p>2 columns on one surface</p>
+                           
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <bindingDesc>
+                     <binding contemporary="false">
+                        <p>Binding from 18th century</p>
+                        <p>Calfskin strap over cardboard</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+           <revisionDesc>
+         <change n="1" when="2022-11-11" who="Maximilian Kruse"> Erstellung des TEI-Headers mit
+            seinen Elementen, Erstellung des facsmilie-Elements</change>
+         <change n="2" when="2022-12-19" who="Maximilian Kruse">Hinzufügung des rohen Transkriptionstextes</change>
+         <change n="3" when="2022-12-20" who="Maximilian Kruse">Einteilung der lb, pb, p und div
+            Elemente</change>
+         <change n="4" when="2022-12-24" who="Maximilian Kruse">Abänderung des facsimile-Containers
+            zum Kommentar/ Einbindung der Image-Information-Request-Identifikatoren im 
+            pb-Element/ Eingabe der Koordinaten aus dem Oxygen-Editor</change>
+            <change n="5" when="2023-01-18" who="Maximilian Kruse">Erägnzung von persName und placeName Elementen und den Attributen type und ref</change>
+        <change n="7" when="2023-01-23" who="Maximilian Kruse">Upload der Kartenediton auf Server 'https://teiledition-clm10058.uni-paderborn.de:8443/exist/apps/dashboard/admin#' ; Speicherpfad im eXide-Editor 'db/apps/tei-publisher/data/playground/'</change>
+         <change n="8" when="2023-02-04" who="Maximilian Kruse">type-Attribute gefüllt / ref_Attribute befüllt</change>
+         <change n="9" when="2023-02-05" who="Maximilian Kruse">Finale Applikation erstellt</change>
+      </revisionDesc>
+   </teiHeader>
+  <facsimile>
+      <surface>
+         <graphic
+            url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00312.jpg"
+            xml:id="av"/>
+         <zone xml:id="subsolanus" lry="165" lrx="1021" uly="62" ulx="885"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00312.jpg"/>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/888,61,133,105">
+                    <persName type="ety/des" ref="Q836518">subsolanus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1344,187,115,122">
+                    <persName type="ety/des" ref="Q836518">eurus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1633,497,74,124">
+                    <persName type="ety/des" ref="/">euroauster</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1713,928,56,154">
+                    <persName type="ety/des" ref="Q25927304">auster</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1644,1249,118,213">
+                    <persName type="ety/des" ref="/">austroafricus qui et libonothus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1323,1668,135,132">
+                    <persName type="ety/des" ref="/">africus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/855,1803,162,115">
+                    <persName type="ety/des" ref="/">fauonius qui et zephirus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/411,1693,127,102">
+                    <persName type="ety/des" ref="/">chorus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/103,1336,117,164">
+                    <persName type="ety/des" ref="/">circius
+               qui et gallicus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/50,915,74,150">
+                    <persName type="ety/des" ref="Q109220">?</persName>
+                </p>
+            <!-- Fehlende Inschrift aufgrund von Beschneidungen-->
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/87,512,127,160">
+                    <persName type="ety/des" ref="/">aquilo
+               qui et boreus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/415,151,142,131">
+                    <persName type="ety/des" ref="/">uulturnus</persName>
+                </p>
+            <lb/>
+            <head>The Ocean and the isles of the Ocean</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/605,185,113,60">
+                    <placeName type="ety/des" ref="/">sericus
+               occeanus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/321,344,112,105">
+                    <placeName type="/" ref="/">sciticus occeanus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/914,160,114,36">
+                    <placeName type="des" ref="/">eous
+               occeanus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/350,449,141,44">
+                    <placeName type="ety" ref="http://viaf.org/viaf/235067119 ">mare
+               Caspiam</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1082,133,216,83">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/126600002 ">taprobana insula plena feris et auibus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1066,174,232,85">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/126600002 ">taprobana insula habens couitates decem</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1607,1413,50,50">
+                    <placeName type="des" ref="/">Gaulon...</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1559,1479,58,59">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/2235162985478086300002 ">gorgodes</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1438,1549,124,119">
+                    <placeName type="ety/des" ref="Q1615655 ">esperidum insule</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1019,1743,305,126">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/148386330 ">Fortunate insule</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/713,1785,119,62">
+                    <placeName type="ety" ref="http://vocab.getty.edu/page/tgn/7001181 ">hibernia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/597,1748,112,72">
+                    <placeName type="ety" ref="http://vocab.getty.edu/page/tgn/7002444 ">Scotia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/544,1736,44,48">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/8738148574329924430008 ">tanatos</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/471,1641,170,104">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/316875309 ">anglia
+               insua que et britannia maior</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/319,1578,88,79">
+                    <placeName type="ety/des" ref="https://d-nb.info/gnd/4366508-1 ">tile
+               insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/64,694,108,199">
+                    <placeName type="des" ref="Q629060 ">gog
+               magog</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/581,168,78,51">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/534145424673186830267 ">tilos
+               insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/679,137,76,49">
+                    <placeName type="ety/des" ref="Q4789878 ">crise
+               insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/778,110,83,51">
+                    <placeName type="ety/des" ref="Q4789878 ">argire
+               insula</placeName>
+                </p>
+            <lb/>
+            <head>The isles of the Red Sea</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1331,330,38,52">
+                    <placeName type="des" ref="/">Ferrea
+               insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1380,341,34,50">
+                    <placeName type="des" ref="/">Stridonia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1418,355,35,53">
+                    <placeName type="des" ref="/">erea</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1324,413,102,63">
+                    <placeName type="des" ref="/">Gorgoneos insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1337,540,47,64">
+                    <placeName type="ety/des" ref="/">cyprus</placeName>
+                </p>
+            <lb/>
+            <head>The Mediterranean Sea and the Black
+               Sea</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/493,800,80,126">
+                    <placeName type="des" ref="/">cimericum mare</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/362,951,160,40">
+                    <placeName type="des" ref="/">eusinum
+               mare</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/534,981,86,35">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/315939224 ">propontis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/672,972,78,31">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/243410280 ">ellespontus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/421,1016,82,38">
+                    <placeName type="des" ref="http://viaf.org/viaf/316875294">bosphorus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/817,854,111,28">
+                    <placeName type="des" ref="/">cyprium
+               mare</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/759,814,53,69">
+                    <placeName type="des" ref="/">asiaticus sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/803,770,57,57">
+                    <placeName type="ety/des" ref="/">cilicus
+               sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/876,778,50,50">
+                    <placeName type="des" ref="/">messicus sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/672,1016,80,48">
+                    <placeName type="des" ref="Q913418 ">macedonicus sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/670,1099,92,79">
+                    <placeName type="des" ref="http://viaf.org/viaf/248686838 ">chorinthius sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/669,1266,86,35">
+                    <placeName type="des" ref="">illiricus sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/676,1302,104,52">
+                    <placeName type="des" ref="Q938838 ">liburnicus sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/715,1353,69,62">
+                    <placeName type="/" ref="http://viaf.org/viaf/243199828 ">venetia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/828,1251,102,42">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/316741867 ">adiaticum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/982,983,143,39">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/2743148574264324430004 ">egyptium mare</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/979,1028,50,50">
+                    <placeName type="ety/des" ref="Q840427 ">mirteum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/894,1069,87,46">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/242543837 ">egeum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/861,1154,71,34">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/238399187 ">ionium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/975,1129,88,34">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/3150202075603111581 ">carpatum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1205,982,79,36">
+                    <placeName type="des" ref="https://d-nb.info/gnd/4042336-0 ">pelusium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1121,1073,64,47">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/315149791 ">creticum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/786,1574,128,47">
+                    <placeName type="des" ref="/">Gallicum mare</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/786,1492,113,41">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/242529415 ">Liguricus sinus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/881,1769,124,25">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/341145424530286830060 ">gaditanum fretum (?)</placeName>
+                </p>
+            <lb/>
+            <head>The Isles of Mediterranean Seaye</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/895,1658,90,99">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/133675177 ">Gades</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/913,1494,69,113">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/315127257 ">ebosus
+               insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/958,1429,58,56">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/148184584 ">Sardinia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/896,1286,109,97">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/244081256 ">Sicilia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/801,1281,67,48">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/247626356 ">corcica</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/950,1217,58,55">
+                    <placeName type="ety/des" ref="/">Stripodes</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/998,1166,74,46">
+                    <placeName type="ety" ref="http://viaf.org/viaf/239488010 ">lyparis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/919,1169,54,60">
+                    <placeName type="ety/des" ref="/">Fenicus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1019,1221,63,72">
+                    <placeName type="ety" ref="http://viaf.org/viaf/464145857885923020676 ">Strongile</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/866,1199,50,59">
+                    <placeName type="ety/des" ref="/">Festia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/901,1102,50,50">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/236336846 ">chio</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/768,1070,50,50">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/238993010 ">samos</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/831,1074,50,50">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/156004022 ">paros</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/963,1088,50,50">
+                    <placeName type="des" ref="https://d-nb.info/gnd/4119582-6 ">terasia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1127,1118,52,62">
+                    <placeName type="des" ref="Q1232442 ">calipso</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1141,990,44,62">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/72144647637380166582 ">canopia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/853,986,43,51">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/233718569 ">rodus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/804,1012,43,51">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/236790584 ">Choos</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/743,978,41,51">
+                    <placeName type="des" ref="https://d-nb.info/gnd/4044911-7 ">pathmos</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/624,972,43,35">
+                    <placeName type="des" ref="/">colchos</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/825,885,56,81">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/236790584 ">cyprus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1024,1020,96,109">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/237254468 ">creta
+               insula</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1062,1265,53,66">
+                    <placeName type="ety" ref="http://viaf.org/viaf/235216203 ">didime</placeName>
+                </p>
+            <!-- nicht in der Edition von Gautier Dalché -->
+            <lb/>
+            <head>Asia</head>
+            <head>The rivers of Asia</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/744,358,95,31">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/240776160 ">Ganges
+               fl.</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/920,420,66,29">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/237269647 ">Fl.
+               indus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/697,545,97,30">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/236538332 ">Fl.
+               tigris</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/880,512,79,46">
+                    <placeName type="ety" ref="http://viaf.org/viaf/315145464 ">Fl.
+               idaspis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1008,524,64,37">
+                    <placeName type="ety" ref="/">Fl.
+               arbis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/714,608,97,53">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/237806341 ">Fl.
+               eufrates</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/635,803,50,60">
+                    <placeName type="des" ref="/">Fl.
+               euxis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/975,816,59,60">
+                    <placeName type="des" ref="http://viaf.org/viaf/125091880 ">Iordanis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/263,765,90,27">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/305331731 ">Fl.
+               araxis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/555,385,106,22">
+                    <placeName type="des" ref="/">fl.
+               Boreus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/189,961,129,44">
+                    <placeName type="ety" ref="http://viaf.org/viaf/248092382 ">Fl.
+               tanais</placeName>
+                </p>
+            <lb/>
+            <head>Mountains of Asia</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/805,183,128,74">
+                    <placeName type="des" ref="/">caligardamana promontorium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1098,276,112,62">
+                    <placeName type="des" ref="/">mons
+               maleus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/633,644,65,62">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/315127904 ">mons
+               taurus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/923,772,48,81">
+                    <placeName type="ety/des" ref="https://d-nb.info/gnd/4035568-8 ">mons
+               libanus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1254,684,58,85">
+                    <placeName type="des" ref="http://viaf.org/viaf/315149342 ">mons
+               synai</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/589,746,105,57">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/316431476 ">ararath
+               montes armenie</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/227,689,135,27">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/242526666 ">mons
+               caucasus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/536,532,91,55">
+                    <placeName type="des" ref="Q1054699 ">acrocerauni</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/630,542,69,92">
+                    <placeName type="des" ref="/">ariobarzanes</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/699,415,29,120">
+                    <placeName type="des" ref="/">memarmoli</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/706,318,32,89">
+                    <placeName type="des" ref="/">oscobares</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/718,219,23,92">
+                    <placeName type="/" ref="/">timauus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/440,597,102,143">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/237473291 ">porte
+               caspie</placeName>
+                </p>
+            <lb/>
+            <head>The regiones, cities and peoples of
+               Asia</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/737,200,50,50">
+                    <placeName type="ety" ref="http://viaf.org/viaf/239863610 ">bactriani</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/845,262,74,50">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/135375457 ">india
+               que finem facit</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/756,303,78,50">
+                    <placeName type="des" ref="/">cathmorum gens optima</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/952,232,131,89">
+                    <placeName type="ety/des" ref="/">c.
+               enoch</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1211,267,77,97">
+                    <placeName type="des" ref="/">columpne alexandri</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/916,316,112,112">
+                    <placeName type="des" ref="/">c.
+               nisan</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1030,322,107,124">
+                    <placeName type="des" ref="/">c.
+               palibotra</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1185,415,99,112">
+                    <placeName type="/" ref="/">c.
+               eriforum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/729,444,62,78">
+                    <placeName type="des" ref="/">c.
+               carra</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/828,406,87,106">
+                    <placeName type="des" ref="Q5680 ">c.
+               niniue</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/979,453,77,70">
+                    <placeName type="des" ref="/">c.
+               ectesifon</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1060,490,93,86">
+                    <placeName type="des" ref="/">c.
+               archimedon</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/763,588,165,88">
+                    <placeName type="des" ref="/">c.
+               edissa</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1016,591,92,102">
+                    <placeName type="ety" ref="http://viaf.org/viaf/146198874 ">c.
+               babilon</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1111,591,141,96">
+                    <placeName type="des" ref="http://viaf.org/viaf/315170472 ">c.
+               adrianopolis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/544,705,112,66">
+                    <placeName type="des" ref="Q126553 ">archa
+               noe</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/704,654,99,113">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/22160544379509980611 ">c.
+               Seleucia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/795,677,84,86">
+                    <placeName type="des" ref="/">c.
+               lauditia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/872,687,99,82">
+                    <placeName type="des" ref="http://viaf.org/viaf/240814297 ">antiochia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/542,830,85,43">
+                    <placeName type="ety/des" ref="/">temiscerii campi</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/700,762,68,80">
+                    <placeName type="des" ref="/">c.
+               decusa</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/971,709,111,94">
+                    <placeName type="des" ref="/">c.
+               cesarea philippi</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1073,706,82,71">
+                    <placeName type="des" ref="http://viaf.org/viaf/153218982 ">c.
+               nazareth</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1151,696,104,117">
+                    <placeName type="des" ref="http://viaf.org/viaf/315531503 ">c.
+               capharnaum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/643,838,115,115">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/244579528 ">c.
+               nichomedia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/901,961,77,98">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/124395803 ">c.
+               tyrus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/982,882,73,99">
+                    <placeName type="des" ref="http://viaf.org/viaf/148709451 ">c.
+               Ioppe</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1071,816,97,144">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/131280745 ">c.
+               Ierusalem</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1159,872,106,98">
+                    <placeName type="des" ref="http://viaf.org/viaf/143380634 ">c.
+               Bethleem</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1205,806,83,91">
+                    <placeName type="des" ref="">Iericho</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/646,216,67,107">
+                    <placeName type="ety/des" ref="/">c.
+               Seres</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/566,242,97,90">
+                    <placeName type="des" ref="/">c.
+               octorogorra</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/512,326,194,78">
+                    <placeName type="des" ref="/">uicus
+               Safrim</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/367,409,133,31">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/233709227 ">hircania superior</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/513,397,113,112">
+                    <placeName type="des" ref="/">c.
+               Sarmathana</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/627,417,71,109">
+                    <placeName type="des" ref="/">c.
+               catippi</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/511,514,113,155">
+                    <placeName type="des" ref="/">c.
+               alexandria</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/459,547,82,48">
+                    <placeName type="ety/des" ref="http://vocab.getty.edu/page/tgn/7004538 ">armenia
+               superior</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/626,550,45,38">
+                    <placeName type="ety/des" ref="Q19083 ">hibernia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/250,647,177,26">
+                    <placeName type="ety" ref="http://viaf.org/viaf/233709227 ">hircania silua</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/223,669,203,15">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/233709227 ">hircania inferior</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/197,714,77,28">
+                    <placeName type="/" ref="/">arimphei</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/280,718,125,25">
+                    <placeName type="ety/des" ref="/">albania
+               superior</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/253,818,154,40">
+                    <placeName type="des" ref="/">Regio
+               amazonum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/156,874,142,53">
+                    <placeName type="des" ref="/">are
+               alexandri</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/185,914,161,31">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/391145424566586831498 ">meotide
+               paludes</placeName>
+                </p>
+            <!--<lb/>
+            <p facs="bsb00112097_00312.jpg/1064,441,61,28">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/135375457">India</placeName>
+                </p>-->
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1294,760,44,27">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/234112718 ">asia</placeName>
+                </p>
+            <lb/>
+            <head type="main">Europe</head>
+            <head n="2">The rivers of Europe</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/50,784,50,50">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/243109688 ">Fl.
+               ypanes</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/228,1239,75,75">
+                    <placeName type="des" ref="http://viaf.org/viaf/7935148632953630630008 ">Fl.
+               lemannus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/523,1141,47,61">
+                    <placeName type="des" ref="http://viaf.org/viaf/240065078 ">Fl.
+               drabo</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/467,1275,86,38">
+                    <placeName type="des" ref="http://viaf.org/viaf/248111121 ">Fl.
+               sabo</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/581,1264,84,31">
+                    <placeName type="des" ref="http://viaf.org/viaf/315144426 ">Fl.
+               strimon</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/509,1377,76,36">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/235009044 ">Fl.
+               danubius</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/842,1408,52,82">
+                    <placeName type="ety" ref="http://viaf.org/viaf/316430945 ">Fl.
+               ty...</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/508,1439,67,41">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/3145602320301361474 ">Fl.
+               renus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/608,1459,24,87">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/132057473 ">Fl.
+               rodanus</placeName>
+                </p>
+            <lb/>
+            <head>The regions and cities of Europe</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/327,1026,85,66">
+                    <placeName type="des" ref="http://viaf.org/viaf/146645300 ">c.
+               theodosia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/184,1116,66,26">
+                    <placeName type="ety/des" ref="/">alania</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/264,1119,113,102">
+                    <placeName type="des" ref="/">c.
+               cersona</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/198,1223,117,20">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/245418360 ">Scitia
+               inferior</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/567,1007,133,115">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/3146951283615371273 ">c.
+               constantinopolis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/356,1192,69,126">
+                    <placeName type="des" ref="/">c.
+               ransburg</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/439,1155,68,131">
+                    <placeName type="des" ref="http://viaf.org/viaf/246997172 ">c.
+               eraclea</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/500,1198,59,99">
+                    <placeName type="des" ref="http://viaf.org/viaf/159441810 ">c.
+               beroe</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/570,1124,91,122">
+                    <placeName type="des" ref="http://viaf.org/viaf/148988510 ">c.
+               Larissa</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/455,1299,105,87">
+                    <placeName type="des" ref="/">c.
+               lorum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/673,1158,79,109">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/130123345 ">c.
+               chorintus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/748,1126,92,134">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/131280462 ">c.
+               athene</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/584,1299,80,40">
+                    <placeName type="des" ref="/">c.
+               dirracium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/601,1317,83,103">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/237712385 ">c.
+               thebe</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/359,1408,77,91">
+                    <placeName type="des" ref="/">bononia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/731,1415,57,85">
+                    <placeName type="des" ref="/">c.
+               mediolanum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/834,1346,51,28">
+                    <placeName type="ety/des" ref="http://vocab.getty.edu/page/tgn/7023981">Italia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/813,1394,118,108">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/145348938 ">c.
+               Roma</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/754,1348,81,90">
+                    <placeName type="des" ref="/">rauenna</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/565,1484,39,40">
+                    <placeName type="ety" ref="http://viaf.org/viaf/242520115 ">Gallia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/402,1376,117,124">
+                    <placeName type="des" ref="/">c.
+               magontia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/377,1523,61,39">
+                    <placeName type="des" ref="http://viaf.org/viaf/3274148632972830630006 ">Normannia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/382,1520,108,101">
+                    <placeName type="des" ref="/">c.
+               rotomagus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/482,1519,70,118">
+                    <placeName type="des" ref="/">c.
+               beluacus</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/552,1517,91,118">
+                    <placeName type="des" ref="/">c.
+               remis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/643,1494,89,88">
+                    <placeName type="des" ref="/">c.
+               lugdunum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/725,1519,68,68">
+                    <placeName type="des" ref="http://viaf.org/viaf/243449555 ">c.
+               arelatum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/795,1529,71,41">
+                    <placeName type="des" ref="/">Prouintia</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/648,1588,77,119">
+                    <placeName type="des" ref="http://viaf.org/viaf/141427398 ">c.
+               burdegala</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/704,1598,77,26">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/127778483 ">aquitania</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/759,1626,82,19">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/238991012 ">hispania</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/805,1628,89,131">
+                    <placeName type="des" ref="http://viaf.org/viaf/1169158188256820260008 ">c.
+               cesaraugusta</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/709,1650,91,120">
+                    <placeName type="des" ref="http://viaf.org/viaf/155934955 ">c.
+               corduba</placeName>
+                </p>
+            <lb/>
+            <head>Africa</head>
+            <head>The rivers of Africa</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1446,418,105,84">
+                    <placeName type="des" ref="/">Archipoleta lacus quem nilus ingreditur</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1406,562,90,37">
+                    <placeName type="des" ref="http://viaf.org/viaf/316429432 ">hinc
+               Nilus emergit</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1079,1432,102,39">
+                    <placeName type="des" ref="/">fl.
+               Bagrada</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1165,1517,70,25">
+                    <placeName type="ety/des" ref="/">fl.
+               ansaga</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1218,1607,58,45">
+                    <placeName type="des" ref="/">fl.
+               dara</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1406,1353,81,130">
+                    <placeName type="des" ref="/">fl.
+               nuchul qui et nilus</placeName>
+                </p>
+            <lb/>
+            <head>The mountains of Africa</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1211,1401,55,178">
+                    <placeName type="ety/des" ref="/">mons
+               astrixis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1066,1612,103,179">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/236776704 ">mons
+               athlas</placeName>
+                </p>
+            <lb/>
+            <head>Animals of Africa</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1409,1039,159,162">
+                    <persName type="/" ref="/">lupus
+               cornutus</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1316,1182,213,169">
+                    <persName type="des" ref="/">leo</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1211,1551,49,32">
+                    <persName type="/" ref="/">simie</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1606,717,86,314">
+                    <persName type="des" ref="/">serpentes</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1410,1291,179,303">
+                    <persName type="/" ref="/">coluber
+               mire longitudinis</persName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1576,1038,108,245">
+                    <persName type="des" ref="/">prester</persName>
+                </p>
+            <lb/>
+            <head>The regions and cities of Africa</head>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1453,610,104,54">
+                    <placeName type="ety/des" ref="Q410453 ">ethiopum deserta loca</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1438,695,156,143">
+                    <placeName type="des" ref="/">monasteria monachorum egypti</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1359,728,56,59">
+                    <placeName type="des" ref="https://d-nb.info/gnd/4051293-9 ">egyptiaca deserta</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1314,865,74,108">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/146198874 ">c.
+               babyolon</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1398,796,33,72">
+                    <placeName type="des" ref="/">meroe
+               c.</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1453,899,126,120">
+                    <placeName type="des" ref="/">castra
+               alexandri</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1405,978,191,61">
+                    <placeName type="des" ref="/">catabathmon</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1199,1036,134,109">
+                    <placeName type="des" ref="http://viaf.org/viaf/129002681 ">c.
+               alexandria</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1182,1179,141,104">
+                    <placeName type="des" ref="/">c.
+               paretonium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1126,1234,71,45">
+                    <placeName type="des" ref="/">syrtes</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1124,1272,114,80">
+                    <placeName type="des" ref="/">are
+               philenorum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1308,1301,99,136">
+                    <placeName type="/" ref="/">c.
+               tuburbis</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/994,1336,79,77">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/244968426 ">c.
+               carthago</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1100,1327,119,136">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/235674955 ">c.
+               bizatium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1031,1479,135,66">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/316430283 ">yppo
+               regium</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1006,1552,127,92">
+                    <placeName type="des" ref="/">c.
+               septem oppidum</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/986,1655,73,112">
+                    <placeName type="des" ref="/">c.
+               Lix</placeName>
+                </p>
+            <lb/>
+            <p facs="bsb00112097_00312.jpg/1305,1488,103,134">
+                    <placeName type="ety/des" ref="/">c.
+               esperia</placeName>
+                </p>
+               <lb/>
+            <p facs="bsb00112097_00312.jpg/1334,765,34,27">
+                    <placeName type="ety/des" ref="http://viaf.org/viaf/123310773 ">africa</placeName>
+                </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol159v.xml" prev="fol159r.xml" next="fol160r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 159v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol159v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00322/full/full/0/default.jpg" n="bsb00112097_00322"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 159v" facs="#fol159v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>Cuius initium <placeName ref="#bel145" xml:id="m-159v-001">belgica</placeName>, finis <placeName ref="#aqu196" xml:id="m-159v-002">aquitania</placeName> est; <lb n="2"/>regio gleba uberi ac pabulosa et
+               <lb n="3"/>ad usum animantium apta, flu<lb break="no" n="4"/>minibus quoque et fontibus irrigua,
+               <lb n="5"/>perfusa duobus magnis <placeName ref="#rhe138" xml:id="m-159v-003">rheno</placeName> et <placeName ref="#rho197" xml:id="m-159v-004">roda<lb break="no" n="6"/>no</placeName> fluviis. Belgis autem civitas est <lb n="7"/>galliae, a qua <placeName ref="#bel145" xml:id="m-159v-005">belgica</placeName> provincia di<lb break="no" n="8"/>cta est. <placeName ref="#bel145" xml:id="m-159v-006">Cisalpina</placeName>, quia citra <placeName ref="#alp182" xml:id="m-159v-007">alpes</placeName>. <lb n="9"/>
+                    <placeName ref="#bel145" xml:id="m-159v-008">Transalpina</placeName>, id est trans <placeName ref="#alp182" xml:id="m-159v-009">alpes</placeName>, contra <lb n="10"/>septentrionem. <placeName ref="#rat144" xml:id="m-159v-010">Raetia</placeName> vero, quod sit iux<lb break="no" n="11"/>ta <placeName ref="#rhe138" xml:id="m-159v-011">renum</placeName>. <placeName ref="#aqu196" xml:id="m-159v-012">Aquitania</placeName> autem <lb n="12"/>ab obliquis aquis <placeName ref="#lig198" xml:id="m-159v-013">ligeris</placeName> fluminis <lb n="13"/>appellata, qui ex plurima parte
+               <lb n="14"/>terminus eius est, eamque pene in orbem cingit. <lb n="15"/>
+                    <placeName ref="#his134" xml:id="m-159v-014">Ispania</placeName> prius ab <placeName ref="#ibr199" xml:id="m-159v-015">ibero</placeName> amne <placeName ref="#his134" xml:id="m-159v-016">iberia</placeName> <lb n="16"/>nuncupata, postea ab <persName ref="#his71" xml:id="m-159v-017">ispano</persName> <placeName ref="#his134" xml:id="m-159v-018">ispa<lb break="no" n="17"/>nia</placeName> cognominata est. Ipsa est et <lb n="18"/>vera <placeName ref="#his134" xml:id="m-159v-019">esperia</placeName>, ab espero stella occiden<lb break="no" n="19"/>tali dicta. Sita est autem inter <placeName ref="#afr3" xml:id="m-159v-020">afri<lb break="no" n="20"/>cam</placeName> et <placeName ref="#gal132" xml:id="m-159v-021">galliam</placeName>, a septentrione <placeName ref="#pyr195" xml:id="m-159v-022">pi<lb break="no" n="21"/>reneis montibus</placeName> clausa, a reliquis <lb n="22"/>partibus undique <placeName ref="#mit4" xml:id="m-159v-023">mari</placeName> conclusa, <lb n="23"/>salubritate caeli aequalis, omnium
+               <lb n="24"/>frugum generibus fecunda, gema<lb break="no" n="25"/>rum metallorumque copiis
+               ditissima. <lb n="26"/>Interfluunt eam flumina magna: <lb n="27"/>
+                    <placeName ref="#bae200" xml:id="m-159v-024">betis</placeName>, <placeName ref="#min201" xml:id="m-159v-025">mineus</placeName>, <placeName ref="#ibr199" xml:id="m-159v-026">iberus</placeName> et <placeName ref="#tag202" xml:id="m-159v-027">tagus </placeName> <lb n="28"/>aurum trahens, ut <placeName ref="#pac120" xml:id="m-159v-028">pactolus</placeName>. <lb n="29"/>Habet
+               provincias sex: <placeName ref="#tar203" xml:id="m-159v-029">terraconensem</placeName>, <lb n="30"/>
+                    <placeName ref="#kar204" xml:id="m-159v-030">carthaginensem</placeName>, <placeName ref="#lus205" xml:id="m-159v-031">lusitaniam</placeName>, <placeName ref="#gal132" xml:id="m-159v-032">galli<lb break="no" n="31"/>tiam</placeName>, <placeName ref="#bae206" xml:id="m-159v-033">beticam</placeName>, et trans freta in <lb n="32"/>regione <placeName ref="#afr3" xml:id="m-159v-034">africae</placeName> <placeName ref="#tin207" xml:id="m-159v-035">tingitaniam</placeName>. Duae <lb n="33"/>sunt autem <placeName ref="#his134" xml:id="m-159v-036">ispaniae</placeName>: <placeName ref="#his134" xml:id="m-159v-037">citerior</placeName>, quae <lb n="34"/>in septentrionis plaga a <placeName ref="#pyr195" xml:id="m-159v-038">pyreneo</placeName> <lb n="35"/>usque ad <placeName ref="#kar204" xml:id="m-159v-039">carthaginem</placeName> porrigitur; <placeName ref="#kar204" xml:id="m-159v-040">ulterior</placeName>, <lb n="36"/>quae in meridiem a celtiberis usque
+               <lb n="37"/>ad <placeName ref="#buc208" xml:id="m-159v-041">gaditanum fretum</placeName> extenditur. <lb n="38"/>
+                    <placeName ref="#his134" xml:id="m-159v-042">Citerior</placeName> autem et <placeName ref="#kar204" xml:id="m-159v-043">ulterior</placeName> dicta quasi citra et ultra; <lb n="39"/>Sed citraquasi
+               circa terras, et ultra vel quod ul<lb break="no" n="40"/>tima vel quod non sit post hanc
+               ulla, hoc est <lb n="41"/>alia, terra. </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>De <placeName ref="#afr3" xml:id="m-159v-044">libia</placeName> et partibus. eius <lb n="2"/>
+                    <placeName ref="#afr3" xml:id="m-159v-045">Libia</placeName> dicta quod inde libs flat, hoc <lb n="3"/>est africus.
+               Alii aiunt <persName ref="#epa72" xml:id="m-159v-046">epauum</persName> <lb n="4"/>
+                    <persName ref="#jup37" xml:id="m-159v-047">iovis</persName> filium, qui <placeName ref="#mem209" xml:id="m-159v-048">memphin</placeName> in <placeName ref="#agy42" xml:id="m-159v-049">egyp<lb break="no" n="5"/>to</placeName> condidit, ex <persName ref="#kas73" xml:id="m-159v-050">cassiota</persName> uxore pro<lb break="no" n="6"/>creasse filiam <persName ref="#lib74" xml:id="m-159v-051">libiam</persName>, quae postea <lb n="7"/>in
+                  <placeName ref="#afr3" xml:id="m-159v-052">africa</placeName> regnum possedit. cuius <lb n="8"/>ex nomine
+               terra <placeName ref="#afr3" xml:id="m-159v-053">libia</placeName> est appellata. <lb n="9"/>
+                    <placeName ref="#afr3" xml:id="m-159v-054">Africam</placeName> autem nominatam quidam <lb n="10"/>inde existimant, quasi
+                  <placeName ref="#afr3" xml:id="m-159v-055">apricam</placeName>, <lb n="11"/>quod sit aperta caelo vel soli et
+               sine hor<lb break="no" n="12"/>rore frigoris. Alii dicunt <placeName ref="#afr3" xml:id="m-159v-056">africam</placeName> <lb n="13"/>appellari ab uno ex posteris <persName ref="#abr76" xml:id="m-159v-057">abra<lb break="no" n="14"/>hae</persName> de <persName ref="#cet77" xml:id="m-159v-058">cetura</persName>, qui vocatus est <persName ref="#cet77" xml:id="m-159v-059">afer</persName>, <lb n="15"/>de quo supra meminimus. Incipit
+               <lb n="16"/>autem a finibus <placeName ref="#agy42" xml:id="m-159v-060">egypti</placeName> pergens iux<lb break="no" n="17"/>ta meridiem per <placeName ref="#ath69" xml:id="m-159v-061">ethiopiam</placeName> usque <lb n="18"/>ad <placeName ref="#atl210" xml:id="m-159v-062">athlantem montem</placeName>. A septentrio<lb break="no" n="19"/>nali vero parte <placeName ref="#mit4" xml:id="m-159v-063">mediterraneo mari</placeName> <lb n="20"/>coniuncta clauditur, et in <placeName ref="#buc208" xml:id="m-159v-064">gadita<lb break="no" n="21"/>num fretum</placeName> finitur, habens <lb n="22"/>provincias <placeName ref="#lib211" xml:id="m-159v-065">libiam cyrenensem</placeName>, en<lb break="no" n="23"/>tapolim, <placeName ref="#tri212" xml:id="m-159v-066">tripolim</placeName>, <placeName ref="#byz213" xml:id="m-159v-067">bizacium</placeName>, <placeName ref="#kar204" xml:id="m-159v-068">car<lb break="no" n="24"/>thaginem</placeName>, <placeName ref="#num214" xml:id="m-159v-069">numidiam</placeName>, <placeName ref="#mau215" xml:id="m-159v-070">mauretaniam <lb n="25"/>sitifensem</placeName>, <placeName ref="#tin207" xml:id="m-159v-071">mauretaniam tingita<lb break="no" n="26"/>nam</placeName>, et circa solis ardorem <placeName ref="#ath69" xml:id="m-159v-072">ethiopiam</placeName>. <lb n="27"/>
+                    <placeName ref="#lib211" xml:id="m-159v-073">Libia cyrenensis</placeName> in parte <placeName ref="#afr3" xml:id="m-159v-074">africae</placeName> pri<lb break="no" n="28"/>ma est, a
+                  <placeName ref="#cyr216" xml:id="m-159v-075">cyrene</placeName> urbe metropoli, <lb n="29"/>quae est in eius
+               finibus, nuncupata. <lb n="30"/>Huic ab oriente <placeName ref="#agy42" xml:id="m-159v-076">egyptus</placeName> est, ab occasu <lb n="31"/>
+                    <placeName ref="#gro217" xml:id="m-159v-077">sirtes maiores</placeName> et <placeName ref="#tro218" xml:id="m-159v-078">trogoditae</placeName>, a septen<lb break="no" n="32"/>trione <placeName ref="#lib219" xml:id="m-159v-079">mare libicum</placeName>, a meridie <lb n="33"/>
+                    <placeName ref="#ath69" xml:id="m-159v-080">ethiopia</placeName> et barbarorum variae nati<lb break="no" n="34"/>ones et solitudines
+               inaccessibiles, <lb n="35"/>quae etiam basiliscos serpentes creant. <lb n="36"/>Pentapolis greca
+               lingua a quinque ur<lb break="no" n="37"/>bibus nuncupata: id est <placeName ref="#ber220" xml:id="m-159v-081">berenice</placeName>, <lb n="38"/>
+                    <placeName ref="#cyr216" xml:id="m-159v-082">cyrene</placeName> <placeName ref="#ceu221" xml:id="m-159v-083">ceutria</placeName>, <placeName ref="#apo222" xml:id="m-159v-084">apollonia</placeName>, <placeName ref="#pto223" xml:id="m-159v-085">ptolo<lb break="no" n="39"/>maida</placeName>; ex quibus <placeName ref="#pto223" xml:id="m-159v-086">ptolomaida</placeName> et <placeName ref="#ber220" xml:id="m-159v-087">be<lb break="no" n="40"/>renice</placeName> a regibus nominatae sunt.</p>
+            </div>
+            </body>
+  </text>
+</TEI>

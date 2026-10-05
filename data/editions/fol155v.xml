@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol155v.xml" prev="fol155r.xml" next="fol156r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 155v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol155v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00314/full/full/0/default.jpg" n="bsb00112097_00314"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 155v" facs="#fol155v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>a propriis auctoribus ita trahentes. <lb n="2"/>
+                    <placeName ref="#ara20" xml:id="m-155v-001">Aracusia</placeName> ab oppido suo nominata. <lb n="3"/>
+                    <placeName ref="#par17" xml:id="m-155v-002">Parthiam</placeName> parthi ab <placeName ref="#sky27" xml:id="m-155v-003">scithia</placeName> venien<lb break="no" n="4"/>tes occupaverunt, eamque ex suo <lb n="5"/>nomine vocaverunt. Huic
+               a me<lb break="no" n="6"/>ridie <placeName ref="#rot28" xml:id="m-155v-004">rubrum mare</placeName> est, a septen<lb break="no" n="7"/>trione <placeName ref="#kas29" xml:id="m-155v-005">hircanum salum</placeName>, ab occi<lb break="no" n="8"/>dua solis plaga <placeName ref="#med21" xml:id="m-155v-006">media</placeName>. Regna in <lb n="9"/>ea decem et octo sunt, porrecta a <lb n="10"/>
+                    <placeName ref="#kas30" xml:id="m-155v-007">Caspio littore</placeName> usque ad terras scitarum. <lb n="11"/>
+                    <placeName ref="#ass19" xml:id="m-155v-008">Assyria</placeName> vocata ab <persName ref="#ass6" xml:id="m-155v-009">assur</persName> filio <persName ref="#sem7" xml:id="m-155v-010">sem</persName>, <lb n="12"/>qui eam post diluvium regionem
+               <lb n="13"/>primus incoluit. Haec ab ortu <lb n="14"/>
+                    <placeName ref="#ind8" xml:id="m-155v-011">indiam</placeName>, a meridie <placeName ref="#med21" xml:id="m-155v-012">mediam</placeName> tangit,<lb n="15"/>
+               ab occiduo <placeName ref="#tig23" xml:id="m-155v-013">tigrim</placeName>, a septentrione <lb n="16"/>
+                    <placeName ref="#kau10" xml:id="m-155v-014">montem caucasum</placeName>, ubi <placeName ref="#kas30" xml:id="m-155v-015">portae <lb n="17"/>caspiae</placeName> sunt. In hac regione primus usus in<lb break="no" n="18"/>ventus est purpurae, inde primum crinium et corporum
+               unguenta vene<lb break="no" n="19"/>runt et odores, quibus romanorum <lb n="20"/>atque grecorum
+               effluxit luxuria. <lb n="21"/>
+                    <placeName ref="#med21" xml:id="m-155v-016">Media</placeName> et <placeName ref="#per22" xml:id="m-155v-017">persida</placeName> a regibus <persName ref="#med8" xml:id="m-155v-018">medo</persName> et <persName ref="#per9" xml:id="m-155v-019">perso</persName> cogno<lb break="no" n="22"/>minatae, qui eas
+               provincias bellan<lb break="no" n="23"/>do adgressi sunt. Ex quibus <placeName ref="#med21" xml:id="m-155v-020">media</placeName> <lb n="24"/>ab occasu transversa parthia re<lb break="no" n="25"/>gna amplectitur, a septentrione
+                  <lb n="26"/>
+                    <placeName ref="#arm31" xml:id="m-155v-021">armenia</placeName> circumdatur, ab ortu <lb n="27"/>
+                    <placeName ref="#kas29" xml:id="m-155v-022">mari caspio</placeName> dividit, a meridie <lb n="28"/>
+                    <placeName ref="#per22" xml:id="m-155v-023">persida</placeName>. Huius terra medicam arborem <lb n="29"/>gignit, quam alia regio minime <lb n="30"/>parturit. Sunt autem mediae duae, <lb n="31"/>maior
+               et minor. <placeName ref="#per22" xml:id="m-155v-024">Persida</placeName> tendens <lb n="32"/>ab ortu usque ad
+               indos, ab occasu <lb n="33"/>
+                    <placeName ref="#rot28" xml:id="m-155v-025">mare rubrum</placeName> habet, ab aquilone <lb n="34"/>vero <placeName ref="#med21" xml:id="m-155v-026">mediam</placeName> tangit, ab austro <lb n="35"/>
+                    <placeName ref="#kar32" xml:id="m-155v-027">germaniam</placeName>, quae <placeName ref="#per22" xml:id="m-155v-028">persidae</placeName> adnecti<lb break="no" n="36"/>tur, quibus est <placeName ref="#sus33" xml:id="m-155v-029">susa</placeName> oppidum nobi<lb break="no" n="37"/>lissimum. In <placeName ref="#per22" xml:id="m-155v-030">persida</placeName> primum orta <lb n="38"/>est ars magica, ad quam
+                  <persName ref="#nim10" xml:id="m-155v-031">nembrot</persName> <lb n="39"/>gigas post confusionem linguarum <lb n="40"/>abiit, ibique persas ignem colere
+               docuit.</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>Nam omnes in illis partibus solem colunt, <lb n="2"/>qui ipsorum lingua el dicitur.
+                  <lb n="3"/>
+                    <placeName ref="#mes18" xml:id="m-155v-032">Mesopotamia</placeName> grecam ethimologiam <lb n="4"/>possidet, quod duobus fluviis ambi<lb break="no" n="5"/>atur; Nam ab oriente
+                  <placeName ref="#tig23" xml:id="m-155v-033">tigrim</placeName> habet, <lb n="6"/>ab occiduo <placeName ref="#euf34" xml:id="m-155v-034">eufratem</placeName>. Incipit autem <lb n="7"/>a septentrione inter
+                  <placeName ref="#tau35" xml:id="m-155v-035">montem taurum</placeName> <lb n="8"/>et <placeName ref="#kau10" xml:id="m-155v-036">caucasum</placeName>; cuius a meridie sequitur <lb n="9"/>
+                    <placeName ref="#bab36" xml:id="m-155v-037">babylonia</placeName>, deinde <placeName ref="#cha37" xml:id="m-155v-038">chaldaea</placeName>, novis<lb break="no" n="10"/>sime <placeName ref="#ara38" xml:id="m-155v-039">arabia</placeName> eudemon,que int <lb n="11"/>
+                    <placeName ref="#per39" xml:id="m-155v-040">sinum persicum</placeName> et <placeName ref="#rot28" xml:id="m-155v-041">sinuin arabicum</placeName> <lb n="12"/>angusto terrae tractu orientem ver<lb break="no" n="13"/>sus extenditur. <placeName ref="#bab36" xml:id="m-155v-042">Babyloniae</placeName> regio<lb break="no" n="14"/>nis caput <placeName ref="#bab40" xml:id="m-155v-043">babylon</placeName> urbs est, a qua <lb n="15"/>et nuncupata, tam nobilis ut
+                  <lb n="16"/>
+                    <placeName ref="#cha37" xml:id="m-155v-044">chaldaea</placeName> et <placeName ref="#ass19" xml:id="m-155v-045">assyria</placeName> et <placeName ref="#mes18" xml:id="m-155v-046">mesopotamia</placeName> <lb n="17"/>in eius nomen aliquando transierint. <lb n="18"/>
+                    <placeName ref="#ara38" xml:id="m-155v-047">Arabia</placeName> appellata, id est sacra; hoc enim <lb n="19"/>significare
+               interpretatur; eo quod sit <lb n="20"/>regio thuriferos, odores creans: <lb n="21"/>Hinc eam greci
+                  <placeName ref="#ara38" xml:id="m-155v-048">eudemon</placeName>, nostri <placeName ref="#ara38" xml:id="m-155v-049">bea<lb break="no" n="22"/>tam</placeName> nominaverunt. in cuius <lb n="23"/>saltibus et mirra et
+               cinnamum <lb n="24"/>provenit: Ibi nascitur avis phoenix, <lb n="25"/>sardonix gemma, et hyris,
+                  moloci<lb break="no" n="26"/>dis et pedorata ibi invenitur. <lb n="27"/>Ipsa est et saba,
+               appellata a filio <persName ref="#chu11" xml:id="m-155v-050">chus</persName>, <lb n="28"/>qui nuncupatus est
+                  <persName ref="#sab12" xml:id="m-155v-051">saba</persName>. haec autem <lb n="29"/>ut perdixim angusto terrae
+               tractu ad <lb n="30"/>orientem versus ad <placeName ref="#per39" xml:id="m-155v-052">persicum sinum</placeName> <lb n="31"/>extenditur, cuius septentrionalia <lb n="32"/>
+                    <placeName ref="#cha37" xml:id="m-155v-053">chaldaea</placeName> claudit, occasum <placeName ref="#rot28" xml:id="m-155v-054">sinus arabicus</placeName>. <lb n="33"/>
+                    <placeName ref="#syr41" xml:id="m-155v-055">Syriam</placeName> <persName ref="#syr13" xml:id="m-155v-056">syrus</persName> quidam perhibetur indi<lb break="no" n="34"/>gena a
+               suo vocabulo nuncupasse. <lb n="35"/>Haec ab oriente fluvio <placeName ref="#euf34" xml:id="m-155v-057">eufrate</placeName>, ab <lb n="36"/>occasu <placeName ref="#mit4" xml:id="m-155v-058">mari nostro</placeName> et <placeName ref="#agy42" xml:id="m-155v-059">aegypto</placeName> terminatur, <lb n="37"/>tangens a septentrione <placeName ref="#arm31" xml:id="m-155v-060">armeniam</placeName> <lb n="38"/>et <placeName ref="#kap43" xml:id="m-155v-061">cappadociam</placeName>, a <placeName ref="#rot28" xml:id="m-155v-062">meridie sinum <lb n="39"/>arabicum</placeName>. Situs eius porrectus <lb n="40"/>in inmensam
+               longitudinem, in lato</p>
+            </div>
+           </body>
+  </text>
+</TEI>

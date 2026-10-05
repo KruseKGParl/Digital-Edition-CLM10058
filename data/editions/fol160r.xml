@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol160r.xml" prev="fol159v.xml" next="fol160v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 160r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol160r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00323/full/full/0/default.jpg" n="bsb00112097_00323"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 160r" facs="#fol160r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>Est autem pentapolis <placeName ref="#lib211" xml:id="m-160r-001">libiae cyrenensi</placeName> <lb n="2"/>adiuncta, et eius finibus deputata. <lb n="3"/>
+                    <placeName ref="#tri212" xml:id="m-160r-002">Tripolitanam</placeName> quoque provinciam greci <lb n="4"/>lingua sua signant de
+               numero <lb n="5"/>trium magnarum urbium; <placeName ref="#tri224" xml:id="m-160r-003">occa</placeName>, <lb n="6"/>
+                    <placeName ref="#sab225" xml:id="m-160r-004">sabreta</placeName>, <placeName ref="#lep226" xml:id="m-160r-005">leptis magna</placeName>. Haec habet <lb n="7"/>ab oriente <placeName ref="#gro217" xml:id="m-160r-006">sirtes maiores</placeName> et <placeName ref="#tro218" xml:id="m-160r-007">trogo<lb break="no" n="8"/>ditas</placeName>, a septentrione <placeName ref="#adr158" xml:id="m-160r-008">mare adriati<lb break="no" n="9"/>cum</placeName>, ab occasu <placeName ref="#byz213" xml:id="m-160r-009">bizatium</placeName>, a meridie <lb n="10"/>getulos et garamantas usque ad <placeName ref="#ath227" xml:id="m-160r-010">oc<lb break="no" n="11"/>ceanum ethiopicum</placeName> pertendentes. <lb n="12"/>
+                    <placeName ref="#byz213" xml:id="m-160r-011">Bizacena</placeName> regio ex duobus nobilissimis <lb n="13"/>oppidis nomen sortita est, ex quibus una <lb n="14"/>
+                    <placeName ref="#had228" xml:id="m-160r-012">adrumetus</placeName> vocatur. Haec sub <placeName ref="#tri212" xml:id="m-160r-013">tri<lb break="no" n="15"/>poli</placeName> est, patens passuum ducenta <lb n="16"/>vel amplius
+               milia, fecunda oleis, et <lb n="17"/>glebis ita praepinguis ut iacta ibi semi<lb break="no" n="18"/>nis incrementa pene centesima <lb n="19"/>fruge renascantur. <placeName ref="#zeu229" xml:id="m-160r-014">Zeugis</placeName>, ubi <lb n="20"/>
+                    <placeName ref="#kar204" xml:id="m-160r-015">carthago magna</placeName>. ipsa est et vera <lb n="21"/>
+                    <placeName ref="#afr3" xml:id="m-160r-016">africa</placeName> inter <placeName ref="#byz213" xml:id="m-160r-017">bizacium</placeName> et <placeName ref="#num214" xml:id="m-160r-018">numidi<lb break="no" n="22"/>am</placeName> sita, a septentrione <placeName ref="#siz230" xml:id="m-160r-019">mari siculo</placeName> <lb n="23"/>iuncta, et a meridie usque ad getu<lb break="no" n="24"/>lorum regionem porrecta; cuius
+               proxima <lb n="25"/>quaeque frugifera sunt, ulteriora <lb n="26"/>autem bestiis et serpentibus
+               plena, <lb n="27"/>atque onagris magnis in desertu <lb n="28"/>vagantibus. <placeName ref="#gat231" xml:id="m-160r-020">Getulia</placeName> autem <placeName ref="#afr3" xml:id="m-160r-021">africae</placeName> <lb n="29"/>pars mediterranea est. <placeName ref="#num214" xml:id="m-160r-022">Numidia</placeName> <lb n="30"/>ab incolis passim vagantibus sic <lb n="31"/>vocata, quod nullam certam haberent
+               <lb n="32"/>sedem. Nam lingua eorum incertae <lb n="33"/>sedes et vagae numidiae dicuntur.
+               <lb n="34"/>Incipit autem a flumine <placeName ref="#ams232" xml:id="m-160r-023">ansaga</placeName>, <lb n="35"/>et in
+                  <placeName ref="#zeu229" xml:id="m-160r-024">zeugitanum</placeName> limitem definit, <lb n="36"/>habens ab
+               oriente <placeName ref="#gol233" xml:id="m-160r-025">sirtes minores</placeName>, <lb n="37"/>a septentrione
+                  <placeName ref="#mit4" xml:id="m-160r-026">mare</placeName> quod intendit <lb n="38"/>
+                    <placeName ref="#sar234" xml:id="m-160r-027">sardiniam</placeName>, ab occasu <placeName ref="#mau215" xml:id="m-160r-028">maurita<lb break="no" n="39"/>niam sitifensem</placeName>, a meridie ethio<lb break="no" n="40"/>pum
+               gentes: regio campis praepinguis.</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>Ubi autem silvestris est, feras educit; <lb n="2"/>ubi iugis ardua, equos et onagros
+               <lb n="3"/>procreat; Eximio etiam marmore <lb n="4"/>praedicatur, quod numidicum dicitur.
+               <lb n="5"/>Habet autem urbes praecipuas: <placeName ref="#hip235" xml:id="m-160r-029">yppone</placeName>, <lb n="6"/>regium et <placeName ref="#rus236" xml:id="m-160r-030">russicadam</placeName>. <placeName ref="#mau237" xml:id="m-160r-031">Mauri<lb break="no" n="7"/>tania</placeName> vocata a colore populorum; <lb n="8"/>Greci enim nigrum mauron vo<lb break="no" n="9"/>cant. Sicut enim <placeName ref="#gal132" xml:id="m-160r-032">gallia</placeName> a cando<lb break="no" n="10"/>re populi, ita <placeName ref="#mau237" xml:id="m-160r-033">mauritania</placeName> a nigro<lb break="no" n="11"/>re nomen sortita est.
+               Cuius prima provin<lb break="no" n="12"/>cia <placeName ref="#mau215" xml:id="m-160r-034">mauritania sitifensis</placeName> est, quae <lb n="13"/>
+                    <placeName ref="#sit238" xml:id="m-160r-035">sitifi</placeName> habuit oppidum; a quo et <lb n="14"/>vocabulum traxisse regio perhibetur. <lb n="15"/>
+                    <placeName ref="#mau239" xml:id="m-160r-036">Mauritania vero cesarensis</placeName>: coloniae <lb n="16"/>
+                    <placeName ref="#mau239" xml:id="m-160r-037">cesareae</placeName> civitas fuit, et nomen provin<lb break="no" n="17"/>ciae ex ea datum. Utraeque enim provin<lb break="no" n="18"/>ciae sibi coniunctae ab
+               oriente <placeName ref="#num214" xml:id="m-160r-038">nu<lb break="no" n="19"/>midiam</placeName> habent, a septentrione <lb n="20"/>
+                    <placeName ref="#mit4" xml:id="m-160r-039">mare magnum</placeName>, ab occasu flumen <lb n="21"/>
+                    <placeName ref="#mal240" xml:id="m-160r-040">malvam</placeName>, a meridie montem <lb n="22"/>
+                    <placeName ref="#ast241" xml:id="m-160r-041">astrixim</placeName>, qui discernit inter <lb n="23"/>fecundam terram et
+               harenas iacen<lb break="no" n="24"/>tes usque ad occeanum. <placeName ref="#tin207" xml:id="m-160r-042">Mauritania <lb n="25"/>tingitana</placeName> a <placeName ref="#tin242" xml:id="m-160r-043">tingi</placeName> metropolitana <lb n="26"/>huius provinciae civitate vocata est.
+               <lb n="27"/>Haec ultima <placeName ref="#afr3" xml:id="m-160r-044">africae</placeName> exurgit a mon<lb break="no" n="28"/>tibus septem, habens ab oriente flu<lb break="no" n="29"/>men <placeName ref="#mal240" xml:id="m-160r-045">malvam</placeName>, a septentrione <placeName ref="#buc208" xml:id="m-160r-046">fretum <lb n="30"/>gaditanum</placeName>, ab occiduo <placeName ref="#atl243" xml:id="m-160r-047">occeanum <lb n="31"/>athlanticum</placeName>, a meridie gaulo<lb break="no" n="32"/>lum gentes usque ad
+               occeanum esperium <lb n="33"/>pererrantes: regio gignens feras, <lb n="34"/>simias, dracones et
+               struciones. <lb n="35"/>olim etiam et elefantis plena fuit, <lb n="36"/>quos sola nunc <placeName ref="#ind8" xml:id="m-160r-048">india</placeName> parturit. <lb n="37"/>
+                    <placeName ref="#gar244" xml:id="m-160r-049">Garamantis</placeName> regionis caput <placeName ref="#gar245" xml:id="m-160r-050">garama</placeName> <lb n="38"/>oppidum fuit. Est autem inter <lb n="39"/>
+                    <placeName ref="#lib211" xml:id="m-160r-051">cyrenensem</placeName> et <placeName ref="#ath69" xml:id="m-160r-052">ethiopiam</placeName>, ubi est <lb n="40"/>fons qui friget calore diei et calet</p>
+            </div>
+            </body>
+  </text>
+</TEI>

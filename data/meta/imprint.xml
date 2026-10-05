@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="imprint.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="de">Impressum</title>
+                <title type="main" xml:lang="en">Imprint</title>
+            </titleStmt>
+            <publicationStmt><p>Digitale Edition, Universität Paderborn</p></publicationStmt>
+            <sourceDesc><p>born digital</p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="de">
+                <head>Verantwortlich für den Inhalt</head>
+                <p><hi>TODO: Impressum noch ausstehend – die Angaben unten sind vorläufig.</hi></p>
+                <p>Maximilian Kruse<lb/>[TODO: ladungsfähige Anschrift und E-Mail-Adresse ergänzen]</p>
+                <p>Herausgeber, Transkription und Kodierung: Maximilian Kruse (<ref target="https://orcid.org/0000-0002-6615-6791">ORCID</ref>).</p>
+            </div>
+            <div xml:lang="en">
+                <head>Responsible for the content</head>
+                <p><hi>TODO: Imprint still pending – the details below are provisional.</hi></p>
+                <p>Maximilian Kruse<lb/>[TODO: add postal address and e-mail]</p>
+                <p>Editor, transcription and encoding: Maximilian Kruse (<ref target="https://orcid.org/0000-0002-6615-6791">ORCID</ref>).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

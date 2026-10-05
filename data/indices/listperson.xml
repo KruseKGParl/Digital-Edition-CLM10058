@@ -1,0 +1,1215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Personenregister</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <listPerson>
+          <person xml:id="abr76">
+            <persName>Abraham</persName>
+            <persName type="variant">abrahae</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/89660956</idno>
+            <noteGrp>
+              <note type="mentions" target="fol159v.xml#m-159v-057" n="159v" subtype="2.13">159v, 2.13 <term>abrahae</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ach63">
+            <persName>Achaeus</persName>
+            <persName type="variant">acheo</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q607170</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-041" n="158v" subtype="2.11">158v, 2.11 <term>acheo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ach48">
+            <persName>Achilles</persName>
+            <persName type="variant">achillis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/57405744</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-049" n="158r" subtype="2.11">158r, 2.11 <term>achillis</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-026" n="158v" subtype="1.29">158v, 1.29 <term>achillis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="aeo97">
+            <persName>Aeolus</persName>
+            <persName type="variant">eolo</persName>
+            <persName type="variant">eolum</persName>
+            <persName type="variant">eolus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/242146936577813780265</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-058" n="162v" subtype="2.40">162v, 2.40 <term>eolo</term></note>
+              <note type="mentions" target="fol163r.xml#m-163r-006" n="163r" subtype="1.12">163r, 1.12 <term>eolum</term></note>
+              <note type="mentions" target="fol163r.xml#m-163r-009" n="163r" subtype="1.15">163r, 1.15 <term>eolus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="age44">
+            <persName>Agenor</persName>
+            <persName type="variant">agenoris</persName>
+            <persName type="variant">agenor</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q392631</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157v.xml#m-157v-040" n="157v" subtype="2.3">157v, 2.3 <term>agenoris</term></note>
+              <note type="mentions" target="fol157v.xml#m-157v-045" n="157v" subtype="2.7">157v, 2.7 <term>agenor</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-005" n="158v" subtype="1.3">158v, 1.3 <term>agenoris</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ale62">
+            <persName>Alexander der Große</persName>
+            <persName type="variant">Alexandri magni</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/88742742</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-038" n="158v" subtype="2.5">158v, 2.5 <term>Alexandri magni</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="and50">
+            <persName>Andromache</persName>
+            <persName type="variant">andromacha</persName>
+            <persName type="variant">andromacham</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/10639417</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-054" n="158r" subtype="2.14">158r, 2.14 <term>andromacha</term></note>
+              <note type="mentions" target="fol158r.xml#m-158r-057" n="158r" subtype="2.16">158r, 2.16 <term>andromacham</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="apo58">
+            <persName>Apollo</persName>
+            <persName type="variant">apollo</persName>
+            <persName type="variant">apollini</persName>
+            <persName type="variant">apollinem</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/3261638</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-010" n="158v" subtype="1.15">158v, 1.15 <term>apollo</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-013" n="158v" subtype="1.18">158v, 1.18 <term>apollini</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-024" n="158v" subtype="1.28">158v, 1.28 <term>apollini</term></note>
+              <note type="mentions" target="fol162r.xml#m-162r-030" n="162r" subtype="2.8">162r, 2.8 <term>apollinem</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-024" n="164r" subtype="1.25">164r, 1.25 <term>apollo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="aqu123">
+            <persName>Aquilo</persName>
+            <persName type="variant">aquilonem</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/300254076</idno>
+            <noteGrp>
+              <note type="mentions" target="fol163v.xml#m-163v-023" n="163v" subtype="1.31">163v, 1.31 <term>aquilonem</term></note>
+              <note type="mentions" target="fol163v.xml#m-163v-032" n="163v" subtype="2.1">163v, 2.1 <term>aquilonem</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ark64">
+            <persName>Arkas</persName>
+            <persName type="variant">archas</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q606422</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-059" n="158v" subtype="2.26">158v, 2.26 <term>archas</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="arm30">
+            <persName>Armenus</persName>
+            <persName type="variant">armeno</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q108756491</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-003" n="157r" subtype="1.5">157r, 1.5 <term>armeno</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="asi3">
+            <persName>Asia</persName>
+            <persName type="variant">muliers</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q605744</idno>
+            <noteGrp/>
+            <noteGrp/>
+          </person>
+          <person xml:id="ass6">
+            <persName>Assur</persName>
+            <persName type="variant">assur</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2426606</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-009" n="155v" subtype="1.11">155v, 1.11 <term>assur</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="atl110">
+            <persName>Atlas</persName>
+            <persName type="variant">Athlans</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/5728390</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-061" n="164r" subtype="2.23">164r, 2.23 <term>Athlans</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="att57">
+            <persName>Attis</persName>
+            <persName type="variant">attis</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q262016</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-071" n="158r" subtype="2.30">158r, 2.30 <term>attis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="aug20">
+            <persName>Augustus</persName>
+            <persName type="variant">augusti</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/18013086</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156r.xml#m-156r-045" n="156r" subtype="2.11">156r, 2.11 <term>augusti</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="bac105">
+            <persName>Bacchus</persName>
+            <persName type="variant">liber</persName>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-025" n="164r" subtype="1.25">164r, 1.25 <term>liber</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="bit32">
+            <persName>Bithynus</persName>
+            <persName type="variant">bithinio</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q29165739</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-050" n="157r" subtype="2.6">157r, 2.6 <term>bithinio</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="cet77">
+            <persName>Cethura</persName>
+            <persName type="variant">Afer</persName>
+            <persName type="variant">cetura</persName>
+            <persName type="variant">afer</persName>
+            <noteGrp>
+              <note type="mentions" target="fol159v.xml#m-159v-058" n="159v" subtype="2.14">159v, 2.14 <term>cetura</term></note>
+              <note type="mentions" target="fol159v.xml#m-159v-059" n="159v" subtype="2.14">159v, 2.14 <term>afer</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="cha18">
+            <persName>Cham</persName>
+            <persName type="variant">Cham</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/62376564</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156r.xml#m-156r-034" n="156r" subtype="1.30">156r, 1.30 <term>Cham</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="cha53">
+            <persName>Chaon</persName>
+            <persName type="variant">caone</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2506621</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-062" n="158r" subtype="2.21">158r, 2.21 <term>caone</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="che4">
+            <persName>Cherubim</persName>
+            <persName type="variant">Cherubin</persName>
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4014748-4</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155r.xml#m-155r-009" n="155r" subtype="1.31">155r, 1.31 <term>Cherubin</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="chu11">
+            <persName>Chus</persName>
+            <persName type="variant">chus</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1138595</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-050" n="155v" subtype="2.27">155v, 2.27 <term>chus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="cic87">
+            <persName>Cicero</persName>
+            <persName type="variant">cicero</persName>
+            <persName type="variant">Cicero</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/78769600</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-042" n="162r" subtype="2.30">162r, 2.30 <term>cicero</term></note>
+              <note type="mentions" target="fol165r.xml#m-165r-001" n="165r" subtype="1.2">165r, 1.2 <term>Cicero</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="cor108">
+            <persName>Corito</persName>
+            <persName type="variant">corito</persName>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-035" n="164r" subtype="1.32">164r, 1.32 <term>corito</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="cor101">
+            <persName>Corsa</persName>
+            <persName type="variant">corsa</persName>
+            <noteGrp>
+              <note type="mentions" target="fol163r.xml#m-163r-034" n="163r" subtype="2.16">163r, 2.16 <term>corsa</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="dan24">
+            <persName>Danaus</persName>
+            <persName type="variant">danai</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/306365273</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-012" n="156v" subtype="1.8">156v, 1.8 <term>danai</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="dar36">
+            <persName>Dardanus</persName>
+            <persName type="variant">dardano</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/77197249</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-060" n="157r" subtype="2.21">157r, 2.21 <term>dardano</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="deu55">
+            <persName>Deukalion</persName>
+            <persName type="variant">deulaionis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/532163756422734480004</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-066" n="158r" subtype="2.25">158r, 2.25 <term>deucalionis</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-032" n="158v" subtype="1.38">158v, 1.38 <term>deucalionis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="dia84">
+            <persName>Diana</persName>
+            <persName type="variant">dianam</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/50166625</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-031" n="162r" subtype="2.8">162r, 2.8 <term>dianam</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="dio70">
+            <persName>Diomedes</persName>
+            <persName type="variant">diomedem</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/74660488</idno>
+            <noteGrp>
+              <note type="mentions" target="fol159r.xml#m-159r-064" n="159r" subtype="2.27">159r, 2.27 <term>diomedem</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="dio121">
+            <persName>Dionysos</persName>
+            <persName type="variant">dyonisio</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/50019379</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-011" n="162v" subtype="1.12">162v, 1.12 <term>dyonisio</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ema60">
+            <persName>Emathis</persName>
+            <persName type="variant">emathio</persName>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-029" n="158v" subtype="1.36">158v, 1.36 <term>emathio</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="epa72">
+            <persName>Epaphus</persName>
+            <persName type="variant">epauum</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/13209638</idno>
+            <noteGrp>
+              <note type="mentions" target="fol159v.xml#m-159v-046" n="159v" subtype="2.3">159v, 2.3 <term>epauum</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="etr69">
+            <persName>Etruscus</persName>
+            <persName type="variant">etrusco</persName>
+            <noteGrp>
+              <note type="mentions" target="fol159r.xml#m-159r-054" n="159r" subtype="2.17">159r, 2.17 <term>etrusco</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="eur35">
+            <persName>Europa</persName>
+            <persName type="variant">europis</persName>
+            <persName type="variant">Europa</persName>
+            <persName type="variant">europam</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/22932833</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-058" n="157r" subtype="2.20">157r, 2.20 <term>europis</term></note>
+              <note type="mentions" target="fol157v.xml#m-157v-039" n="157v" subtype="2.2">157v, 2.2 <term>Europa</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-006" n="158v" subtype="1.4">158v, 1.4 <term>europam</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="fav5">
+            <persName>Favonius</persName>
+            <persName type="variant">favonii</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4347724</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155r.xml#m-155r-021" n="155r" subtype="2.11">155r, 2.11 <term>favonii</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="gan40">
+            <persName>Ganymed</persName>
+            <persName type="variant">ganimedis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/3262256</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-073" n="157r" subtype="2.32">157r, 2.32 <term>ganimedis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="got19">
+            <persName>Gott</persName>
+            <persName type="variant">deus&gt;</persName>
+            <idno type="URL" subtype="gnd">https://d-nb.info/gnd/4021662-7</idno>
+            <noteGrp>
+              <note type="mentions" target="fol154r.xml#m-154r-001" n="154r" subtype="2.22">154r, 2.22 <term>deus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="gra75">
+            <persName>Graecus</persName>
+            <persName type="variant">greco</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3303321</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-030" n="158r" subtype="1.36">158r, 1.36 <term></term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="gra56">
+            <persName>Granus</persName>
+            <persName type="variant">granus</persName>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-069" n="158r" subtype="2.28">158r, 2.28 <term>granus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="han33">
+            <persName>Hannibal</persName>
+            <persName type="variant">hannibal</persName>
+            <persName type="variant">hannibalis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/41819384</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-054" n="157r" subtype="2.9">157r, 2.9 <term>hannibal</term></note>
+              <note type="mentions" target="fol163v.xml#m-163v-025" n="163v" subtype="1.32">163v, 1.32 <term>hannibalis</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-038" n="164r" subtype="1.35">164r, 1.35 <term>hannibal</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-043" n="164r" subtype="1.37">164r, 1.37 <term>hannibal</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hel52">
+            <persName>Helenus</persName>
+            <persName type="variant">elenus</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q729332</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-058" n="158r" subtype="2.17">158r, 2.17 <term>elenus</term></note>
+              <note type="mentions" target="fol158r.xml#m-158r-061" n="158r" subtype="2.20">158r, 2.20 <term>elenus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hel107">
+            <persName>Helikon</persName>
+            <persName type="variant">elicon</persName>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-027" n="164r" subtype="1.27">164r, 1.27 <term>elicon</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-028" n="164r" subtype="1.27">164r, 1.27 <term>elicon</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-029" n="164r" subtype="1.28">164r, 1.28 <term>elicone</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hel54">
+            <persName>Hellenos</persName>
+            <persName type="variant">ellana</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q336428</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-065" n="158r" subtype="2.25">158r, 2.25 <term>ellana</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="her59">
+            <persName>Herkules</persName>
+            <persName type="variant">hercules</persName>
+            <persName type="variant">hercule</persName>
+            <persName type="variant">herculis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/309827551</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-011" n="158v" subtype="1.16">158v, 1.16 <term>hercules</term></note>
+              <note type="mentions" target="fol163r.xml#m-163r-027" n="163r" subtype="1.28">163r, 1.28 <term>hercule</term></note>
+              <note type="mentions" target="fol163r.xml#m-163r-037" n="163r" subtype="2.28">163r, 2.28 <term>herculis</term></note>
+              <note type="mentions" target="fol163v.xml#m-163v-014" n="163v" subtype="1.19">163v, 1.19 <term>herculis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hio115">
+            <persName>Hiob</persName>
+            <persName type="variant">iob</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/57858007</idno>
+            <noteGrp>
+              <note type="mentions" target="fol165r.xml#m-165r-005" n="165r" subtype="2.3">165r, 2.3 <term>iob</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hip80">
+            <persName>Hippokrates</persName>
+            <persName type="variant">ypocrates</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/287984736</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-011" n="162r" subtype="1.17">162r, 1.17 <term>ypocrates</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hip98">
+            <persName>Hippotas</persName>
+            <persName type="variant">ipotae</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3136179</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-059" n="162v" subtype="2.40">162v, 2.40 <term>ipotae</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="his71">
+            <persName>Hispalus</persName>
+            <persName type="variant">ispano</persName>
+            <noteGrp>
+              <note type="mentions" target="fol159v.xml#m-159v-017" n="159v" subtype="1.16">159v, 1.16 <term>ispano</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="hom38">
+            <persName>Homer</persName>
+            <persName type="variant">omerus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/224924963</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-062" n="157r" subtype="2.22">157r, 2.22 <term>omerus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ias119">
+            <persName>Iasion</persName>
+            <persName type="variant">iasone</persName>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-017" n="162v" subtype="1.21">162v, 1.21 <term>iasone</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ika88">
+            <persName>Ikarus</persName>
+            <persName type="variant">icarum cretensem</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/42152138540310980793</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-009" n="162v" subtype="1.8">162v, 1.8 <term>icarum cretensem</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ism22">
+            <persName>Ismael</persName>
+            <persName type="variant">ismael</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/64804631</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-003" n="156v" subtype="1.2">156v, 1.2 <term>ismael</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ita68">
+            <persName>Italus</persName>
+            <persName type="variant">italo</persName>
+            <persName type="variant">itali</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2722978</idno>
+            <noteGrp>
+              <note type="mentions" target="fol159r.xml#m-159r-021" n="159r" subtype="1.15">159r, 1.15 <term>italo</term></note>
+              <note type="mentions" target="fol160v.xml#m-160v-013" n="160v" subtype="2.1">160v, 2.1 <term>italo</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-037" n="162v" subtype="2.3">162v, 2.3 <term>itali</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="iuv109">
+            <persName>Iuvenal</persName>
+            <persName type="variant">Juvenalis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/83985148</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-044" n="164r" subtype="1.38">164r, 1.38 <term>Juvenalis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="jap28">
+            <persName>Japhet</persName>
+            <persName type="variant">iafet</persName>
+            <persName type="variant">iaphet</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q200637</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-037" n="156v" subtype="2.2">156v, 2.2 <term>iafet</term></note>
+              <note type="mentions" target="fol158r.xml#m-158r-020" n="158r" subtype="1.20">158r, 1.20 <term>iaphet</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="jas31">
+            <persName>Jason</persName>
+            <persName type="variant">iasonis</persName>
+            <persName type="variant">iasone</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/12290832</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-004" n="157r" subtype="1.5">157r, 1.5 <term>iasonis</term></note>
+              <note type="mentions" target="fol157r.xml#m-157r-005" n="157r" subtype="1.7">157r, 1.7 <term>iasone</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="jes16">
+            <persName>Jesaia</persName>
+            <persName type="variant">isaias</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/143011742</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156r.xml#m-156r-020" n="156r" subtype="1.15">156r, 1.15 <term>isaias</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="jud17">
+            <persName>Judas</persName>
+            <persName type="variant">iudea</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/3283354</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156r.xml#m-156r-032" n="156r" subtype="1.27">156r, 1.27 <term>iudea</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="jun92">
+            <persName>Juno</persName>
+            <persName type="variant">iuno</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/47558229</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-030" n="162v" subtype="1.36">162v, 1.36 <term>iuno</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="jup37">
+            <persName>Jupiter</persName>
+            <persName type="variant">iovis</persName>
+            <persName type="variant">iove</persName>
+            <persName type="variant">iupiter</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/22933410</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-061" n="157r" subtype="2.21">157r, 2.21 <term>iovis</term></note>
+              <note type="mentions" target="fol157r.xml#m-157r-063" n="157r" subtype="2.23">157r, 2.23 <term>iupiter</term></note>
+              <note type="mentions" target="fol157v.xml#m-157v-020" n="157v" subtype="1.24">157v, 1.24 <term>iove</term></note>
+              <note type="mentions" target="fol157v.xml#m-157v-042" n="157v" subtype="2.4">157v, 2.4 <term>iovis</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-007" n="158v" subtype="1.4">158v, 1.4 <term>iove</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-060" n="158v" subtype="2.26">158v, 2.26 <term>iovis</term></note>
+              <note type="mentions" target="fol159r.xml#m-159r-020" n="159r" subtype="1.13">159r, 1.13 <term>iove</term></note>
+              <note type="mentions" target="fol159v.xml#m-159v-047" n="159v" subtype="2.4">159v, 2.4 <term>iovis</term></note>
+              <note type="mentions" target="fol161v.xml#m-161v-028" n="161v" subtype="2.29">161v, 2.29 <term>iupiter</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-014" n="162v" subtype="1.16">162v, 1.16 <term>iovis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kad15">
+            <persName>Kadmos</persName>
+            <persName type="variant">chatmi</persName>
+            <persName type="variant">chatmus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/42637019</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156r.xml#m-156r-013" n="156r" subtype="1.10">156r, 1.10 <term>chatmi</term></note>
+              <note type="mentions" target="fol158v.xml#m-158v-004" n="158v" subtype="1.3">158v, 1.3 <term>cathmus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kal65">
+            <persName>Kallistos</persName>
+            <persName type="variant">calistae</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/809841</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-061" n="158v" subtype="2.26">158v, 2.26 <term>calistae</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kan25">
+            <persName>Kanopes</persName>
+            <persName type="variant">canope</persName>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-021" n="156v" subtype="1.23">156v, 1.23 <term>canope</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kas73">
+            <persName>Kassiopeia</persName>
+            <persName type="variant">cassiota</persName>
+            <noteGrp>
+              <note type="mentions" target="fol159v.xml#m-159v-050" n="159v" subtype="2.5">159v, 2.5 <term>cassiota</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kil43">
+            <persName>Kilex</persName>
+            <persName type="variant">cilice</persName>
+            <noteGrp>
+              <note type="mentions" target="fol157v.xml#m-157v-019" n="157v" subtype="1.22">157v, 1.22 <term>cilice</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kit106">
+            <persName>Kithairon</persName>
+            <persName type="variant">cyteron</persName>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-026" n="164r" subtype="1.26">164r, 1.26 <term>cyteron</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-030" n="164r" subtype="1.28">164r, 1.28 <term>cyteronis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kre79">
+            <persName>Kres</persName>
+            <persName type="variant">crete</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q5184296</idno>
+            <noteGrp>
+              <note type="mentions" target="fol161v.xml#m-161v-027" n="161v" subtype="2.27">161v, 2.27 <term>crete</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="kyr102">
+            <persName>Kyrnos</persName>
+            <persName type="variant">cyreno</persName>
+            <noteGrp>
+              <note type="mentions" target="fol163r.xml#m-163r-036" n="163r" subtype="2.28">163r, 2.28 <term>cyreno</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="lat83">
+            <persName>Latona</persName>
+            <persName type="variant">laton</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/34145424157486790850</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-029" n="162r" subtype="2.8">162r, 2.8 <term>laton</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="lau103">
+            <persName>Laumedos</persName>
+            <persName type="variant">laomedonte</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/1140148947847454950003</idno>
+            <noteGrp>
+              <note type="mentions" target="fol163v.xml#m-163v-015" n="163v" subtype="1.20">163v, 1.20 <term>laomedonte</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="lib45">
+            <persName>Libya</persName>
+            <persName type="variant">libiae</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1129914</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157v.xml#m-157v-046" n="157v" subtype="2.7">157v, 2.7 <term>libiae</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="lib74">
+            <persName>Libya</persName>
+            <persName type="variant">libiam</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1129914</idno>
+            <noteGrp>
+              <note type="mentions" target="fol159v.xml#m-159v-051" n="159v" subtype="2.6">159v, 2.6 <term>libiam</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="lip99">
+            <persName>Liparus</persName>
+            <persName type="variant">lyparus</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3833201</idno>
+            <noteGrp>
+              <note type="mentions" target="fol163r.xml#m-163r-004" n="163r" subtype="1.11">163r, 1.11 <term>lyparus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="luk122">
+            <persName>Lukan</persName>
+            <persName type="variant">lucanus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/100902938</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-058" n="164r" subtype="2.21">164r, 2.21 <term>lucanus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="lyd41">
+            <persName>Lydus</persName>
+            <persName type="variant">liddum</persName>
+            <persName type="variant">liddo</persName>
+            <persName type="variant">lidii</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q887785</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157v.xml#m-157v-001" n="157v" subtype="1.2">157v, 1.2 <term>liddum</term></note>
+              <note type="mentions" target="fol157v.xml#m-157v-007" n="157v" subtype="1.6">157v, 1.6 <term>liddo</term></note>
+              <note type="mentions" target="fol159r.xml#m-159r-057" n="159r" subtype="2.18">159r, 2.18 <term>lidii</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="mag27">
+            <persName>Magog</persName>
+            <persName type="variant">magog</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1964706</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-036" n="156v" subtype="2.1">156v, 2.1 <term>magog</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="mak61">
+            <persName>Makedo</persName>
+            <persName type="variant">mecedo</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3043953</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-031" n="158v" subtype="1.37">158v, 1.37 <term>macedo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="mal104">
+            <persName>Maleus</persName>
+            <persName type="variant">maleo</persName>
+            <noteGrp>
+              <note type="mentions" target="fol163v.xml#m-163v-020" n="163v" subtype="1.29">163v, 1.29 <term>maleo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="med8">
+            <persName>Medus</persName>
+            <persName type="variant">medo</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1851846</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-018" n="155v" subtype="1.21">155v, 1.21 <term>medo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="men26">
+            <persName>Meneloas</persName>
+            <persName type="variant">menelai</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/228076313</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-022" n="156v" subtype="1.23">156v, 1.23 <term>menelai</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="mol49">
+            <persName>Molossus</persName>
+            <persName type="variant">molosso</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2622614</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-052" n="158r" subtype="2.13">158r, 2.13 <term>molosso</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="nab21">
+            <persName>Nabeth</persName>
+            <persName type="variant">nabeth</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q3773487</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-002" n="156v" subtype="1.2">156v, 1.2 <term>nabeth</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="nae112">
+            <persName>Naevius</persName>
+            <persName type="variant">nevius</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/25721768</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164v.xml#m-164v-002" n="164v" subtype="1.26">164v, 1.26 <term>nevius</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="nim10">
+            <persName>Nimrod</persName>
+            <persName type="variant">nembrot</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/80993326</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-031" n="155v" subtype="1.38">155v, 1.38 <term>nembrot</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ogy82">
+            <persName>Ogyges</persName>
+            <persName type="variant">ogigi</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1142802</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-026" n="162r" subtype="1.39">162r, 1.39 <term>ogigi</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ore51">
+            <persName>Orest</persName>
+            <persName type="variant">orestis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/62343965</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-056" n="158r" subtype="2.16">158r, 2.16 <term>orestis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="par91">
+            <persName>Pareantos</persName>
+            <persName type="variant">pareantemaro</persName>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-021" n="162v" subtype="1.22">162v, 1.22 <term>pareantem</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="pel118">
+            <persName>Pelops</persName>
+            <persName type="variant">pelope</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/45102838</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-016" n="158v" subtype="1.20">158v, 1.20 <term>pelope</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="per9">
+            <persName>Persus</persName>
+            <persName type="variant">perso</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2071913</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-019" n="155v" subtype="1.21">155v, 1.21 <term>perso</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="phi89">
+            <persName>Philomelos</persName>
+            <persName type="variant">filomelum</persName>
+            <persName type="variant">filomelo</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1128685</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-018" n="162v" subtype="1.21">162v, 1.21 <term>filomelum</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-020" n="162v" subtype="1.22">162v, 1.22 <term>filomelo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="phr34">
+            <persName>Phrygia</persName>
+            <persName type="variant">frigia</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7188168</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-057" n="157r" subtype="2.20">157r, 2.20 <term>frigia</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="pho14">
+            <persName>Phönix</persName>
+            <persName type="variant">Foenix</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/173692844</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156r.xml#m-156r-012" n="156r" subtype="1.10">156r, 1.10 <term>Foenix</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="plu90">
+            <persName>Plutos</persName>
+            <persName type="variant">plutum</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/306391417</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-019" n="162v" subtype="1.22">162v, 1.22 <term>plutum</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="pro111">
+            <persName>Prometheus</persName>
+            <persName type="variant">promethei</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/3263350</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164r.xml#m-164r-062" n="164r" subtype="2.23">164r, 2.23 <term>promethei</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="pyr116">
+            <persName>Pyrrhas</persName>
+            <persName type="variant">pyrrae</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/52485710</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-067" n="158r" subtype="2.25">158r, 2.25 <term>pyrrae</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="pyr47">
+            <persName>Pyrrhus</persName>
+            <persName type="variant">pyrro</persName>
+            <persName type="variant">pyrri</persName>
+            <persName type="variant">pyrrus</persName>
+            <persName type="variant">pyrrae</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/47637702</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-048" n="158r" subtype="2.11">158r, 2.11 <term>pyrro</term></note>
+              <note type="mentions" target="fol158r.xml#m-158r-053" n="158r" subtype="2.14">158r, 2.14 <term>pyrri</term></note>
+              <note type="mentions" target="fol158r.xml#m-158r-055" n="158r" subtype="2.16">158r, 2.16 <term>pyrrus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="pyt94">
+            <persName>Pythagoras von Samos</persName>
+            <persName type="variant">pytagoras samius</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/162237897</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-032" n="162v" subtype="1.37">162v, 1.37 <term>pytagoras samius</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sab12">
+            <persName>Saba</persName>
+            <persName type="variant">saba</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q23639444</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-051" n="155v" subtype="2.28">155v, 2.28 <term>saba</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sal1">
+            <persName>Sallust</persName>
+            <persName type="variant">salustius</persName>
+            <persName type="variant">Salustius</persName>
+            <persName type="variant">salustium</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/104162705</idno>
+            <noteGrp>
+              <note type="mentions" target="fol154r.xml#m-154r-002" n="154r" subtype="2.29">154r, 2.29 <term>Salustius</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-049" n="162v" subtype="2.32">162v, 2.32 <term>Salustius</term></note>
+              <note type="mentions" target="fol163v.xml#m-163v-008" n="163v" subtype="1.14">163v, 1.14 <term>salustius</term></note>
+              <note type="mentions" target="fol163v.xml#m-163v-024" n="163v" subtype="1.31">163v, 1.31 <term>salustium</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sar100">
+            <persName>Sardus</persName>
+            <persName type="variant">Sardus</persName>
+            <noteGrp>
+              <note type="mentions" target="fol163r.xml#m-163r-026" n="163r" subtype="1.28">163r, 1.28 <term>Sardus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sat67">
+            <persName>Saturnus</persName>
+            <persName type="variant">saturnus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/67261976</idno>
+            <noteGrp>
+              <note type="mentions" target="fol159r.xml#m-159r-017" n="159r" subtype="1.12">159r, 1.12 <term>saturnia</term></note>
+              <note type="mentions" target="fol159r.xml#m-159r-019" n="159r" subtype="1.13">159r, 1.13 <term>saturnus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sem7">
+            <persName>Sem</persName>
+            <persName type="variant">sem</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q200902</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-010" n="155v" subtype="1.11">155v, 1.11 <term>sem</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sib93">
+            <persName>Sibylle</persName>
+            <persName type="variant">sibillia samia</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q2217186</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-031" n="162v" subtype="1.36">162v, 1.36 <term>sibilla samia</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sik95">
+            <persName>Sikanus</persName>
+            <persName type="variant">sicano</persName>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-034" n="162v" subtype="2.1">162v, 2.1 <term>sicano</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sik96">
+            <persName>Sikulus</persName>
+            <persName type="variant">siculo</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4419033</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162v.xml#m-162v-036" n="162v" subtype="2.3">162v, 2.3 <term>siculo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sik66">
+            <persName>Sikyon</persName>
+            <persName type="variant">sicione</persName>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-064" n="158v" subtype="2.29">158v, 2.29 <term>sicione</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sol85">
+            <persName>Sol</persName>
+            <persName type="variant">solis</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/50166625</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-036" n="162r" subtype="2.15">162r, 2.15 <term>solis</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="sta114">
+            <persName>Statius</persName>
+            <persName type="variant">Statius</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/12276017</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164v.xml#m-164v-005" n="164v" subtype="2.25">164v, 2.25 <term>Statius</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="syr13">
+            <persName>Syrus</persName>
+            <persName type="variant">syrus</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q7663536</idno>
+            <noteGrp>
+              <note type="mentions" target="fol155v.xml#m-155v-056" n="155v" subtype="2.33">155v, 2.33 <term>syrus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ten86">
+            <persName>Tenes</persName>
+            <persName type="variant">tene</persName>
+            <persName type="variant">tenes</persName>
+            <persName type="variant">Tenen</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q426788</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-039" n="162r" subtype="2.24">162r, 2.24 <term>tene</term></note>
+              <note type="mentions" target="fol162r.xml#m-162r-040" n="162r" subtype="2.26">162r, 2.26 <term>tenes</term></note>
+              <note type="mentions" target="fol162r.xml#m-162r-043" n="162r" subtype="2.31">162r, 2.31 <term>Tenen</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="the117">
+            <persName>Thessalus</persName>
+            <persName type="variant">thessalo</persName>
+            <noteGrp>
+              <note type="mentions" target="fol158v.xml#m-158v-018" n="158v" subtype="1.21">158v, 1.21 <term>thessalo</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="thi46">
+            <persName>Thiras</persName>
+            <persName type="variant">tiras</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1481751</idno>
+            <noteGrp>
+              <note type="mentions" target="fol158r.xml#m-158r-019" n="158r" subtype="1.20">158r, 1.20 <term>tiras</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="luk2">
+            <persName>Titus Lucretius Carus</persName>
+            <persName type="variant">lucretius</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/106388020</idno>
+            <noteGrp>
+              <note type="mentions" target="fol154r.xml#m-154r-003" n="154r" subtype="2.34">154r, 2.34 <term>lucretius</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="tro39">
+            <persName>Tros</persName>
+            <persName type="variant">tros</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q599482</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157r.xml#m-157r-072" n="157r" subtype="2.32">157r, 2.32 <term>tros</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="tyr42">
+            <persName>Tyrrhenus</persName>
+            <persName type="variant">tirrenum</persName>
+            <persName type="variant">tirrenus</persName>
+            <persName type="variant">tirreno</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1400413</idno>
+            <noteGrp>
+              <note type="mentions" target="fol157v.xml#m-157v-002" n="157v" subtype="1.2">157v, 1.2 <term>tirrenum</term></note>
+              <note type="mentions" target="fol157v.xml#m-157v-003" n="157v" subtype="1.3">157v, 1.3 <term>tirrenus</term></note>
+              <note type="mentions" target="fol159r.xml#m-159r-056" n="159r" subtype="2.18">159r, 2.18 <term>tirreno</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="var81">
+            <persName>Varro</persName>
+            <persName type="variant">varro</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/10021931</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-012" n="162r" subtype="1.18">162r, 1.18 <term>varro</term></note>
+              <note type="mentions" target="fol163r.xml#m-163r-001" n="163r" subtype="1.2">163r, 1.2 <term>varro</term></note>
+              <note type="mentions" target="fol164v.xml#m-164v-003" n="164v" subtype="2.9">164v, 2.9 <term>varro</term></note>
+              <note type="mentions" target="fol165r.xml#m-165r-002" n="165r" subtype="1.24">165r, 1.24 <term>varro</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ven78">
+            <persName>Venus</persName>
+            <persName type="variant">veneri</persName>
+            <persName type="variant">venus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/30332680</idno>
+            <noteGrp>
+              <note type="mentions" target="fol161v.xml#m-161v-020" n="161v" subtype="2.19">161v, 2.19 <term>veneri</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-003" n="162v" subtype="1.3">162v, 1.3 <term>venus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ver29">
+            <persName>Vergil</persName>
+            <persName type="variant">Vergilius</persName>
+            <persName type="variant">vergilius</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/8194433</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-056" n="156v" subtype="2.35">156v, 2.35 <term>Vergilius</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-025" n="162v" subtype="1.26">162v, 1.26 <term>virgilius</term></note>
+              <note type="mentions" target="fol162v.xml#m-162v-054" n="162v" subtype="2.38">162v, 2.38 <term>vergilius</term></note>
+              <note type="mentions" target="fol163r.xml#m-163r-038" n="163r" subtype="2.29">163r, 2.29 <term>vergilius</term></note>
+              <note type="mentions" target="fol163v.xml#m-163v-007" n="163v" subtype="1.10">163v, 1.10 <term>Vergilius</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-011" n="164r" subtype="1.13">164r, 1.13 <term>vergilius</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-041" n="164r" subtype="1.36">164r, 1.36 <term>vergilius</term></note>
+              <note type="mentions" target="fol164r.xml#m-164r-067" n="164r" subtype="2.34">164r, 2.34 <term>Vergilius</term></note>
+              <note type="mentions" target="fol164v.xml#m-164v-001" n="164v" subtype="1.17">164v, 1.17 <term>vergilius</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="ver113">
+            <persName>Verrius Flaccus</persName>
+            <persName type="variant">Verrius flaccus</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/57410497</idno>
+            <noteGrp>
+              <note type="mentions" target="fol164v.xml#m-164v-004" n="164v" subtype="2.11">164v, 2.11 <term>Verrius flaccus</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="xer120">
+            <persName>Xerxes</persName>
+            <persName type="variant">xerses</persName>
+            <idno type="URL" subtype="viaf">https://viaf.org/viaf/282770127</idno>
+            <noteGrp>
+              <note type="mentions" target="fol162r.xml#m-162r-007" n="162r" subtype="1.14">162r, 1.14 <term>xerses</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+          <person xml:id="agy23">
+            <persName>Ägyptus</persName>
+            <persName type="variant">aegypto</persName>
+            <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q404844</idno>
+            <noteGrp>
+              <note type="mentions" target="fol156v.xml#m-156v-011" n="156v" subtype="1.7">156v, 1.7 <term>aegypto</term></note>
+            </noteGrp>
+            <noteGrp/>
+          </person>
+        </listPerson>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="about.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="de">Über die Edition</title>
+                <title type="main" xml:lang="en">About the edition</title>
+            </titleStmt>
+            <publicationStmt><p>Digitale Edition, Universität Paderborn</p></publicationStmt>
+            <sourceDesc><p>born digital</p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:lang="de">
+                <head>Projekt</head>
+                <p>Die Teiledition der Isidor-Handschrift München, Bayerische Staatsbibliothek, Clm 10058, umfasst das 14. Buch
+                    „De terra“ der <hi>Etymologiae</hi> Isidors von Sevilla. Sie entstand im Rahmen einer Masterarbeit im Bereich
+                    der Digital Humanities an der Universität Paderborn (Maximilian Kruse). Ediert und digital erschlossen wurden
+                    sowohl der Text der Handschrift (fol. 154r–165v) als auch die im Text eingebundene <hi>Mappa Mundi</hi>
+                    (fol. 154v), eine mittelalterliche Weltkarte.</p>
+                <head>Die Handschrift</head>
+                <p>Clm 10058 (Titel laut Katalog: <hi>Epistolae Isidori et Braulionis</hi>) ist eine Pergamenthandschrift von
+                    etwa 37–38 × 25,5 cm, entstanden vermutlich zwischen 1100 und 1150 in Frankreich (ein genauerer Entstehungsort
+                    ist nicht bekannt). Der Text ist zweispaltig geschrieben; auf fol. 154v steht die Weltkarte über zwei
+                    Textspalten. Der Einband stammt aus dem 18. Jahrhundert (Kalbsleder über Pappe). Die Digitalisate der
+                    Bayerischen Staatsbibliothek werden über IIIF direkt eingebunden.</p>
+                <head>Textgrundlage</head>
+                <list>
+                    <item><hi>Text:</hi> Die Transkription der Handschrift wurde mithilfe der Ausgabe von W. M. Lindsay (Oxford 1911)
+                        erstellt.</item>
+                    <item><hi>Karte:</hi> Für die Kartenedition wurde die Transkription von Patrick Gautier Dalché (1988) genutzt.</item>
+                </list>
+                <head>Aufbau und Verknüpfungen</head>
+                <list>
+                    <item>Die <hi>Textedition</hi> zeigt jedes Blatt zeilengetreu (Zeilen- und Spaltenumbrüche der Handschrift) neben
+                        dem Faksimile. Trennstriche am Zeilenende sind als solche markiert; über den Schalter „Fließtext“ lässt sich
+                        der Text ohne Zeilenumbrüche lesen.</item>
+                    <item>Personen- und Ortsnamen sind ausgezeichnet und mit den <hi>Registern</hi> verknüpft. Die Register enthalten
+                        Normdaten (VIAF, GND, Wikidata, Getty TGN), die im Text vorkommenden Belegformen und alle Belegstellen.</item>
+                    <item>Die <hi>Kartenedition</hi> macht alle Beschriftungen der Mappa Mundi als klickbare Zonen im Bild zugänglich.</item>
+                    <item><hi>Text und Karte</hi> sind direkt miteinander verknüpft: Ein Ort oder eine Person, die auf der Karte
+                        beschriftet ist, führt zu den Belegstellen im Text – und umgekehrt zeigt ein Namen im Text, wo er auf der Karte
+                        steht. Die Verknüpfung erfolgt über übereinstimmende Normdaten; Beschriftungen ohne Normdaten sind nicht
+                        verknüpft.</item>
+                </list>
+                <head>Technik und Lizenz</head>
+                <p>Die Edition ist in TEI P5 (XML) kodiert. Die Website wird mit XSLT als statische Seite erzeugt (auf Grundlage des
+                    <ref target="https://github.com/acdh-oeaw/dse-static-cookiecutter">DSE Static Site Cookiecutter</ref> der ÖAW/ACDH-CH);
+                    das Faksimile wird mit OpenSeadragon über IIIF dargestellt. Ursprünglich war die Edition für den TEI Publisher
+                    entwickelt worden (<ref target="https://git.uni-paderborn.de/mkruse14/digital-edition-clm10058">Repositorium an der Universität Paderborn</ref>).</p>
+                <p>Die Edition steht unter der Lizenz <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de">CC BY-NC-SA 4.0</ref>.
+                    Für die Digitalisate gelten die Bedingungen der Bayerischen Staatsbibliothek.</p>
+            </div>
+            <div xml:lang="en">
+                <head>Project</head>
+                <p>This partial edition of the Isidore manuscript Munich, Bavarian State Library, Clm 10058, contains Book XIV
+                    “De terra” of Isidore of Seville’s <hi>Etymologiae</hi>. It was created as a master’s thesis in Digital Humanities
+                    at Paderborn University (Maximilian Kruse). Both the text of the manuscript (fols. 154r–165v) and the medieval
+                    world map embedded in it, the <hi>Mappa Mundi</hi> (fol. 154v), have been edited and digitally annotated.</p>
+                <head>The manuscript</head>
+                <p>Clm 10058 (catalogue title: <hi>Epistolae Isidori et Braulionis</hi>) is a parchment manuscript of about
+                    37–38 × 25.5 cm, probably made between 1100 and 1150 in France (a more precise place of origin is unknown).
+                    The text is written in two columns; on fol. 154v the world map stands above two columns of text. The binding is
+                    from the 18th century (calfskin over cardboard). The digital copies of the Bavarian State Library are embedded
+                    directly via IIIF.</p>
+                <head>Sources</head>
+                <list>
+                    <item><hi>Text:</hi> The transcription of the manuscript was made with the help of W. M. Lindsay’s edition
+                        (Oxford 1911).</item>
+                    <item><hi>Map:</hi> The map edition follows the transcription by Patrick Gautier Dalché (1988).</item>
+                </list>
+                <head>Structure and links</head>
+                <list>
+                    <item>The <hi>text edition</hi> shows each folio line by line (line and column breaks of the manuscript) next to
+                        the facsimile. Hyphens at line ends are marked; the “Continuous text” switch removes the line breaks.</item>
+                    <item>Person and place names are marked up and linked to the <hi>indices</hi>. The indices contain authority data
+                        (VIAF, GND, Wikidata, Getty TGN), the forms attested in the text and all attestations.</item>
+                    <item>The <hi>map edition</hi> makes all inscriptions of the Mappa Mundi available as clickable zones in the image.</item>
+                    <item><hi>Text and map</hi> are linked directly: a place or person inscribed on the map leads to its attestations in
+                        the text, and a name in the text shows where it appears on the map. The link is made through matching authority
+                        data; inscriptions without authority data are not linked.</item>
+                </list>
+                <head>Technology and licence</head>
+                <p>The edition is encoded in TEI P5 (XML). The website is generated as a static site with XSLT (based on the ÖAW/ACDH-CH
+                    <ref target="https://github.com/acdh-oeaw/dse-static-cookiecutter">DSE Static Site Cookiecutter</ref>); the facsimile
+                    is displayed with OpenSeadragon via IIIF. The edition was originally developed for the TEI Publisher
+                    (<ref target="https://git.uni-paderborn.de/mkruse14/digital-edition-clm10058">repository at Paderborn University</ref>).</p>
+                <p>The edition is licensed under <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</ref>.
+                    The digital copies are subject to the terms of the Bavarian State Library.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

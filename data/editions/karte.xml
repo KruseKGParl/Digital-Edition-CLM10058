@@ -1,0 +1,791 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="karte.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mappa Mundi (fol. 154v)</title>
+        <title type="sub">Kartenedition, Isidor von Sevilla, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol154v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00312/full/full/0/default.jpg" n="bsb00112097_00312" ulx="0" uly="0" lrx="1842" lry="2618"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="section">
+        <head xml:lang="en">Winds</head>
+        <head xml:lang="de">Winde</head>
+        <p xml:id="k001" facs="888,61,133,105">
+          <persName type="ety/des" ref="https://www.wikidata.org/wiki/Q836518">subsolanus</persName>
+        </p>
+        <p xml:id="k002" facs="1344,187,115,122">
+          <persName type="ety/des" ref="https://www.wikidata.org/wiki/Q836518">eurus</persName>
+        </p>
+        <p xml:id="k003" facs="1633,497,74,124">
+          <persName type="ety/des">euroauster</persName>
+        </p>
+        <p xml:id="k004" facs="1713,928,56,154">
+          <persName type="ety/des" ref="https://www.wikidata.org/wiki/Q25927304">auster</persName>
+        </p>
+        <p xml:id="k005" facs="1644,1249,118,213">
+          <persName type="ety/des">austroafricus qui et libonothus</persName>
+        </p>
+        <p xml:id="k006" facs="1323,1668,135,132">
+          <persName type="ety/des">africus</persName>
+        </p>
+        <p xml:id="k007" facs="855,1803,162,115">
+          <persName type="ety/des">fauonius qui et zephirus</persName>
+        </p>
+        <p xml:id="k008" facs="411,1693,127,102">
+          <persName type="ety/des">chorus</persName>
+        </p>
+        <p xml:id="k009" facs="103,1336,117,164">
+          <persName type="ety/des">circius qui et gallicus</persName>
+        </p>
+        <p xml:id="k010" facs="50,915,74,150">
+          <persName type="ety/des" ref="https://www.wikidata.org/wiki/Q109220">?</persName>
+        </p>
+        <p xml:id="k011" facs="87,512,127,160">
+          <persName type="ety/des">aquilo qui et boreus</persName>
+        </p>
+        <p xml:id="k012" facs="415,151,142,131">
+          <persName type="ety/des">uulturnus</persName>
+        </p>
+      </div>
+      <div type="section">
+        <head xml:lang="en">The Ocean and the isles of the Ocean</head>
+        <head xml:lang="de">Der Ozean und die Inseln des Ozeans</head>
+        <p xml:id="k013" facs="605,185,113,60">
+          <placeName type="ety/des">sericus occeanus</placeName>
+        </p>
+        <p xml:id="k014" facs="321,344,112,105">
+          <placeName>sciticus occeanus</placeName>
+        </p>
+        <p xml:id="k015" facs="914,160,114,36">
+          <placeName type="des">eous occeanus</placeName>
+        </p>
+        <p xml:id="k016" facs="350,449,141,44">
+          <placeName type="ety" ref="https://viaf.org/viaf/235067119" corresp="#kas29">mare Caspiam</placeName>
+        </p>
+        <p xml:id="k017" facs="1082,133,216,83">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/126600002" corresp="#tab11">taprobana insula plena feris et auibus</placeName>
+        </p>
+        <p xml:id="k018" facs="1066,174,232,85">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/126600002" corresp="#tab11">taprobana insula habens couitates decem</placeName>
+        </p>
+        <p xml:id="k019" facs="1607,1413,50,50">
+          <placeName type="des">Gaulon...</placeName>
+        </p>
+        <p xml:id="k020" facs="1559,1479,58,59">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/2235162985478086300002" corresp="#gor262">gorgodes</placeName>
+        </p>
+        <p xml:id="k021" facs="1438,1549,124,119">
+          <placeName type="ety/des" ref="https://www.wikidata.org/wiki/Q1615655" corresp="#hes263">esperidum insule</placeName>
+        </p>
+        <p xml:id="k022" facs="1019,1743,305,126">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/148386330" corresp="#ins261">Fortunate insule</placeName>
+        </p>
+        <p xml:id="k023" facs="713,1785,119,62">
+          <placeName type="ety" ref="https://vocab.getty.edu/page/tgn/7001181" corresp="#hib257">hibernia</placeName>
+        </p>
+        <p xml:id="k024" facs="597,1748,112,72">
+          <placeName type="ety" ref="https://vocab.getty.edu/page/tgn/7002444" corresp="#sco256">Scotia</placeName>
+        </p>
+        <p xml:id="k025" facs="544,1736,44,48">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/8738148574329924430008" corresp="#tha251">tanatos</placeName>
+        </p>
+        <p xml:id="k026" facs="471,1641,170,104">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/316875309" corresp="#bri250">anglia insua que et britannia maior</placeName>
+        </p>
+        <p xml:id="k027" facs="319,1578,88,79">
+          <placeName type="ety/des" ref="https://d-nb.info/gnd/4366508-1" corresp="#til14">tile insula</placeName>
+        </p>
+        <p xml:id="k028" facs="64,694,108,199">
+          <placeName type="des" ref="https://www.wikidata.org/wiki/Q629060">gog magog</placeName>
+        </p>
+        <p xml:id="k029" facs="581,168,78,51">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/534145424673186830267" corresp="#thu253">tilos insula</placeName>
+        </p>
+        <p xml:id="k030" facs="679,137,76,49">
+          <placeName type="ety/des" ref="https://www.wikidata.org/wiki/Q4789878" corresp="#chr12 #arg13">crise insula</placeName>
+        </p>
+        <p xml:id="k031" facs="778,110,83,51">
+          <placeName type="ety/des" ref="https://www.wikidata.org/wiki/Q4789878" corresp="#chr12 #arg13">argire insula</placeName>
+        </p>
+      </div>
+      <div type="section">
+        <head xml:lang="en">The isles of the Red Sea</head>
+        <head xml:lang="de">Die Inseln des Roten Meeres</head>
+        <p xml:id="k032" facs="1331,330,38,52">
+          <placeName type="des">Ferrea insula</placeName>
+        </p>
+        <p xml:id="k033" facs="1380,341,34,50">
+          <placeName type="des">Stridonia</placeName>
+        </p>
+        <p xml:id="k034" facs="1418,355,35,53">
+          <placeName type="des">erea</placeName>
+        </p>
+        <p xml:id="k035" facs="1324,413,102,63">
+          <placeName type="des">Gorgoneos insula</placeName>
+        </p>
+        <p xml:id="k036" facs="1337,540,47,64">
+          <placeName type="ety/des">cyprus</placeName>
+        </p>
+      </div>
+      <div type="section">
+        <head xml:lang="en">The Mediterranean Sea and the Black Sea</head>
+        <head xml:lang="de">Das Mittelmeer und das Schwarze Meer</head>
+        <p xml:id="k037" facs="493,800,80,126">
+          <placeName type="des">cimericum mare</placeName>
+        </p>
+        <p xml:id="k038" facs="362,951,160,40">
+          <placeName type="des">eusinum mare</placeName>
+        </p>
+        <p xml:id="k039" facs="534,981,86,35">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/315939224" corresp="#pro101">propontis</placeName>
+        </p>
+        <p xml:id="k040" facs="672,972,78,31">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/243410280">ellespontus</placeName>
+        </p>
+        <p xml:id="k041" facs="421,1016,82,38">
+          <placeName type="des" ref="https://viaf.org/viaf/316875294" corresp="#hel114">bosphorus</placeName>
+        </p>
+        <p xml:id="k042" facs="817,854,111,28">
+          <placeName type="des">cyprium mare</placeName>
+        </p>
+        <p xml:id="k043" facs="759,814,53,69">
+          <placeName type="des">asiaticus sinus</placeName>
+        </p>
+        <p xml:id="k044" facs="803,770,57,57">
+          <placeName type="ety/des">cilicus sinus</placeName>
+        </p>
+        <p xml:id="k045" facs="876,778,50,50">
+          <placeName type="des">messicus sinus</placeName>
+        </p>
+        <p xml:id="k046" facs="672,1016,80,48">
+          <placeName type="des" ref="https://www.wikidata.org/wiki/Q913418">macedonicus sinus</placeName>
+        </p>
+        <p xml:id="k047" facs="670,1099,92,79">
+          <placeName type="des" ref="https://viaf.org/viaf/248686838">chorinthius sinus</placeName>
+        </p>
+        <p xml:id="k048" facs="669,1266,86,35">
+          <placeName type="des">illiricus sinus</placeName>
+        </p>
+        <p xml:id="k049" facs="676,1302,104,52">
+          <placeName type="des" ref="https://www.wikidata.org/wiki/Q938838">liburnicus sinus</placeName>
+        </p>
+        <p xml:id="k050" facs="715,1353,69,62">
+          <placeName ref="https://viaf.org/viaf/243199828">venetia</placeName>
+        </p>
+        <p xml:id="k051" facs="828,1251,102,42">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/316741867" corresp="#adr158">adiaticum</placeName>
+        </p>
+        <p xml:id="k052" facs="982,983,143,39">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/2743148574264324430004" corresp="#lev131">egyptium mare</placeName>
+        </p>
+        <p xml:id="k053" facs="979,1028,50,50">
+          <placeName type="ety/des" ref="https://www.wikidata.org/wiki/Q840427" corresp="#myr172">mirteum</placeName>
+        </p>
+        <p xml:id="k054" facs="894,1069,87,46">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/242543837" corresp="#aga148">egeum</placeName>
+        </p>
+        <p xml:id="k055" facs="861,1154,71,34">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/238399187" corresp="#ion173">ionium</placeName>
+        </p>
+        <p xml:id="k056" facs="975,1129,88,34">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/3150202075603111581" corresp="#kar271">carpatum</placeName>
+        </p>
+        <p xml:id="k057" facs="1205,982,79,36">
+          <placeName type="des" ref="https://d-nb.info/gnd/4042336-0">pelusium</placeName>
+        </p>
+        <p xml:id="k058" facs="1121,1073,64,47">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/315149791" corresp="#kre122">creticum</placeName>
+        </p>
+        <p xml:id="k059" facs="786,1574,128,47">
+          <placeName type="des">Gallicum mare</placeName>
+        </p>
+        <p xml:id="k060" facs="786,1492,113,41">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/242529415" corresp="#lig314">Liguricus sinus</placeName>
+        </p>
+        <p xml:id="k061" facs="881,1769,124,25">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/341145424530286830060" corresp="#buc208">gaditanum fretum (?)</placeName>
+        </p>
+      </div>
+      <div type="section">
+        <head xml:lang="en">The Isles of Mediterranean Sea</head>
+        <head xml:lang="de">Die Inseln des Mittelmeers</head>
+        <p xml:id="k062" facs="895,1658,90,99">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/133675177" corresp="#gad260">Gades</placeName>
+        </p>
+        <p xml:id="k063" facs="913,1494,69,113">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/315127257" corresp="#ebo315">ebosus insula</placeName>
+        </p>
+        <p xml:id="k064" facs="958,1429,58,56">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/148184584" corresp="#sar234">Sardinia</placeName>
+        </p>
+        <p xml:id="k065" facs="896,1286,109,97">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/244081256" corresp="#siz127">Sicilia</placeName>
+        </p>
+        <p xml:id="k066" facs="801,1281,67,48">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/247626356" corresp="#kor313">corcica</placeName>
+        </p>
+        <p xml:id="k067" facs="950,1217,58,55">
+          <placeName type="ety/des">Stripodes</placeName>
+        </p>
+        <p xml:id="k068" facs="998,1166,74,46">
+          <placeName type="ety" ref="https://viaf.org/viaf/239488010" corresp="#lip299">lyparis</placeName>
+        </p>
+        <p xml:id="k069" facs="919,1169,54,60">
+          <placeName type="ety/des">Fenicus</placeName>
+        </p>
+        <p xml:id="k070" facs="1019,1221,63,72">
+          <placeName type="ety" ref="https://viaf.org/viaf/464145857885923020676" corresp="#str301">Strongile</placeName>
+        </p>
+        <p xml:id="k071" facs="866,1199,50,59">
+          <placeName type="ety/des">Festia</placeName>
+        </p>
+        <p xml:id="k072" facs="901,1102,50,50">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/236336846" corresp="#chi289">chio</placeName>
+        </p>
+        <p xml:id="k073" facs="768,1070,50,50">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/238993010" corresp="#sam284">samos</placeName>
+        </p>
+        <p xml:id="k074" facs="831,1074,50,50">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/156004022" corresp="#par288">paros</placeName>
+        </p>
+        <p xml:id="k075" facs="963,1088,50,50">
+          <placeName type="des" ref="https://d-nb.info/gnd/4119582-6">terasia</placeName>
+        </p>
+        <p xml:id="k076" facs="1127,1118,52,62">
+          <placeName type="des" ref="https://www.wikidata.org/wiki/Q1232442">calipso</placeName>
+        </p>
+        <p xml:id="k077" facs="1141,990,44,62">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/72144647637380166582" corresp="#kan71">canopia</placeName>
+        </p>
+        <p xml:id="k078" facs="853,986,43,51">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/233718569" corresp="#rho278">rodus</placeName>
+        </p>
+        <p xml:id="k079" facs="804,1012,43,51">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/236790584" corresp="#kos273">Choos</placeName>
+        </p>
+        <p xml:id="k080" facs="743,978,41,51">
+          <placeName type="des" ref="https://d-nb.info/gnd/4044911-7">pathmos</placeName>
+        </p>
+        <p xml:id="k081" facs="624,972,43,35">
+          <placeName type="des">colchos</placeName>
+        </p>
+        <p xml:id="k082" facs="825,885,56,81">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/236790584" corresp="#kos273">cyprus</placeName>
+        </p>
+        <p xml:id="k083" facs="1024,1020,96,109">
+          <placeName type="ety/des" ref="https://viaf.org/viaf/237254468" corresp="#kre133">creta insula</placeName>
+        </p>
+        <p xml:id="k084" facs="1062,1265,53,66">
+          <placeName type="ety" ref="https://viaf.org/viaf/235216203" corresp="#did302">didime</placeName>
+        </p>
+      </div>
+      <div type="group">
+        <head xml:lang="en">Asia</head>
+        <head xml:lang="de">Asien</head>
+        <div type="section">
+          <head xml:lang="en">The rivers of Asia</head>
+          <head xml:lang="de">Die Flüsse Asiens</head>
+          <p xml:id="k085" facs="744,358,95,31">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/240776160" corresp="#gan15">Ganges fl.</placeName>
+          </p>
+          <p xml:id="k086" facs="920,420,66,29">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/237269647" corresp="#ind9">Fl. indus</placeName>
+          </p>
+          <p xml:id="k087" facs="697,545,97,30">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/236538332" corresp="#tig23">Fl. tigris</placeName>
+          </p>
+          <p xml:id="k088" facs="880,512,79,46">
+            <placeName type="ety" ref="https://viaf.org/viaf/315145464" corresp="#hyd24 #sky27">Fl. idaspis</placeName>
+          </p>
+          <p xml:id="k089" facs="1008,524,64,37">
+            <placeName type="ety">Fl. arbis</placeName>
+          </p>
+          <p xml:id="k090" facs="714,608,97,53">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/237806341" corresp="#euf34">Fl. eufrates</placeName>
+          </p>
+          <p xml:id="k091" facs="635,803,50,60">
+            <placeName type="des">Fl. euxis</placeName>
+          </p>
+          <p xml:id="k092" facs="975,816,59,60">
+            <placeName type="des" ref="https://viaf.org/viaf/125091880">Iordanis</placeName>
+          </p>
+          <p xml:id="k093" facs="263,765,90,27">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/305331731" corresp="#ara86">Fl. araxis</placeName>
+          </p>
+          <p xml:id="k094" facs="555,385,106,22">
+            <placeName type="des">fl. Boreus</placeName>
+          </p>
+          <p xml:id="k095" facs="189,961,129,44">
+            <placeName type="ety" ref="https://viaf.org/viaf/248092382" corresp="#tan6">Fl. tanais</placeName>
+          </p>
+        </div>
+        <div type="section">
+          <head xml:lang="en">Mountains of Asia</head>
+          <head xml:lang="de">Die Berge Asiens</head>
+          <p xml:id="k096" facs="805,183,128,74">
+            <placeName type="des">caligardamana promontorium</placeName>
+          </p>
+          <p xml:id="k097" facs="1098,276,112,62">
+            <placeName type="des">mons maleus</placeName>
+          </p>
+          <p xml:id="k098" facs="633,644,65,62">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/315127904" corresp="#tau35">mons taurus</placeName>
+          </p>
+          <p xml:id="k099" facs="923,772,48,81">
+            <placeName type="ety/des" ref="https://d-nb.info/gnd/4035568-8" corresp="#lib57">mons libanus</placeName>
+          </p>
+          <p xml:id="k100" facs="1254,684,58,85">
+            <placeName type="des" ref="https://viaf.org/viaf/315149342">mons synai</placeName>
+          </p>
+          <p xml:id="k101" facs="589,746,105,57">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/316431476" corresp="#ara327">ararath montes armenie</placeName>
+          </p>
+          <p xml:id="k102" facs="227,689,135,27">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/242526666" corresp="#kau10">mons caucasus</placeName>
+          </p>
+          <p xml:id="k103" facs="536,532,91,55">
+            <placeName type="des" ref="https://www.wikidata.org/wiki/Q1054699" corresp="#ker91">acrocerauni</placeName>
+          </p>
+          <p xml:id="k104" facs="630,542,69,92">
+            <placeName type="des">ariobarzanes</placeName>
+          </p>
+          <p xml:id="k105" facs="699,415,29,120">
+            <placeName type="des">memarmoli</placeName>
+          </p>
+          <p xml:id="k106" facs="706,318,32,89">
+            <placeName type="des">oscobares</placeName>
+          </p>
+          <p xml:id="k107" facs="718,219,23,92">
+            <placeName>timauus</placeName>
+          </p>
+          <p xml:id="k108" facs="440,597,102,143">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/237473291" corresp="#kas30">porte caspie</placeName>
+          </p>
+        </div>
+        <div type="section">
+          <head xml:lang="en">The regiones, cities and peoples of Asia</head>
+          <head xml:lang="de">Die Regionen, Städte und Völker Asiens</head>
+          <p xml:id="k109" facs="737,200,50,50">
+            <placeName type="ety" ref="https://viaf.org/viaf/239863610" corresp="#bak75">bactriani</placeName>
+          </p>
+          <p xml:id="k110" facs="845,262,74,50">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/135375457">india que finem facit</placeName>
+          </p>
+          <p xml:id="k111" facs="756,303,78,50">
+            <placeName type="des">cathmorum gens optima</placeName>
+          </p>
+          <p xml:id="k112" facs="952,232,131,89">
+            <placeName type="ety/des">c. enoch</placeName>
+          </p>
+          <p xml:id="k113" facs="1211,267,77,97">
+            <placeName type="des">columpne alexandri</placeName>
+          </p>
+          <p xml:id="k114" facs="916,316,112,112">
+            <placeName type="des">c. nisan</placeName>
+          </p>
+          <p xml:id="k115" facs="1030,322,107,124">
+            <placeName type="des">c. palibotra</placeName>
+          </p>
+          <p xml:id="k116" facs="1185,415,99,112">
+            <placeName>c. eriforum</placeName>
+          </p>
+          <p xml:id="k117" facs="729,444,62,78">
+            <placeName type="des">c. carra</placeName>
+          </p>
+          <p xml:id="k118" facs="828,406,87,106">
+            <placeName type="des" ref="https://www.wikidata.org/wiki/Q5680">c. niniue</placeName>
+          </p>
+          <p xml:id="k119" facs="979,453,77,70">
+            <placeName type="des">c. ectesifon</placeName>
+          </p>
+          <p xml:id="k120" facs="1060,490,93,86">
+            <placeName type="des">c. archimedon</placeName>
+          </p>
+          <p xml:id="k121" facs="763,588,165,88">
+            <placeName type="des">c. edissa</placeName>
+          </p>
+          <p xml:id="k122" facs="1016,591,92,102">
+            <placeName type="ety" ref="https://viaf.org/viaf/146198874" corresp="#bab40">c. babilon</placeName>
+          </p>
+          <p xml:id="k123" facs="1111,591,141,96">
+            <placeName type="des" ref="https://viaf.org/viaf/315170472">c. adrianopolis</placeName>
+          </p>
+          <p xml:id="k124" facs="544,705,112,66">
+            <placeName type="des" ref="https://www.wikidata.org/wiki/Q126553">archa noe</placeName>
+          </p>
+          <p xml:id="k125" facs="704,654,99,113">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/22160544379509980611" corresp="#sel121">c. Seleucia</placeName>
+          </p>
+          <p xml:id="k126" facs="795,677,84,86">
+            <placeName type="des">c. lauditia</placeName>
+          </p>
+          <p xml:id="k127" facs="872,687,99,82">
+            <placeName type="des" ref="https://viaf.org/viaf/240814297">antiochia</placeName>
+          </p>
+          <p xml:id="k128" facs="542,830,85,43">
+            <placeName type="ety/des">temiscerii campi</placeName>
+          </p>
+          <p xml:id="k129" facs="700,762,68,80">
+            <placeName type="des">c. decusa</placeName>
+          </p>
+          <p xml:id="k130" facs="971,709,111,94">
+            <placeName type="des">c. cesarea philippi</placeName>
+          </p>
+          <p xml:id="k131" facs="1073,706,82,71">
+            <placeName type="des" ref="https://viaf.org/viaf/153218982">c. nazareth</placeName>
+          </p>
+          <p xml:id="k132" facs="1151,696,104,117">
+            <placeName type="des" ref="https://viaf.org/viaf/315531503">c. capharnaum</placeName>
+          </p>
+          <p xml:id="k133" facs="643,838,115,115">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/244579528" corresp="#nik110">c. nichomedia</placeName>
+          </p>
+          <p xml:id="k134" facs="901,961,77,98">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/124395803" corresp="#tyr51">c. tyrus</placeName>
+          </p>
+          <p xml:id="k135" facs="982,882,73,99">
+            <placeName type="des" ref="https://viaf.org/viaf/148709451">c. Ioppe</placeName>
+          </p>
+          <p xml:id="k136" facs="1071,816,97,144">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/131280745" corresp="#jer59">c. Ierusalem</placeName>
+          </p>
+          <p xml:id="k137" facs="1159,872,106,98">
+            <placeName type="des" ref="https://viaf.org/viaf/143380634">c. Bethleem</placeName>
+          </p>
+          <p xml:id="k138" facs="1205,806,83,91">
+            <placeName type="des">Iericho</placeName>
+          </p>
+          <p xml:id="k139" facs="646,216,67,107">
+            <placeName type="ety/des">c. Seres</placeName>
+          </p>
+          <p xml:id="k140" facs="566,242,97,90">
+            <placeName type="des">c. octorogorra</placeName>
+          </p>
+          <p xml:id="k141" facs="512,326,194,78">
+            <placeName type="des">uicus Safrim</placeName>
+          </p>
+          <p xml:id="k142" facs="367,409,133,31">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/233709227" corresp="#hyr87">hircania superior</placeName>
+          </p>
+          <p xml:id="k143" facs="513,397,113,112">
+            <placeName type="des">c. Sarmathana</placeName>
+          </p>
+          <p xml:id="k144" facs="627,417,71,109">
+            <placeName type="des">c. catippi</placeName>
+          </p>
+          <p xml:id="k145" facs="511,514,113,155">
+            <placeName type="des">c. alexandria</placeName>
+          </p>
+          <p xml:id="k146" facs="459,547,82,48">
+            <placeName type="ety/des" ref="https://vocab.getty.edu/page/tgn/7004538" corresp="#arm31">armenia superior</placeName>
+          </p>
+          <p xml:id="k147" facs="626,550,45,38">
+            <placeName type="ety/des" ref="https://www.wikidata.org/wiki/Q19083">hibernia</placeName>
+          </p>
+          <p xml:id="k148" facs="250,647,177,26">
+            <placeName type="ety" ref="https://viaf.org/viaf/233709227" corresp="#hyr87">hircania silua</placeName>
+          </p>
+          <p xml:id="k149" facs="223,669,203,15">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/233709227" corresp="#hyr87">hircania inferior</placeName>
+          </p>
+          <p xml:id="k150" facs="197,714,77,28">
+            <placeName>arimphei</placeName>
+          </p>
+          <p xml:id="k151" facs="280,718,125,25">
+            <placeName type="ety/des">albania superior</placeName>
+          </p>
+          <p xml:id="k152" facs="253,818,154,40">
+            <placeName type="des">Regio amazonum</placeName>
+          </p>
+          <p xml:id="k153" facs="156,874,142,53">
+            <placeName type="des">are alexandri</placeName>
+          </p>
+          <p xml:id="k154" facs="185,914,161,31">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/391145424566586831498" corresp="#mao5">meotide paludes</placeName>
+          </p>
+          <p xml:id="k155" facs="1294,760,44,27">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/234112718" corresp="#asi1">asia</placeName>
+          </p>
+        </div>
+      </div>
+      <div type="group">
+        <head xml:lang="en">Europe</head>
+        <head xml:lang="de">Europa</head>
+        <div type="section">
+          <head xml:lang="en">The rivers of Europe</head>
+          <head xml:lang="de">Die Flüsse Europas</head>
+          <p xml:id="k156" facs="50,784,50,50">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/243109688" corresp="#hyp16">Fl. ypanes</placeName>
+          </p>
+          <p xml:id="k157" facs="228,1239,75,75">
+            <placeName type="des" ref="https://viaf.org/viaf/7935148632953630630008">Fl. lemannus</placeName>
+          </p>
+          <p xml:id="k158" facs="523,1141,47,61">
+            <placeName type="des" ref="https://viaf.org/viaf/240065078">Fl. drabo</placeName>
+          </p>
+          <p xml:id="k159" facs="467,1275,86,38">
+            <placeName type="des" ref="https://viaf.org/viaf/248111121">Fl. sabo</placeName>
+          </p>
+          <p xml:id="k160" facs="581,1264,84,31">
+            <placeName type="des" ref="https://viaf.org/viaf/315144426">Fl. strimon</placeName>
+          </p>
+          <p xml:id="k161" facs="509,1377,76,36">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/235009044" corresp="#don81">Fl. danubius</placeName>
+          </p>
+          <p xml:id="k162" facs="842,1408,52,82">
+            <placeName type="ety" ref="https://viaf.org/viaf/316430945" corresp="#tib187">Fl. ty...</placeName>
+          </p>
+          <p xml:id="k163" facs="508,1439,67,41">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/3145602320301361474" corresp="#rhe138">Fl. renus</placeName>
+          </p>
+          <p xml:id="k164" facs="608,1459,24,87">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/132057473" corresp="#rho197">Fl. rodanus</placeName>
+          </p>
+        </div>
+        <div type="section">
+          <head xml:lang="en">The regions and cities of Europe</head>
+          <head xml:lang="de">Die Regionen und Städte Europas</head>
+          <p xml:id="k165" facs="327,1026,85,66">
+            <placeName type="des" ref="https://viaf.org/viaf/146645300">c. theodosia</placeName>
+          </p>
+          <p xml:id="k166" facs="184,1116,66,26">
+            <placeName type="ety/des">alania</placeName>
+          </p>
+          <p xml:id="k167" facs="264,1119,113,102">
+            <placeName type="des">c. cersona</placeName>
+          </p>
+          <p xml:id="k168" facs="198,1223,117,20">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/245418360">Scitia inferior</placeName>
+          </p>
+          <p xml:id="k169" facs="567,1007,133,115">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/3146951283615371273" corresp="#kon147">c. constantinopolis</placeName>
+          </p>
+          <p xml:id="k170" facs="356,1192,69,126">
+            <placeName type="des">c. ransburg</placeName>
+          </p>
+          <p xml:id="k171" facs="439,1155,68,131">
+            <placeName type="des" ref="https://viaf.org/viaf/246997172">c. eraclea</placeName>
+          </p>
+          <p xml:id="k172" facs="500,1198,59,99">
+            <placeName type="des" ref="https://viaf.org/viaf/159441810">c. beroe</placeName>
+          </p>
+          <p xml:id="k173" facs="570,1124,91,122">
+            <placeName type="des" ref="https://viaf.org/viaf/148988510">c. Larissa</placeName>
+          </p>
+          <p xml:id="k174" facs="455,1299,105,87">
+            <placeName type="des">c. lorum</placeName>
+          </p>
+          <p xml:id="k175" facs="673,1158,79,109">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/130123345" corresp="#kor175">c. chorintus</placeName>
+          </p>
+          <p xml:id="k176" facs="748,1126,92,134">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/131280462" corresp="#ath162">c. athene</placeName>
+          </p>
+          <p xml:id="k177" facs="584,1299,80,40">
+            <placeName type="des">c. dirracium</placeName>
+          </p>
+          <p xml:id="k178" facs="601,1317,83,103">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/237712385" corresp="#the166">c. thebe</placeName>
+          </p>
+          <p xml:id="k179" facs="359,1408,77,91">
+            <placeName type="des">bononia</placeName>
+          </p>
+          <p xml:id="k180" facs="731,1415,57,85">
+            <placeName type="des">c. mediolanum</placeName>
+          </p>
+          <p xml:id="k181" facs="834,1346,51,28">
+            <placeName type="ety/des" ref="https://vocab.getty.edu/page/tgn/7023981" corresp="#ita180">Italia</placeName>
+          </p>
+          <p xml:id="k182" facs="813,1394,118,108">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/145348938" corresp="#rom192">c. Roma</placeName>
+          </p>
+          <p xml:id="k183" facs="754,1348,81,90">
+            <placeName type="des">rauenna</placeName>
+          </p>
+          <p xml:id="k184" facs="565,1484,39,40">
+            <placeName type="ety" ref="https://viaf.org/viaf/242520115" corresp="#gal132">Gallia</placeName>
+          </p>
+          <p xml:id="k185" facs="402,1376,117,124">
+            <placeName type="des">c. magontia</placeName>
+          </p>
+          <p xml:id="k186" facs="377,1523,61,39">
+            <placeName type="des" ref="https://viaf.org/viaf/3274148632972830630006">Normannia</placeName>
+          </p>
+          <p xml:id="k187" facs="382,1520,108,101">
+            <placeName type="des">c. rotomagus</placeName>
+          </p>
+          <p xml:id="k188" facs="482,1519,70,118">
+            <placeName type="des">c. beluacus</placeName>
+          </p>
+          <p xml:id="k189" facs="552,1517,91,118">
+            <placeName type="des">c. remis</placeName>
+          </p>
+          <p xml:id="k190" facs="643,1494,89,88">
+            <placeName type="des">c. lugdunum</placeName>
+          </p>
+          <p xml:id="k191" facs="725,1519,68,68">
+            <placeName type="des" ref="https://viaf.org/viaf/243449555">c. arelatum</placeName>
+          </p>
+          <p xml:id="k192" facs="795,1529,71,41">
+            <placeName type="des">Prouintia</placeName>
+          </p>
+          <p xml:id="k193" facs="648,1588,77,119">
+            <placeName type="des" ref="https://viaf.org/viaf/141427398">c. burdegala</placeName>
+          </p>
+          <p xml:id="k194" facs="704,1598,77,26">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/127778483" corresp="#aqu196">aquitania</placeName>
+          </p>
+          <p xml:id="k195" facs="759,1626,82,19">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/238991012" corresp="#his134">hispania</placeName>
+          </p>
+          <p xml:id="k196" facs="805,1628,89,131">
+            <placeName type="des" ref="https://viaf.org/viaf/1169158188256820260008">c. cesaraugusta</placeName>
+          </p>
+          <p xml:id="k197" facs="709,1650,91,120">
+            <placeName type="des" ref="https://viaf.org/viaf/155934955">c. corduba</placeName>
+          </p>
+        </div>
+      </div>
+      <div type="group">
+        <head xml:lang="en">Africa</head>
+        <head xml:lang="de">Afrika</head>
+        <div type="section">
+          <head xml:lang="en">The rivers of Africa</head>
+          <head xml:lang="de">Die Flüsse Afrikas</head>
+          <p xml:id="k198" facs="1446,418,105,84">
+            <placeName type="des">Archipoleta lacus quem nilus ingreditur</placeName>
+          </p>
+          <p xml:id="k199" facs="1406,562,90,37">
+            <placeName type="des" ref="https://viaf.org/viaf/316429432" corresp="#nil70">hinc Nilus emergit</placeName>
+          </p>
+          <p xml:id="k200" facs="1079,1432,102,39">
+            <placeName type="des">fl. Bagrada</placeName>
+          </p>
+          <p xml:id="k201" facs="1165,1517,70,25">
+            <placeName type="ety/des">fl. ansaga</placeName>
+          </p>
+          <p xml:id="k202" facs="1218,1607,58,45">
+            <placeName type="des">fl. dara</placeName>
+          </p>
+          <p xml:id="k203" facs="1406,1353,81,130">
+            <placeName type="des">fl. nuchul qui et nilus</placeName>
+          </p>
+        </div>
+        <div type="section">
+          <head xml:lang="en">The mountains of Africa</head>
+          <head xml:lang="de">Die Berge Afrikas</head>
+          <p xml:id="k204" facs="1211,1401,55,178">
+            <placeName type="ety/des">mons astrixis</placeName>
+          </p>
+          <p xml:id="k205" facs="1066,1612,103,179">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/236776704" corresp="#atl210">mons athlas</placeName>
+          </p>
+        </div>
+        <div type="section">
+          <head xml:lang="en">Animals of Africa</head>
+          <head xml:lang="de">Tiere Afrikas</head>
+          <p xml:id="k206" facs="1409,1039,159,162">
+            <persName>lupus cornutus</persName>
+          </p>
+          <p xml:id="k207" facs="1316,1182,213,169">
+            <persName type="des">leo</persName>
+          </p>
+          <p xml:id="k208" facs="1211,1551,49,32">
+            <persName>simie</persName>
+          </p>
+          <p xml:id="k209" facs="1606,717,86,314">
+            <persName type="des">serpentes</persName>
+          </p>
+          <p xml:id="k210" facs="1410,1291,179,303">
+            <persName>coluber mire longitudinis</persName>
+          </p>
+          <p xml:id="k211" facs="1576,1038,108,245">
+            <persName type="des">prester</persName>
+          </p>
+        </div>
+        <div type="section">
+          <head xml:lang="en">The regions and cities of Africa</head>
+          <head xml:lang="de">Die Regionen und Städte Afrikas</head>
+          <p xml:id="k212" facs="1453,610,104,54">
+            <placeName type="ety/des" ref="https://www.wikidata.org/wiki/Q410453" corresp="#ath69">ethiopum deserta loca</placeName>
+          </p>
+          <p xml:id="k213" facs="1438,695,156,143">
+            <placeName type="des">monasteria monachorum egypti</placeName>
+          </p>
+          <p xml:id="k214" facs="1359,728,56,59">
+            <placeName type="des" ref="https://d-nb.info/gnd/4051293-9">egyptiaca deserta</placeName>
+          </p>
+          <p xml:id="k215" facs="1314,865,74,108">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/146198874" corresp="#bab40">c. babyolon</placeName>
+          </p>
+          <p xml:id="k216" facs="1398,796,33,72">
+            <placeName type="des">meroe c.</placeName>
+          </p>
+          <p xml:id="k217" facs="1453,899,126,120">
+            <placeName type="des">castra alexandri</placeName>
+          </p>
+          <p xml:id="k218" facs="1405,978,191,61">
+            <placeName type="des">catabathmon</placeName>
+          </p>
+          <p xml:id="k219" facs="1199,1036,134,109">
+            <placeName type="des" ref="https://viaf.org/viaf/129002681">c. alexandria</placeName>
+          </p>
+          <p xml:id="k220" facs="1182,1179,141,104">
+            <placeName type="des">c. paretonium</placeName>
+          </p>
+          <p xml:id="k221" facs="1126,1234,71,45">
+            <placeName type="des">syrtes</placeName>
+          </p>
+          <p xml:id="k222" facs="1124,1272,114,80">
+            <placeName type="des">are philenorum</placeName>
+          </p>
+          <p xml:id="k223" facs="1308,1301,99,136">
+            <placeName>c. tuburbis</placeName>
+          </p>
+          <p xml:id="k224" facs="994,1336,79,77">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/244968426" corresp="#kar204">c. carthago</placeName>
+          </p>
+          <p xml:id="k225" facs="1100,1327,119,136">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/235674955" corresp="#byz213">c. bizatium</placeName>
+          </p>
+          <p xml:id="k226" facs="1031,1479,135,66">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/316430283" corresp="#hip235">yppo regium</placeName>
+          </p>
+          <p xml:id="k227" facs="1006,1552,127,92">
+            <placeName type="des">c. septem oppidum</placeName>
+          </p>
+          <p xml:id="k228" facs="986,1655,73,112">
+            <placeName type="des">c. Lix</placeName>
+          </p>
+          <p xml:id="k229" facs="1305,1488,103,134">
+            <placeName type="ety/des">c. esperia</placeName>
+          </p>
+          <p xml:id="k230" facs="1334,765,34,27">
+            <placeName type="ety/des" ref="https://viaf.org/viaf/123310773" corresp="#afr3">africa</placeName>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol161v.xml" prev="fol161r.xml" next="fol162r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 161v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol161v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00326/full/full/0/default.jpg" n="bsb00112097_00326"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div> <pb n="fol. 161v" facs="#fol161v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>
+                    <placeName ref="#mau237" xml:id="m-161v-001">mauritaniae</placeName> inter meridiem occasum que, <lb n="2"/>occiduo proximae, et inter se
+               interiecto <lb n="3"/>
+                    <placeName ref="#mit4" xml:id="m-161v-002">mari</placeName> discretae. <placeName ref="#gor262" xml:id="m-161v-003">Gorgodes insulae</placeName> oc<lb break="no" n="4"/>ceani obversae
+               promontorio, quod vo<lb break="no" n="5"/>catur espera cerus, quas incoluerunt
+               <lb n="6"/>gorgonas feminae aliti pernicitate, <lb n="7"/>hirsuto et aspero corpore; et ex his
+                  in<lb break="no" n="8"/>sulae cognominatae. Distant autem <lb n="9"/>a continenti terra bidui
+                  navigati<lb break="no" n="10"/>one. <placeName ref="#hes263" xml:id="m-161v-004">Esperidum insulae</placeName> vocatae a ci<lb break="no" n="11"/>vitate
+               <placeName ref="#ber220" xml:id="m-161v-005">esperida</placeName>, quae fuit in fines <lb n="12"/>
+                    <placeName ref="#mau237" xml:id="m-161v-006">mauritaniae</placeName>. Sunt enim ultra <lb n="13"/>gorgodes sitae
+               sub athlanteum litus <lb n="14"/>in intimos maris sinus; in quarum <lb n="15"/>hortis fingunt
+               fabulae draconem <lb n="16"/>pervigilem aurea mala servantem. <lb n="17"/>Fertur enim ibi esse
+               maris varium adeo <lb n="18"/>sinuosis lateribus tortuosum ut vi<lb break="no" n="19"/>sentibus
+               procul lapsus angueos imitetur. <lb n="20"/>
+                    <placeName ref="#chr12" xml:id="m-161v-007">Crise</placeName> et <placeName ref="#arg13" xml:id="m-161v-008">argire</placeName> insulae in <placeName ref="#ind267" xml:id="m-161v-009">indico oc<lb break="no" n="21"/>ceano</placeName> sitae, adeo fecundae copia me<lb break="no" n="22"/>tallorum ut
+               plerique eas auream super<lb break="no" n="23"/>ficiem et argenteam habere prodide<lb break="no" n="24"/>rint; unde et vocabulum sortitae sunt. <lb n="25"/>
+                    <placeName ref="#tab11" xml:id="m-161v-010">Taprobana</placeName> insula <placeName ref="#ind8" xml:id="m-161v-011">indiae</placeName> subiacens <lb n="26"/>ad eurum, ex qua <placeName ref="#ind267" xml:id="m-161v-012">occeanus indicus</placeName> incipit, <lb n="27"/>patens in longitudine
+               octingentis <lb n="28"/>LXXV milibus passuum, in
+               latitudine dc xxv milibus stadiorum. Scinditur <lb n="29"/>amne interfluo; tota
+               margaritis re<lb break="no" n="30"/>pleta et gemmis: Pars eius bestiis et ele<lb break="no" n="31"/>fantis repleta est, partem vero homines <lb n="32"/>tenent. Homines autem ibi corpore
+               <lb n="33"/>grandiores ultra omnium mensuram <lb n="34"/>rutulis comis ceruleis octonis, truci<lb break="no" n="35"/>onis soni. Nulla linguae commercio <lb n="36"/>alteri genti sociantur. Cum
+               negoti <lb n="37"/>atoribus aliis in ripa fluminis mer<lb break="no" n="38"/>ces opponunt, ac vix
+               complacitas <lb n="39"/>mutuant. Etas illlis ultra humanam <lb n="40"/>fragilitatem prolixa ut
+               immature preeat</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>qui centenariis moritu. Nulli prediae <lb n="2"/>somnis, annona eodem semper tenore,
+               <lb n="3"/>aedificia humilia paruaque. Vitae <lb n="4"/>nesciunt redundant pomis cul<lb break="no" n="5"/>turas et venatus amant. Verum <lb n="6"/>tygridum aut elefantorum piscati
+               <lb n="7"/>onibus delectantur, perfertinque testu <lb n="8"/>dinum quarum supersicie domos
+                  fami<lb break="no" n="9"/>liarum capaces operiunt. In hac autem <lb n="10"/>insula dicunt in
+               uno anno duas <lb n="11"/>esse estates et duas hiemes, et bis flo<lb break="no" n="12"/>ribus
+               vernare locum. <placeName ref="#til14" xml:id="m-161v-013">Utilis</placeName> insula <lb n="13"/>
+                    <placeName ref="#ind8" xml:id="m-161v-014">indiae</placeName>, virens omni tempore folia. <lb n="14"/>Hucusque
+               occeani insulae. Item insulae <lb n="15"/>quae ab <placeName ref="#hel114" xml:id="m-161v-015">ellesponto</placeName> usque ad <placeName ref="#gad260" xml:id="m-161v-016">gades</placeName> <lb n="16"/>in <placeName ref="#mit4" xml:id="m-161v-017">mari magno</placeName> sunt constitutae. <lb n="17"/>
+                    <placeName ref="#zyp99" xml:id="m-161v-018">Cyprus</placeName> insula a civitate <placeName ref="#cyp270" xml:id="m-161v-019">cypro</placeName>, quae <lb n="18"/>in ea est,
+               nomen accepit; Ipsa est et paphon <lb n="19"/>
+                    <persName ref="#ven78" xml:id="m-161v-020">veneri</persName> consecrata in <placeName ref="#kar271" xml:id="m-161v-021">carpatio ma<lb break="no" n="20"/>ri</placeName>, vicina austro, famosa quondam <lb n="21"/>divitiis, et maxime aeris. Ibi enim <lb n="22"/>prima huius metalli
+               inventio fuit <lb n="23"/>et utilitas . <placeName ref="#kre133" xml:id="m-161v-022">Creta</placeName> insula <placeName ref="#gri150" xml:id="m-161v-023">greciae</placeName> pars est <lb n="24"/>iungens contra
+               <placeName ref="#pel165" xml:id="m-161v-024">peleponensem</placeName>. <lb n="25"/>Haec primum a temperie caeli <placeName ref="#kre133" xml:id="m-161v-025">macarone<lb break="no" n="26"/>sson</placeName> appellata est; Deinde <placeName ref="#kre133" xml:id="m-161v-026">creta</placeName> <lb n="27"/>dicta a <persName ref="#kre79" xml:id="m-161v-027">crete</persName> quodam indigena, quem <lb n="28"/>aiunt unum curetarum fuisse, a <lb n="29"/>quibus <persName ref="#jup37" xml:id="m-161v-028">iupiter</persName> ibi absconditus est et enutritus. <lb n="30"/>Est autem
+               insula <placeName ref="#gri150" xml:id="m-161v-029">greciae</placeName> inter ortum <lb n="31"/>et occasum longissimo tractu por<lb break="no" n="32"/>recta, a septentrione greciae aestibus, <lb n="33"/>ab austro aegyptiis undis perfusa.
+               <lb n="34"/>Fuit autem quondam centum urbibus <lb n="35"/>nobilis; unde et heac <placeName ref="#kre133" xml:id="m-161v-030">centompolis</placeName> di<lb break="no" n="36"/>cta est. Prima etiam remis et sa<lb break="no" n="37"/>gittis claruit, prima
+               litteris iura <lb n="38"/>fixit, equestres turmas prima do<lb break="no" n="39"/>cuit; Studium
+               musicum ab ideis dac<lb break="no" n="40"/>tilis in ea ceptum. Capris copiosa,</p>
+            </div>
+            </body>
+  </text>
+</TEI>

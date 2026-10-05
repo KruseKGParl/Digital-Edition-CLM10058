@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol163r.xml" prev="fol162v.xml" next="fol163v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 163r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol163r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00329/full/full/0/default.jpg" n="bsb00112097_00329"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 163r" facs="#fol163r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>poetae finxerunt regem fuisse ventorum: <lb n="2"/>Sed ut <persName ref="#var81" xml:id="m-163r-001">varro</persName> dicit, rector fuit ista<lb break="no" n="3"/>rum insularum, et quia ex
+               earum <lb n="4"/>nebulis et fumo futuros praedicebat <lb n="5"/>flatus ventorum, ab imperitis
+               visus <lb n="6"/>est ventos sua potestate retinuis<lb break="no" n="7"/>se. Eaedem insulae et
+               <placeName ref="#aol298" xml:id="m-163r-002">vulcaniae</placeName> vo<lb break="no" n="8"/>cantur, quod et ipsae sicut <placeName ref="#atn128" xml:id="m-163r-003">ethna</placeName> ar<lb break="no" n="9"/>deant. Sunt autem novem habentes <lb n="10"/>propria nomina. Quarum primam <lb n="11"/>
+                    <persName ref="#lip99" xml:id="m-163r-004">lyparus</persName> quidam <placeName ref="#lip299" xml:id="m-163r-005">lyparem</placeName> vocavit, <lb n="12"/>qui eam ante
+                  <persName ref="#aeo97" xml:id="m-163r-006">eolum</persName> rexit; Altera <lb n="13"/>
+                    <placeName ref="#hie300" xml:id="m-163r-007">therasia</placeName> vocat, quod sit collibus ex <lb n="14"/>cellentissimis; Tercia <placeName ref="#str301" xml:id="m-163r-008">strongile</placeName> <lb n="15"/>in qua <persName ref="#aeo97" xml:id="m-163r-009">eolus</persName> regnasse fertus Reliquae <lb n="16"/>vero, id est, <placeName ref="#did302" xml:id="m-163r-010">didime</placeName>, <placeName ref="#eri303" xml:id="m-163r-011">erifusa</placeName>, <placeName ref="#hep304" xml:id="m-163r-012">festia</placeName>, <placeName ref="#pha305" xml:id="m-163r-013">feni<lb break="no" n="17"/>cusa</placeName>, <placeName ref="#euo306" xml:id="m-163r-014">donimus</placeName>, <placeName ref="#tri307" xml:id="m-163r-015">stripodes</placeName>, <placeName ref="#son308" xml:id="m-163r-016">sonores</placeName>, <lb n="18"/>quoniam
+               nocte ardent, <placeName ref="#aol298" xml:id="m-163r-017">eoliae</placeName> sive <placeName ref="#aol298" xml:id="m-163r-018">vul<lb break="no" n="19"/>caniae</placeName> dicuntur. Ex his quaedam <lb n="20"/>ab
+               initio non fuerunt; postea <placeName ref="#mit4" xml:id="m-163r-019">mari</placeName> <lb n="21"/>editae usque ad nunc permanent. <lb n="22"/>
+                    <placeName ref="#sto309" xml:id="m-163r-020">Stoecades</placeName> insulae <placeName ref="#mar310" xml:id="m-163r-021">massiliensium</placeName> <lb n="23"/>sexaginta milium spatio a con<lb break="no" n="24"/>tinenti in
+               frontem <placeName ref="#pro311" xml:id="m-163r-022">narbonensis <lb n="25"/>provinciae</placeName>, qua <placeName ref="#rho197" xml:id="m-163r-023">rodanus</placeName> fluvius in <lb n="26"/>
+                    <placeName ref="#mit4" xml:id="m-163r-024">mare</placeName> exit. Dictae autem grece <placeName ref="#sto309" xml:id="m-163r-025">stoecades</placeName>, <lb n="27"/>quasi opere in ordinem constitutem
+               <lb n="28"/>sint <persName ref="#sar100" xml:id="m-163r-026">Sardus</persName> <persName ref="#her59" xml:id="m-163r-027">hercule</persName> procreatus <lb n="29"/>cum magna multitudine a
+               <placeName ref="#afr3" xml:id="m-163r-028">libia</placeName> <lb n="30"/>profectus <placeName ref="#sar234" xml:id="m-163r-029">Sardiniam</placeName> occupavit, et <lb n="31"/>ex suo vocabulo insulae nomen
+               <lb n="32"/>dedit. Haec in <placeName ref="#afr312" xml:id="m-163r-030">africo mari</placeName> facie <lb n="33"/>vestigii humani, in orientem quam
+               <lb n="34"/>occidentem latior prominet, ferme <lb n="35"/>paribus lateribus quae in meridiem
+               <lb n="36"/>et septentrionem vertunt; ex quo <lb n="37"/>ante commercium a navigantibus
+               <lb n="38"/>grecorum <placeName ref="#sar234" xml:id="m-163r-031">hicus</placeName> appellata est. terra <lb n="39"/>patens in longitudine milia cen<lb break="no" n="40"/>tum quadraginta, in latitudine quadra<lb break="no" n="41"/>ginta</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>In ea neque serpens gignitur neque lupus, <lb n="2"/>sed solifuga tantum, animal
+                  exi<lb break="no" n="3"/>guum hominibus perniciosum. Ve<lb break="no" n="4"/>nenum quoque ibi
+               non nascitur, nisi <lb n="5"/>herba per scriptores plurimos et <lb n="6"/>poetas memorata,
+               apeastro simi<lb break="no" n="7"/>lis, quae hominibus rictus contrahit <lb n="8"/>et quasi
+               ridentes interimit. Fontes <lb n="9"/>habet <placeName ref="#sar234" xml:id="m-163r-032">sardinia</placeName> calidos, infirmis <lb n="10"/>medelam
+               praebentes, furibus caecita<lb break="no" n="11"/>tem, si sacramento dato oculos <lb n="12"/>aquis
+               eius tetigerint. <placeName ref="#kor313" xml:id="m-163r-033">Corsicae</placeName> in<lb break="no" n="13"/>sulae exordium incolae ligures de<lb break="no" n="14"/>derunt appellantes eam ex nomi<lb break="no" n="15"/>ne ducis. Nam quaedam
+               mulier ligus <lb n="16"/>
+                    <persName ref="#cor101" xml:id="m-163r-034">corsa</persName> nomine, cum taurum ex grege, <lb n="17"/>quem prope littora regebat, transna<lb break="no" n="18"/>tare solitum atque per
+               intervalla cor<lb break="no" n="19"/>pore aucto remeare videret, cu<lb break="no" n="20"/>piens
+               scire incognita sibi pabula, <lb n="21"/>taurum a ceteris digredientem usque <lb n="22"/>ad insulam
+               navigio prosecuta est. <lb n="23"/>Cuius regressu insulae fertilitatem <lb n="24"/>cognoscentes
+               ligures ratibus ibi <lb n="25"/>profecti sunt, eamque nomine mu<lb break="no" n="26"/>lieris
+               actoris et ducis appellaverunt. <lb n="27"/>Haec autem insula grece <placeName ref="#kor313" xml:id="m-163r-035">cyrenea</placeName> dicitur, <lb n="28"/>a
+                  <persName ref="#kyr102" xml:id="m-163r-036">cyreno</persName> <persName ref="#her59" xml:id="m-163r-037">herculis</persName> filio habitata. <lb n="29"/>De qua <persName ref="#ver29" xml:id="m-163r-038">vergilius</persName>: Cyrenea taxos.<lb n="30"/>Bividitur autem a <placeName ref="#sar234" xml:id="m-163r-039">sardinia</placeName> vigin<lb break="no" n="31"/>ti milium freto, cincta <placeName ref="#lig314" xml:id="m-163r-040">ligustici <lb n="32"/>aequoris sinu</placeName> ad prospectum <placeName ref="#ita180" xml:id="m-163r-041">italiae</placeName>. <lb n="33"/>Est autem multis promuntoriis angu<lb break="no" n="34"/>losa,
+               gignens laetissima pabula <lb n="35"/>et lapidem quem catociten greci vocant. <lb n="36"/>
+                    <placeName ref="#ebo315" xml:id="m-163r-042">Ebosus</placeName> insula <placeName ref="#his134" xml:id="m-163r-043">ispaniae</placeName> dicta quod a <lb n="37"/>
+                    <placeName ref="#zan316" xml:id="m-163r-044">zonio</placeName> non procul sit, quasi <placeName ref="#zan316" xml:id="m-163r-045">ebozus</placeName>; <lb n="38"/>Nam
+               septuaginta stadiis ab ea di<lb break="no" n="39"/>stat. cuius terram serpentes fugi<lb break="no" n="40"/>unt. Huic contraria est <placeName ref="#col318" xml:id="m-163r-046">colubraria</placeName>,</p>
+            </div>
+            </body>
+  </text>
+</TEI>

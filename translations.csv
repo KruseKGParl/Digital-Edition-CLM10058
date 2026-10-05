@@ -1,0 +1,98 @@
+key,de,en
+navbar__skip,Zum Hauptinhalt springen,Skip to main content
+navbar__project,Projekt,Project
+navbar__about,Über die Edition,About the edition
+navbar__imprint,Impressum,Imprint
+navbar__text,Text,Text
+navbar__toc,Blattübersicht,Folio overview
+navbar__map,Karte,Map
+navbar__register,Register,Indices
+navbar__persons,Personen,Persons
+navbar__places,Orte,Places
+navbar__search,Suche,Search
+common__home,Startseite,Home
+common__download_xml,TEI/XML-Datei,TEI/XML file
+common__cite,Zitiervorschlag,How to cite
+common__licence,Lizenz,Licence
+common__close,Schließen,Close
+common__none,–,–
+index__text_title,Textedition,Text edition
+index__text_desc,"Transkription von Buch XIV („De terra“) mit Personen- und Ortsauszeichnung, Blatt für Blatt neben dem Faksimile.","Transcription of Book XIV (“De terra”) with person and place markup, folio by folio next to the facsimile."
+index__text_btn,Zum Text,Read the text
+index__map_title,Kartenedition,Map edition
+index__map_desc,"Die Mappa Mundi auf fol. 154v: alle Beschriftungen als klickbare Zonen im Bild, verknüpft mit Text und Registern.","The Mappa Mundi on fol. 154v: all inscriptions as clickable zones in the image, linked to the text and the indices."
+index__map_btn,Zur Karte,Open the map
+index__reg_title,Register,Indices
+index__reg_desc,"Personen und Orte mit Normdaten (VIAF, GND, Wikidata, Getty TGN), Belegstellen im Text und Beschriftungen auf der Karte.","Persons and places with authority data (VIAF, GND, Wikidata, Getty TGN), attestations in the text and inscriptions on the map."
+index__reg_btn,Zu den Registern,Open the indices
+toc__fol,Blatt,Folio
+toc__incipit,Textbeginn,Beginning of the text
+toc__persons,Personen,Persons
+toc__places,Orte,Places
+toc__map,Karte,Map
+toc__map_note,Kartenseite (Mappa Mundi),Map page (Mappa Mundi)
+text__facs_toggle,Faksimile,Facsimile
+text__lines,Zeilen wie in der Handschrift,Lines as in the manuscript
+text__flow,Fließtext,Continuous text
+text__col,Sp.,col.
+text__prev,Vorheriges Blatt,Previous folio
+text__next,Nächstes Blatt,Next folio
+text__jump,Blatt wählen,Go to folio
+text__hint,"Klicken Sie auf einen Personen- oder Ortsnamen für Normdaten, Belege und die Verknüpfung zur Karte.","Click a person or place name for authority data, attestations and the link to the map."
+text__facs_credit,"Digitalisat: Bayerische Staatsbibliothek München, Clm 10058, über IIIF eingebunden.","Digital copy: Bavarian State Library Munich, Clm 10058, embedded via IIIF."
+ent__person,Person,Person
+ent__place,Ort,Place
+ent__variants,Belegformen,Forms attested
+ent__authority,Normdaten,Authority data
+ent__no_authority,keine Normdaten,no authority data
+ent__page,Registereintrag,Index entry
+ent__mentions,Belege im Text,Attestations in the text
+ent__on_map,Auf der Karte,On the map
+ent__show_on_map,Auf der Karte zeigen,Show on the map
+ent__unused,Kein Beleg im edierten Text,Not attested in the edited text
+auth__wikidata,Wikidata,Wikidata
+auth__viaf,VIAF,VIAF
+auth__gnd,GND,GND
+auth__tgn,Getty TGN,Getty TGN
+auth__other,Link,Link
+reg__persons_title,Personenregister,Index of persons
+reg__places_title,Ortsregister,Index of places
+reg__name,Name,Name
+reg__type,Typ,Type
+reg__variants,Belegformen,Forms attested
+reg__authority,Normdaten,Authority data
+reg__mentions,Belege,Attestations
+reg__map,Karte,Map
+reg__filter,Filtern …,Filter …
+reg__count,Einträge,entries
+reg__mentions_hint,"Belegstellen: Blatt, Spalte.Zeile","Attestations: folio, column.line"
+reg__map_labels,Beschriftungen auf der Mappa Mundi,Inscriptions on the Mappa Mundi
+type__continent,Kontinent,Continent
+type__sea,Meer,Sea
+type__isle,Insel,Island
+type__isles,Inseln,Islands
+type__archipelago,Inselgruppe,Archipelago
+type__mountain,Berg,Mountain
+type__mountains,Gebirge,Mountains
+type__mythological,mythologischer Ort,Mythological place
+type__region,Region,Region
+type__river,Fluss,River
+type__settlement,Siedlung,Settlement
+map__title,Kartenedition – Mappa Mundi (fol. 154v),Map edition – Mappa Mundi (fol. 154v)
+map__search,Beschriftung suchen …,Search inscriptions …
+map__zones,Zonen anzeigen,Show zones
+map__only_linked,Nur mit Text verknüpfte,Only those linked to the text
+map__reset,Ansicht zurücksetzen,Reset view
+map__hint,Klicken Sie auf eine Zone im Bild oder auf einen Eintrag der Liste.,Click a zone in the image or an entry in the list.
+map__inscription,Beschriftung,Inscription
+map__section,Abschnitt,Section
+map__kind,Art,Kind
+map__kind_person,Personenbezug,Person
+map__kind_place,Ortsbezug,Place
+map__kind_other,ohne Auszeichnung,not marked up
+map__in_text,Im Text (Buch XIV),In the text (Book XIV)
+map__not_linked,Keine Verknüpfung mit dem Text (keine passenden Normdaten).,No link to the text (no matching authority data).
+map__shown,angezeigt,shown
+maptype__ety,Etymologie,Etymology
+maptype__des,Beschreibung,Description
+map__credit,"Digitalisat: Bayerische Staatsbibliothek München, Clm 10058, fol. 154v, über IIIF eingebunden.","Digital copy: Bavarian State Library Munich, Clm 10058, fol. 154v, embedded via IIIF."

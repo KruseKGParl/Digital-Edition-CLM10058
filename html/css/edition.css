@@ -1,0 +1,79 @@
+/* Leseansicht: Text neben Faksimile */
+.edition-row { align-items: flex-start; }
+.facs-col { position: sticky; top: .75rem; }
+#osd {
+    width: 100%;
+    height: calc(100vh - 12rem);
+    min-height: 420px;
+    background: #1b1b1b;
+    border-radius: .375rem;
+}
+.facs-hidden .facs-col { display: none; }
+.facs-hidden .text-col { flex: 0 0 100%; max-width: 900px; margin: 0 auto; }
+
+.text-pane {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 1.05rem;
+    line-height: 1.75;
+    background: #fffdf8;
+    border: 1px solid #e6e0d0;
+    border-radius: .375rem;
+    padding: 1rem 1.5rem 1.5rem 3rem;
+    position: relative;
+}
+[data-bs-theme="dark"] .text-pane { background: #1e1c18; border-color: #3a362c; }
+.col-label {
+    font-family: var(--bs-body-font-family);
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    color: #8a8372;
+    border-bottom: 1px solid #e6e0d0;
+    margin: 1.2rem 0 .6rem -2rem;
+    padding-bottom: .15rem;
+}
+.col-label:first-child { margin-top: 0; }
+.tei-p { margin: 0; }
+
+/* Zeilenumbrüche der Handschrift */
+.text-pane.lines .lb { display: block; height: 0; position: relative; }
+.text-pane.lines .lb[data-n]::before {
+    content: attr(data-n);
+    position: absolute;
+    left: -2.4rem;
+    width: 1.8rem;
+    text-align: right;
+    top: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: .72rem;
+    color: #a09a8a;
+}
+.text-pane.flow .hy { display: none; }
+.text-pane.flow .lb[data-break="yes"]::after { content: " "; }
+.text-pane .hy { color: #a09a8a; }
+
+/* Auszeichnungen */
+.entity { cursor: pointer; border-radius: 2px; transition: background .15s; }
+.entity.person { border-bottom: 2px dotted #b5452f; }
+.entity.place { border-bottom: 2px solid #2f6db5; }
+.entity:hover, .entity.hl { background: rgba(255, 200, 0, .35); }
+.entity:focus-visible { outline: 2px solid #0d6efd; outline-offset: 1px; }
+.entity-legend .ent { padding: 0 .3rem; }
+.entity-legend .ent.person { border-bottom: 2px dotted #b5452f; }
+.entity-legend .ent.place { border-bottom: 2px solid #2f6db5; }
+.editorial-note { font-family: var(--bs-body-font-family); font-size: .85rem; color: #777; }
+
+.popover { max-width: 340px; }
+.ent-dl dt { font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; color: #888; margin-top: .4rem; }
+.ent-dl dd { margin-bottom: 0; font-size: .9rem; }
+
+@media (max-width: 991px) {
+    .facs-col { position: static; margin-top: 1rem; }
+    #osd { height: 60vh; }
+}
+
+.btn .bi { margin-right: .35rem; }
+
+/* Register / Karte */
+.register-table .tabulator-cell { white-space: normal; }
+.auth-links a { margin-right: .5rem; white-space: nowrap; }

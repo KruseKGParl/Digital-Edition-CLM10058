@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol164r.xml" prev="fol163v.xml" next="fol164v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 164r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol164r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00331/full/full/0/default.jpg" n="bsb00112097_00331"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 164r" facs="#fol164r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>Grece enim fulmen cenauros dicitur. Sunt <lb n="2"/>autem inter <placeName ref="#arm31" xml:id="m-164r-001">armeniam</placeName> et <placeName ref="#hib89" xml:id="m-164r-002">hiberiam</placeName>, <lb n="3"/>incipientes a <placeName ref="#kas30" xml:id="m-164r-003">portis caspiis</placeName> usque <lb n="4"/>ad <placeName ref="#tig23" xml:id="m-164r-004">fontem tigridis</placeName> fluvii. <placeName ref="#hyp328" xml:id="m-164r-005">Iperborei <lb n="5"/>montes</placeName> <placeName ref="#sky27" xml:id="m-164r-006">scithiae</placeName>, dicti quod supra, id est <lb n="6"/>ultra, eos flat boreus. <placeName ref="#rhi329" xml:id="m-164r-007">Rifei mon<lb break="no" n="7"/>tes</placeName> in capite <placeName ref="#ger82" xml:id="m-164r-008">germaniae</placeName> sunt, a per<lb break="no" n="8"/>petuo
+               ventorum flatu nominati; <lb n="9"/>Nam rifnen grece impetus et orme <lb n="10"/>dicitur,
+               apotoyriptin. <placeName ref="#oly170" xml:id="m-164r-009">Olympus</placeName> <lb n="11"/>mons <placeName ref="#mak140" xml:id="m-164r-010">macedoniae</placeName> nimium praecelsus, <lb n="12"/>ita ut sub illo
+               nubes esse dicantur. <lb n="13"/>De quo <persName ref="#ver29" xml:id="m-164r-011">vergilius</persName>: Nubes excessit <placeName ref="#oly170" xml:id="m-164r-012">olympus</placeName>. <lb n="14"/>Dictus autem <placeName ref="#oly170" xml:id="m-164r-013">olympus</placeName> quasi ololampus, id est <lb n="15"/>quasi
+               caelum. Hic mons <placeName ref="#mak140" xml:id="m-164r-014">macedoniam</placeName> <lb n="16"/>dividit a <placeName ref="#thr109" xml:id="m-164r-015">thracia</placeName>. <placeName ref="#ath330" xml:id="m-164r-016">Athos</placeName> mons <placeName ref="#mak140" xml:id="m-164r-017">ma<lb break="no" n="17"/>cedoniae</placeName>, et ipse altior nubibus, tantoque <lb n="18"/>sullimis ut in <placeName ref="#lem331" xml:id="m-164r-018">lemno</placeName> umbra eius <lb n="19"/>pertendat, quae ab eo septuaginta sex <lb n="20"/>milibus separatur. <placeName ref="#par169" xml:id="m-164r-019">Parnasus</placeName> mons <lb n="21"/>
+                    <placeName ref="#the154" xml:id="m-164r-020">thessaliae</placeName> iuxta <placeName ref="#boo164" xml:id="m-164r-021">boetiam</placeName>, qui gemino <lb n="22"/>vertice est erectus in caelum. Hic in
+               <lb n="23"/>duo finditur iuga: <placeName ref="#kyr332" xml:id="m-164r-022">cyrram</placeName> et <placeName ref="#nis333" xml:id="m-164r-023">nisa</placeName>; <lb n="24"/>unde et nuncupatus; eo quod in singulis
+               <lb n="25"/>iugis colebantur <persName ref="#apo58" xml:id="m-164r-024">apollo</persName> et <persName ref="#bac105" xml:id="m-164r-025">liber</persName>. <lb n="26"/>Haec iuga a duobus fratribus <persName ref="#kit106" xml:id="m-164r-026">cyteron</persName> et <lb n="27"/>
+                    <persName ref="#hel107" xml:id="m-164r-027">elicon</persName> appellantur. Nam <placeName ref="#hel107" xml:id="m-164r-028">elicon</placeName> di<lb break="no" n="28"/>ctus ab <persName ref="#hel107" xml:id="m-164r-029">elicone</persName> fratre <persName ref="#kit106" xml:id="m-164r-030">cyteronis</persName>. Item <lb n="29"/>
+                    <placeName ref="#ker91" xml:id="m-164r-031">cerauni</placeName> sunt montes <placeName ref="#epi152" xml:id="m-164r-032">epyri</placeName>, a cre<lb break="no" n="30"/>bris dicti fulminibus. Grece
+               enim <lb n="31"/>fulmen ceraunos dicitur. <placeName ref="#ape179" xml:id="m-164r-033">Coritus</placeName> <lb n="32"/>mons <placeName ref="#ita180" xml:id="m-164r-034">italiae</placeName> a <persName ref="#cor108" xml:id="m-164r-035">corito</persName> vitrico dar<lb break="no" n="33"/>daniae appellatus
+               <placeName ref="#ape179" xml:id="m-164r-036">Appenninus mons</placeName> <lb n="34"/>appellatur quasi <placeName ref="#ape179" xml:id="m-164r-037">alpes penicae</placeName>, quia <lb n="35"/>
+                    <persName ref="#han33" xml:id="m-164r-038">hannibal</persName> veniens ad <placeName ref="#ita180" xml:id="m-164r-039">italiam</placeName> easdem <lb n="36"/>
+                    <placeName ref="#alp182" xml:id="m-164r-040">alpes</placeName> aperuit. Unde et <persName ref="#ver29" xml:id="m-164r-041">vergilius</persName>: <placeName ref="#alp182" xml:id="m-164r-042">Alpes</placeName> <lb n="37"/>inmittit apertas; Has enim
+                  <persName ref="#han33" xml:id="m-164r-043">hannibal</persName> <lb n="38"/>post bella ispaniae aceto rupit; <persName ref="#iuv109" xml:id="m-164r-044">Ju<lb break="no" n="39"/>venalis</persName>: Et montes rupit aceto. <lb n="40"/>Et inde loca ipsa, quae rupit,
+                  <placeName ref="#ape179" xml:id="m-164r-045">appen<lb break="no" n="41"/>ninae</placeName> </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>
+                    <placeName ref="#ape179" xml:id="m-164r-046">alpes</placeName> vocantur. Mons <placeName ref="#atn128" xml:id="m-164r-047">ethna</placeName> ex <lb n="2"/>igne et sulphure dictus; unde <lb n="3"/>et
+               <placeName ref="#geh334" xml:id="m-164r-048">gehenna</placeName>. Constat autem hunc <lb n="4"/>ab ea parte, qua eurus vel africus <lb n="5"/>flat, habere
+               speluncas plenas sul<lb break="no" n="6"/>phuris et usque ad mare deductas, <lb n="7"/>Qquae
+               speluncae recipientes in se fluc<lb break="no" n="8"/>tus ventum creant, qui ex agitatus
+               <lb n="9"/>ignem gignit ex sulphure; unde est <lb n="10"/>quod videtur incendium. <placeName ref="#pyr195" xml:id="m-164r-049">Pirene<lb break="no" n="11"/>us</placeName> et ipse a crebris fulminum ignibus <lb n="12"/>nuncupatus; Graece enim
+               ignis piros <lb n="13"/>vocatur. Iste est qui inter <placeName ref="#gal132" xml:id="m-164r-050">galliam</placeName> <lb n="14"/>atque <placeName ref="#his134" xml:id="m-164r-051">ispaniam</placeName> quasi de industria <lb n="15"/>munimentum interiacet. <placeName ref="#sol335" xml:id="m-164r-052">Soluirus</placeName> <lb n="16"/>a singularitate dicitur, quod
+               omnibus <lb n="17"/>
+                    <placeName ref="#his134" xml:id="m-164r-053">hispaniae</placeName> montibus solus altior vi<lb break="no" n="18"/>detur. <placeName ref="#cal326" xml:id="m-164r-054">Calpes</placeName> mons in ultimis <lb n="19"/>finibus occeani, qui dirimit <placeName ref="#eur2" xml:id="m-164r-055">europam</placeName> <lb n="20"/>ab <placeName ref="#afr3" xml:id="m-164r-056">africa</placeName>, quem <placeName ref="#atl210" xml:id="m-164r-057">athlantis</placeName> finem esse <lb n="21"/>dicunt. De quo <persName ref="#luk122" xml:id="m-164r-058">lucanus</persName>: Eesperiem <lb n="22"/>
+                    <placeName ref="#cal326" xml:id="m-164r-059">calpem</placeName>, summumque implevit <placeName ref="#atl210" xml:id="m-164r-060">athlantem</placeName>. <lb n="23"/>
+                    <persName ref="#atl110" xml:id="m-164r-061">Athlans</persName> frater <persName ref="#pro111" xml:id="m-164r-062">promethei</persName> fuit et rex <placeName ref="#afr3" xml:id="m-164r-063">afri<lb break="no" n="24"/>cae</placeName>, a quo astrologiae artem prius <lb n="25"/>dicunt excogitatam;
+               ideoque dic<lb break="no" n="26"/>tus est sustinuisse caelum. Ab eru<lb break="no" n="27"/>ditionem
+               igitur disciplinae et scientia <lb n="28"/>caeli nomen eius in montem africae diri<lb break="no" n="29"/>vatum est, qui nunc <placeName ref="#atl210" xml:id="m-164r-064">athlas</placeName> cog<lb break="no" n="30"/>nominatur: qui propter
+                  altitudi<lb break="no" n="31"/>nem suam quasi caeli machinam atque <lb n="32"/>astra sustentare
+               videtur. <placeName ref="#alp182" xml:id="m-164r-065">Alpes</placeName> <lb n="33"/>proprie montes <placeName ref="#gal132" xml:id="m-164r-066">galliae</placeName> sunt. de <lb n="34"/>quibus <persName ref="#ver29" xml:id="m-164r-067">Vergilius</persName>: <placeName ref="#alp182" xml:id="m-164r-068">Aerias alpes</placeName>; Et <lb n="35"/>dicendo aerias verbum
+               expressit <lb n="36"/>a verbo. Nam gallorum lingua alpes <lb n="37"/>montes alti vocantur. Hae sunt
+               enim <lb n="38"/>quae <placeName ref="#ita180" xml:id="m-164r-069">italiae</placeName> murorum exhibent vicem. <lb n="39"/>Colles sunt preminentiora iuga
+               <lb n="40"/>montium, quasi colla. Juga autem</p>
+            </div>
+            </body>
+  </text>
+</TEI>

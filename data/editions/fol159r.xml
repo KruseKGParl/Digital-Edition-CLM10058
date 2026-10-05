@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol159r.xml" prev="fol158v.xml" next="fol159v.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 159r</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol159r">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00321/full/full/0/default.jpg" n="bsb00112097_00321"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 159r" facs="#fol159r"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>cum <placeName ref="#nor143" xml:id="m-159r-001">norico</placeName> et <placeName ref="#rat144" xml:id="m-159r-002">retia</placeName>; habens ab orien<lb break="no" n="2"/>te <placeName ref="#moe139" xml:id="m-159r-003">mesiam</placeName>, ab euro <placeName ref="#ist141" xml:id="m-159r-004">histriam</placeName>; ab <placeName ref="#afr3" xml:id="m-159r-005">afri<lb break="no" n="3"/>co</placeName> vero <placeName ref="#ape179" xml:id="m-159r-006">alpes appenninas</placeName> habens, ab oc<lb break="no" n="4"/>casu
+                  <placeName ref="#gal132" xml:id="m-159r-007">galliam</placeName> <placeName ref="#bel145" xml:id="m-159r-008">belgicam</placeName>, a septentri<lb break="no" n="5"/>one
+                  <placeName ref="#don81" xml:id="m-159r-009">danubii</placeName> fontem, vel limitem <lb n="6"/>qui
+                  <placeName ref="#ger82" xml:id="m-159r-010">germaniam</placeName> <placeName ref="#gal132" xml:id="m-159r-011">galliamque</placeName> secernit. <lb n="7"/>
+                    <placeName ref="#ist141" xml:id="m-159r-012">Istriam</placeName> ister amnis vocavit, qui eius <lb n="8"/>terram
+               influit. Ipse est <placeName ref="#don81" xml:id="m-159r-013">danubius</placeName>. Habet autem <placeName ref="#ist141" xml:id="m-159r-014">istria</placeName> a septentrione <lb n="9"/>
+                    <placeName ref="#pan142" xml:id="m-159r-015">pannoniam</placeName>. <placeName ref="#ita180" xml:id="m-159r-016">Italia</placeName> olim a grecis <lb n="10"/>populis occupata magna grecia <lb n="11"/>appellata est, deinde a regis
+                  no<lb break="no" n="12"/>mine <persName ref="#sat67" xml:id="m-159r-017">saturnia</persName>; mox et <placeName ref="#ita180" xml:id="m-159r-018">latium</placeName> <lb n="13"/>dicta eo quod idem <persName ref="#sat67" xml:id="m-159r-019">saturnus</persName> a <persName ref="#jup37" xml:id="m-159r-020">iove</persName> <lb n="14"/>sedibus suis pulsus ibi latuerit; <lb n="15"/>postremo ab <persName ref="#ita68" xml:id="m-159r-021">italo</persName> siculorum rege <lb n="16"/>ibi regnante <placeName ref="#ita180" xml:id="m-159r-022">italia</placeName> nuncupata est. <lb n="17"/>Cuius situs longitudine amplius <lb n="18"/>quam
+               latitudine a circio in eurum <lb n="19"/>extenditur, a meridie <placeName ref="#tyr181" xml:id="m-159r-023">tirreno <lb n="20"/>mari</placeName>, ab aquilone <placeName ref="#adr158" xml:id="m-159r-024">adriatico</placeName> clau<lb break="no" n="21"/>ditur, ab occiduo <placeName ref="#alp182" xml:id="m-159r-025">alpium iugis</placeName> <lb n="22"/>finitur, terra omnibus in rebus pul<lb break="no" n="23"/>cherrima, soli fertilitate,
+                  pabu<lb break="no" n="24"/>li ubertate gratissima. Habet <lb n="25"/>
+                    <placeName ref="#gar183" xml:id="m-159r-026">lacus venacum</placeName>, <placeName ref="#ave184" xml:id="m-159r-027">arvernum</placeName> atque <lb n="26"/>
+                    <placeName ref="#luk185" xml:id="m-159r-028">lucrinum</placeName>; fluvios <placeName ref="#po186" xml:id="m-159r-029">eridanum</placeName> <lb n="27"/>
+                    <placeName ref="#tib187" xml:id="m-159r-030">tyberim</placeName>; et tepentes fontibus <placeName ref="#bai188" xml:id="m-159r-031">baias</placeName>. <lb n="28"/>Gignit gemas sertitem, corallium <lb n="29"/>et
+               ligurium; boam quoque serpentem, <lb n="30"/>linchem feram et diomedias aves.
+                  <lb n="31"/>
+                    <placeName ref="#ita180" xml:id="m-159r-032">Italia</placeName> autem et <placeName ref="#his134" xml:id="m-159r-033">ispania</placeName> iccirco es<lb break="no" n="32"/>periae dictae quod greci uespero
+               stella <lb n="33"/>navigent et in <placeName ref="#ita180" xml:id="m-159r-034">italia</placeName> et in <placeName ref="#his134" xml:id="m-159r-035">ispania</placeName>. <lb n="34"/>Quae hac ratione discernuntur;
+               <lb n="35"/>aut enim <placeName ref="#ita180" xml:id="m-159r-036">esperiam</placeName> solam dicis <lb n="36"/>et
+               significas <placeName ref="#ita180" xml:id="m-159r-037">italiam</placeName>, aut addis <lb n="37"/>
+                    <placeName ref="#his134" xml:id="m-159r-038">ultimam</placeName> et significas <placeName ref="#his134" xml:id="m-159r-039">ispaniam</placeName>, <lb n="38"/>quae in occidentis est fine. <placeName ref="#tus189" xml:id="m-159r-040">Tuscia </placeName> <lb n="39"/>pars <placeName ref="#ita180" xml:id="m-159r-041">italiae</placeName>; <placeName ref="#umb190" xml:id="m-159r-042">umbria</placeName> vero pars <placeName ref="#tus189" xml:id="m-159r-043">tusciae</placeName>.</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>
+                    <placeName ref="#tus189" xml:id="m-159r-044">Tuscia</placeName> autem a frequentia sacrorum <lb n="2"/>et
+               thuris vocata, apo ticizin. <lb n="3"/>
+                    <placeName ref="#umb190" xml:id="m-159r-045">Umbria</placeName> vero, ut historiae narrant, ab <lb n="4"/>eo quod tempore aquosae cladis im<lb break="no" n="5"/>bribus
+               superfuerit, et ob hoc umbria <lb n="6"/>grece cognominata. Est enim in <lb n="7"/>
+                    <placeName ref="#ape179" xml:id="m-159r-046">iugis appennini montis</placeName> sita, in <lb n="8"/>parte <placeName ref="#ita180" xml:id="m-159r-047">italiae</placeName> iuxta meridiem. <lb n="9"/>
+                    <placeName ref="#etr191" xml:id="m-159r-048">Etruria</placeName> pars <placeName ref="#ita180" xml:id="m-159r-049">Italiae</placeName> <lb n="10"/>dicta quod eius <lb n="11"/>fines tendebantur usque ad ripam <lb n="12"/>
+                    <placeName ref="#tib187" xml:id="m-159r-050">tyberis</placeName>, quasi alterosoroy. Nam <lb n="13"/>alterois significat
+               alteros, soroy <lb n="14"/>finis vocatur. <placeName ref="#rom192" xml:id="m-159r-051">Romae</placeName> enim fines <lb n="15"/>antea una tantum <placeName ref="#tib187" xml:id="m-159r-052">tyberis</placeName> ripa <lb n="16"/>tenebantur. Alii <placeName ref="#etr191" xml:id="m-159r-053">etruriam</placeName> dictam <lb n="17"/>ab
+                  <persName ref="#etr69" xml:id="m-159r-054">etrusco</persName> principe putant. Idem <lb n="18"/>et <placeName ref="#tyr118" xml:id="m-159r-055">tirrenia</placeName> a <persName ref="#tyr42" xml:id="m-159r-056">tirreno</persName> <persName ref="#lyd41" xml:id="m-159r-057">lidii</persName> fratre, qui <lb n="19"/>ex sorte cum populi parte de
+                  meo<lb break="no" n="20"/>nia venit ad <placeName ref="#ita180" xml:id="m-159r-058">italiam</placeName>. Haec est et <lb n="21"/>
+                    <placeName ref="#tus189" xml:id="m-159r-059">tuscia</placeName>; Sed <placeName ref="#tus189" xml:id="m-159r-060">tusciam</placeName> dicere non <lb n="22"/>debemus; quia nusquam legimus. <placeName ref="#tus189" xml:id="m-159r-061">Tuscia</placeName> <lb n="23"/>autem a frequentia sacrificii et <lb n="24"/>thuris dicta, apotoy eryce. <lb n="25"/>Illic et
+               aruspicinam dicunt esse re<lb break="no" n="26"/>pertam. <placeName ref="#apu193" xml:id="m-159r-062">Apulia</placeName> ubi <placeName ref="#bru194" xml:id="m-159r-063">brundusium</placeName>, <lb n="27"/>quam
+               etholi sequuti <persName ref="#dio70" xml:id="m-159r-064">diomedem</persName> <lb n="28"/>ducem condiderunt. <placeName ref="#kam130" xml:id="m-159r-065">Campania</placeName> <lb n="29"/>provincia <placeName ref="#ita180" xml:id="m-159r-066">italiae</placeName> habet terras hie<lb break="no" n="30"/>me omi atque estate vernantes. <lb n="31"/>et sol ibi mitis, grata temperies,
+               <lb n="32"/>aer purus et blandus. <placeName ref="#gal132" xml:id="m-159r-067">Gallia</placeName> a can<lb break="no" n="33"/>dore populi nuncupata est; Gala <lb n="34"/>enim grece lac dicitur. Montes
+               <lb n="35"/>enim et rigor caeli ab ea parte solis <lb n="36"/>ardorem excludunt, quo fit ut
+               <lb n="37"/>candor corporum non coloretur. <lb n="38"/>Hanc ab oriente <placeName ref="#alp182" xml:id="m-159r-068">alpium iuga</placeName> tuentur, <lb n="39"/>ab occasu occeanus includit, a me<lb break="no" n="40"/>ridie praerupta <placeName ref="#pyr195" xml:id="m-159r-069">pyrenei</placeName>, a septentri<lb break="no" n="41"/>one <placeName ref="#rhe138" xml:id="m-159r-070">reni</placeName> fluenta atque <placeName ref="#ger82" xml:id="m-159r-071">germania</placeName>;</p>
+            </div>
+            </body>
+  </text>
+</TEI>

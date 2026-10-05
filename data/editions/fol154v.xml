@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol154v.xml" prev="fol154r.xml" next="fol155r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 154v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol154v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00312/full/full/0/default.jpg" n="bsb00112097_00312"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 154v" facs="#fol154v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>De orbe <lb n="2"/>Orbis <lb n="3"/>a rotundita<lb break="no" n="4"/>te circuli dictus, <lb n="5"/>quia
+               sicut rota est; <lb n="6"/>Unde brevis etiam ro<lb break="no" n="7"/>tella orbiculus appellatur.
+               Undique enim occe<lb break="no" n="8"/>anus circumfluens eius in circulo ambit fines. Di<lb break="no" n="9"/>visus est autem trifarie: e quibus una pars <placeName ref="#asi1" xml:id="m-154v-001">Asia</placeName>, altera <lb n="10"/>
+                    <placeName ref="#eur2" xml:id="m-154v-002">europa</placeName>, tertia <placeName ref="#afr3" xml:id="m-154v-003">africa</placeName> quae et <placeName ref="#afr3" xml:id="m-154v-004">libia</placeName> nuncupatur. Quas tres <lb n="11"/>partes orbis veteres non aequaliter
+               diviserunt. <lb n="12"/>Nam <placeName ref="#asi1" xml:id="m-154v-005">asia</placeName> a meridie per orientem usque ad septentrionem per<lb break="no" n="13"/>venit;
+                </p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>
+                    <placeName ref="#eur2" xml:id="m-154v-006">Euro<lb break="no" n="2"/>pa</placeName> vero a sep<lb break="no" n="3"/>tentrione ad <lb n="4"/>occidentem; atque inde <lb n="5"/>
+                    <placeName ref="#afr3" xml:id="m-154v-007">Africa</placeName> ab occidente usque <lb n="6"/>ad meridiem. Unde evidenter orbem
+               <lb n="7"/>dimidium duae tenent, <placeName ref="#eur2" xml:id="m-154v-008">europa</placeName> et <placeName ref="#afr3" xml:id="m-154v-009">africa</placeName>, alium vero dimidium <lb n="8"/>sola <placeName ref="#asi1" xml:id="m-154v-010">asia</placeName>; Sed ideo istae duae partes factae sunt, quia inter <lb n="9"/>utramque ab occeano <placeName ref="#mit4" xml:id="m-154v-011">mare magnum</placeName> ingreditur, quod eas inter<lb break="no" n="10"/>secat. Quapropter si in duas partes orientis et
+                  occiden<lb break="no" n="11"/>tis orbem dividas, <placeName ref="#asi1" xml:id="m-154v-012">asia</placeName> erit in una, in altera vero <lb n="12"/>
+                    <placeName ref="#eur2" xml:id="m-154v-013">europa</placeName> et <placeName ref="#afr3" xml:id="m-154v-014">africa</placeName>.</p> </div>
+         
+           </body>
+  </text>
+</TEI>

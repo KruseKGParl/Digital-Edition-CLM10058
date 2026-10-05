@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol160v.xml" prev="fol160r.xml" next="fol161r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 160v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol160v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00324/full/full/0/default.jpg" n="bsb00112097_00324"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 160v" facs="#fol160v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>frigore noctis. <placeName ref="#ath69" xml:id="m-160v-001">Ethiopia</placeName> dicta a <lb n="2"/>colore
+               populorum, quos solis vicinitas <lb n="3"/>torret. Denique vim sideris prodit <lb n="4"/>hominum
+               color; Est enim ibi iugis <lb n="5"/>aestus; Nam quidquid eius est, sub meri<lb break="no" n="6"/>diano cardine est. Circa occiduum <lb n="7"/>autem montuosa est, harenosa in <lb n="8"/>medio,
+               ad orientalem vero plagam de<lb break="no" n="9"/>serta: Cuius situs ab occiduo <placeName ref="#atl210" xml:id="m-160v-002">ath<lb break="no" n="10"/>lantis montis</placeName> ad orientem usque in <lb n="11"/>
+                    <placeName ref="#agy42" xml:id="m-160v-003">Aegypti</placeName> fines porrigitur, a meri<lb break="no" n="12"/>die occeano, a septentrione <placeName ref="#nil70" xml:id="m-160v-004">nilo</placeName> <lb n="13"/>flumine clauditur; plurimas <lb n="14"/>habens gentes, diverso vultu et <lb n="15"/>monstruosa
+               specie horribiles. <lb n="16"/>ferarum quoque et serpentium referta <lb n="17"/>est multitudine.
+               Illic quippe rino<lb break="no" n="18"/>cerota bestia et cameleopardus, <lb n="19"/>basiliscus,
+               dracones ingentes, <lb n="20"/>ex quorum cerebro gemmae extrahuntur. <lb n="21"/>Iacinctus quoque
+               et crisoprasus ibi <lb n="22"/>reperiuntur; cinnamonium ibi <lb n="23"/>colligitur. Duae sunt autem
+                  <placeName ref="#ath69" xml:id="m-160v-005">ethio<lb break="no" n="24"/>piae</placeName>: una circa ortum solis, altera <lb n="25"/>circa occasum in <placeName ref="#mau237" xml:id="m-160v-006">mauritania</placeName>. <lb n="26"/>Extra tres autem partes orbis quarta <lb n="27"/>pars trans occeanum interior est
+               <lb n="28"/>in meridie, quae solis ardore <lb n="29"/>incognita nobis est; in cuius <lb n="30"/>finibus
+               [strich von oberer Zeile] antipodae fabulose <lb n="31"/>inhabitare produntur. Proxima
+               <lb n="32"/>autem <placeName ref="#his134" xml:id="m-160v-007">ispaniae</placeName> <placeName ref="#mau237" xml:id="m-160v-008">mauritania</placeName> est, <lb n="33"/>deinde <placeName ref="#num214" xml:id="m-160v-009">numidia</placeName>, inde regio <lb n="34"/>
+                    <placeName ref="#kar204" xml:id="m-160v-010">carthaginensis</placeName>, Post quae <placeName ref="#gat231" xml:id="m-160v-011">getuliam</placeName> <lb n="35"/>accipimus, post eam <placeName ref="#ath69" xml:id="m-160v-012">ethiopiam</placeName>, <lb n="36"/>inde
+               loca exusta solis ardoribus. <lb n="37"/>Sciendum sane quod quaedam provin<lb break="no" n="38"/>ciae primum de nomine aucto<lb break="no" n="39"/>ris appellatae sunt; postea a pro<lb break="no" n="40"/>vincia gentis nomen est factum.</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>Nam ab <persName ref="#ita68" xml:id="m-160v-013">italo</persName> <placeName ref="#ita180" xml:id="m-160v-014">italia</placeName>, et rursus ab <lb n="2"/>
+                    <placeName ref="#ita180" xml:id="m-160v-015">italia</placeName> italus; et sic utimur ipso <lb n="3"/>nomine gentis,
+               quomodo fuit ipsud <lb n="4"/>nomen auctoris, Inde dirivatum est <lb n="5"/>nomen provinciae.
+               <lb n="6"/>Ex quo accidit ex <lb n="7"/>uno homine nominari et civita<lb break="no" n="8"/>tem et
+               regionem et gentem. Provin<lb break="no" n="9"/>ciae autem hac ex causa vocabulum
+               <lb n="10"/>acceperunt. Principatus namque gen<lb break="no" n="11"/>tium, qui ad alios reges
+               pertinebat, <lb n="12"/>cum in ius suum romani vincen<lb break="no" n="13"/>do redigerent, procul
+               positas regi<lb break="no" n="14"/>ones provincias appellaverunt. <lb n="15"/>Patria autem vocata
+               quod communis <lb n="16"/>sit omnium, qui in ea nati sunt. <lb n="17"/>Terram autem significari, ut
+                  praedi<lb break="no" n="18"/>ximus, elementum: terras vero singu<lb break="no" n="19"/>las
+               partes, ut <placeName ref="#afr3" xml:id="m-160v-016">africa</placeName>, <placeName ref="#ita180" xml:id="m-160v-017">italia</placeName>. Eadem <lb n="20"/>et loca; Nam loca et terrae spatia <lb n="21"/>in orbe
+               terrarum multas in se conti<lb break="no" n="22"/>nent provincias, Sicut in corpore
+               <lb n="23"/>locus est pars una, multa in se <lb n="24"/>continens membra; Sicut et domus,
+               <lb n="25"/>multa in se habens cubicla: sic <lb n="26"/>terrae et loca dicuntur terrarum spatia,
+               <lb n="27"/>quorum partes sunt provinciae; sicut <lb n="28"/>in asia phrigia, et in gallia retia,
+               <lb n="29"/>in ispania betica. Nam <placeName ref="#asi1" xml:id="m-160v-018">Asia</placeName> locus est, <lb n="30"/>provincia <placeName ref="#asi1" xml:id="m-160v-019">asiae</placeName> <placeName ref="#phr103" xml:id="m-160v-020">phrigia</placeName>, <placeName ref="#tro112" xml:id="m-160v-021">Troia</placeName> regio <lb n="31"/>
+                    <placeName ref="#phr103" xml:id="m-160v-022">phrigiae</placeName>, <placeName ref="#tro116" xml:id="m-160v-023">ilium</placeName> civitas <placeName ref="#tro112" xml:id="m-160v-024">troiae</placeName>. Item <lb n="32"/>regiones partes sunt provinciarum, <lb n="33"/>quas vulgus
+               conventus vocat, <lb n="34"/>sicut in <placeName ref="#phr103" xml:id="m-160v-025">phrigia</placeName> <placeName ref="#tro112" xml:id="m-160v-026">troia</placeName>; sicut in <lb n="35"/>
+                    <placeName ref="#gal247" xml:id="m-160v-027">gallicia</placeName> <placeName ref="#kan248" xml:id="m-160v-028">cantabria</placeName>, <placeName ref="#ast249" xml:id="m-160v-029">asturia</placeName>. A rec<lb break="no" n="36"/>toribus autem regio nuncupata est,
+               <lb n="37"/>cuius partes territoria sunt. Territo<lb break="no" n="38"/>rium autem vocatum quasi
+               tauritorium, <lb n="39"/>tritum bobus et aratro. Antiqui enim <lb n="40"/>sulco ducto et
+               possessionum et territo<lb break="no" n="41"/>riorum limites designabant.</p>
+            </div>
+            </body>
+  </text>
+</TEI>

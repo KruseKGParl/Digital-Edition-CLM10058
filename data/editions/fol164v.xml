@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fol164v.xml" prev="fol164r.xml" next="fol165r.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">fol. 164v</title>
+        <title type="sub">Isidor von Sevilla, Etymologiae XIV, Clm 10058</title>
+        <editor ref="https://orcid.org/0000-0002-6615-6791">Maximilian Kruse</editor>
+      </titleStmt>
+      <publicationStmt>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msIdentifier>
+          <settlement>München</settlement>
+          <institution>Bayerische Staatsbibliothek</institution>
+          <idno>Clm 10058</idno>
+        </msIdentifier>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface xml:id="fol164v">
+      <graphic url="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00112097_00332/full/full/0/default.jpg" n="bsb00112097_00332"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body><div>
+                <pb n="fol. 164v" facs="#fol164v"/>
+            <cb n="1"/>
+            <p>
+                    <lb n="1"/>montium ex eo appellata sunt quod <lb n="2"/>propinquitate sui iungantur. Tumu<lb break="no" n="3"/>lus est mons brevis, quasi tumens tellus. <lb n="4"/>Item tumulus terra
+               congesta, ubi nul<lb break="no" n="5"/>la memoria est. Valles sunt humi<lb break="no" n="6"/>lia
+               loca, quasi vulsa. Hinc et con<lb break="no" n="7"/>valles depressa loca terrarum inter
+               <lb n="8"/>montes. Campus est terrarum plani<lb break="no" n="9"/>ties. Dictus autem campus quod
+                  bre<lb break="no" n="10"/>vis sit pedibus, nec erectus, ut montes, <lb n="11"/>sed patens et
+               spatio suo porrectus <lb n="12"/>et iacens; unde et grece pedion dicitur. <lb n="13"/>Sumpsit autem
+               nomen ex greca ethi<lb break="no" n="14"/>mologia; Cami enim greci breve dicunt. <lb n="15"/>Solum
+               est omne quod sustinet, a solidi<lb break="no" n="16"/>tate dictum scilicet. Unde et de
+               <lb n="17"/>mari <persName ref="#ver29" xml:id="m-164v-001">vergilius</persName> ait: Subtrahiturque <lb n="18"/>solum.
+               Saltus sunt vasta et sil<lb break="no" n="19"/>vestria loca, ubi arbores exiliunt <lb n="20"/>in
+               altum. Fauces sunt aditus <lb n="21"/>angustorum locorum inter arduos mon<lb break="no" n="22"/>tes, loca angusta et brevia, dicta <lb n="23"/>a faucium similitudine, quasi foces.
+               <lb n="24"/>Confrages sunt loca in quae undique <lb n="25"/>venti currunt ac sese frangunt. <lb n="26"/>ut
+                  <persName ref="#nae112" xml:id="m-164v-002">nevius</persName> ait: In montes ubi ven<lb break="no" n="27"/>ti
+               frangebant locum. Scabra <lb n="28"/>sunt loca situ aspera. Unde et scabi<lb break="no" n="29"/>es
+               dicitur, a corporis asperitate. Lustra <lb n="30"/>obscura latibula ferarum et luporum
+               <lb n="31"/>cubilia sunt. Unde et lupanaria <lb n="32"/>lustra dicuntur, per contrarium
+               <lb n="33"/>videlicet, quia parum illustrantur. <lb n="34"/>Lucus est locus densis arboribus
+               septus, <lb n="35"/>solo lucem detrahens. Potest et a <lb n="36"/>collucendo crebris luminibus
+               dici, <lb n="37"/>quae ibi propter religionem gentilium <lb n="38"/>cultumque fiebant. Deserta
+                  vo<lb break="no" n="39"/>cata quia non seruntur et ideo quasi <lb n="40"/>deseruntur; ut sunt
+               loca silvarum</p>
+            <cb n="2"/>
+            <p>
+                    <lb n="1"/>et montium, contraria uberrima<lb break="no" n="2"/>rum terrarum, quae sunt uberrimae
+               <lb n="3"/>glebae. Devia sunt loca secreta et <lb n="4"/>abdita, quasi extra viam. ipsa sunt
+               <lb n="5"/>et invia. Beinde et aviaria secre<lb break="no" n="6"/>ta loca et a via remota, aut
+               tantum <lb n="7"/>adibilia avibus. Unde est illud: In<lb break="no" n="8"/>culta rubent aviaria
+                  bacis.Amae<lb break="no" n="9"/>na loca <persName ref="#var81" xml:id="m-164v-003">varro</persName> dicta ait eo quod solum <lb n="10"/>amorem prestent et ad se amanda <lb n="11"/>alliciant. <persName ref="#ver113" xml:id="m-164v-004">Verrius flaccus</persName>, Quod sine <lb n="12"/>murmure sint nec quicquam
+               his offi<lb break="no" n="13"/>cii, quasi amunia, hoc est sine <lb n="14"/>fructu, unde nullus
+               fructus exsol<lb break="no" n="15"/>vitur. Inde etiam nihil prestantes <lb n="16"/>inmunes
+               vocantur. Aprica loca <lb n="17"/>quae sole gaudent, quasi ameo opiric, <lb n="18"/>hoc est sine
+               frigore; sive quod sint <lb n="19"/>aperta caelo. Opaca vero loca, quasi operta <lb n="20"/>caelo,
+               aprico contraria. Lubricum <lb n="21"/>dici locum ab eo quod ibi quis labitur; <lb n="22"/>et
+               lubricum dicitur non quod labitur, <lb n="23"/>sed in quo labitur. Aestiva sunt <lb n="24"/>loca
+               umbrosa, quibus per aestatem vitant <lb n="25"/>pecora solis ardorem. <persName ref="#sta114" xml:id="m-164v-005">Statius</persName>: Et um<lb break="no" n="26"/>brosi patuere estiva licei.
+                  Nava<lb break="no" n="27"/>lia sunt loca ubi naves fabricantur. <lb n="28"/>Hoc et textrinum
+               vocatur. Statio <lb n="29"/>est ubi ad tempus stant naves; <lb n="30"/>Portus, dicitur ubi hiemant
+               naves; <lb n="31"/>importunum autem, in quo nullum <lb n="32"/>refugium, quasi nullus portus.
+               <lb n="33"/>Portus autem locus est ab accessu ven<lb break="no" n="34"/>torum remotus, ubi iberna
+                  oppone<lb break="no" n="35"/>re solent: et portus dictus a deportan<lb break="no" n="36"/>dis
+               commerciis. Hunc veteres a ba<lb break="no" n="37"/>iulandis mercibus baias vocabant,
+               <lb n="38"/>illa declinatione a baia baias, ut <lb n="39"/>a familia familias. Litus est terra
+               <lb n="40"/>aquae et mari vicina: et dictum litus</p>
+            </div>
+            </body>
+  </text>
+</TEI>
