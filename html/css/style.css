@@ -5,8 +5,8 @@
     box-shadow: 0 0 0 .25rem rgba(13,110,253,.25);
 }
 
+/* .entity wird in edition.css formatiert (eine durchgehende Unterstreichung) */
 .entity {
-    text-decoration: underline dotted;
     cursor: pointer;
 }
 

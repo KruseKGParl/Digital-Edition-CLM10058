@@ -53,14 +53,23 @@
 .text-pane .hy { color: #a09a8a; }
 
 /* Auszeichnungen */
-.entity { cursor: pointer; border-radius: 2px; transition: background .15s; }
-.entity.person { border-bottom: 2px dotted #b5452f; }
-.entity.place { border-bottom: 2px solid #2f6db5; }
+/* Genau eine Unterstreichung pro Auszeichnung (text-decoration, kein zusätzlicher Rand) */
+.entity {
+    cursor: pointer; border-radius: 2px; transition: background .15s;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 3px;
+}
+.entity.person { text-decoration-style: solid; text-decoration-color: #b5452f; }
+.entity.place { text-decoration-style: solid; text-decoration-color: #2f6db5; }
 .entity:hover, .entity.hl { background: rgba(255, 200, 0, .35); }
 .entity:focus-visible { outline: 2px solid #0d6efd; outline-offset: 1px; }
-.entity-legend .ent { padding: 0 .3rem; }
-.entity-legend .ent.person { border-bottom: 2px dotted #b5452f; }
-.entity-legend .ent.place { border-bottom: 2px solid #2f6db5; }
+.entity-legend .ent {
+    padding: 0 .3rem;
+    text-decoration-line: underline; text-decoration-thickness: 2px; text-underline-offset: 3px;
+}
+.entity-legend .ent.person { text-decoration-color: #b5452f; }
+.entity-legend .ent.place { text-decoration-color: #2f6db5; }
 .editorial-note { font-family: var(--bs-body-font-family); font-size: .85rem; color: #777; }
 
 .popover { max-width: 340px; }
