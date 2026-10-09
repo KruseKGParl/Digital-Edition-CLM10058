@@ -95,5 +95,14 @@
     "map__shown": "angezeigt",
     "maptype__ety": "Etymologie",
     "maptype__des": "Beschreibung",
-    "map__credit": "Digitalisat: Bayerische Staatsbibliothek München, Clm 10058, fol. 154v, über IIIF eingebunden."
+    "map__credit": "Digitalisat: Bayerische Staatsbibliothek München, Clm 10058, fol. 154v, über IIIF eingebunden.",
+    "index__eyebrow": "Digitale Edition",
+    "index__hero_alt": "Die Mappa Mundi der Handschrift Clm 10058, fol. 154v",
+    "index__hero_caption": "Mappa Mundi, fol. 154v · München, BSB, Clm 10058",
+    "facts__folios": "Blätter",
+    "facts__labels": "Kartenbeschriftungen",
+    "facts__places": "Orte im Register",
+    "facts__persons": "Personen im Register",
+    "footer__links": "Edition",
+    "common__on_this_page": "Auf dieser Seite"
 }

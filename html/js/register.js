@@ -33,11 +33,11 @@
       { title: t('reg__variants', 'Belegformen'), field: 'variants', headerFilter: 'input' },
       { title: t('reg__authority', 'Normdaten'), field: 'auth', formatter: 'html', headerSort: false, width: 200,
         headerFilter: 'input', headerFilterFunc: function (v, d) { return !v || d.toLowerCase().indexOf(v.toLowerCase()) !== -1; } },
-      { title: t('reg__mentions', 'Belege'), field: 'mentions', hozAlign: 'right', sorter: 'number', width: 100 }
+      { title: t('reg__mentions', 'Belege'), field: 'mentions', hozAlign: 'right', sorter: 'number', width: 125 }
     ];
     if (isPlace) {
       cols.splice(1, 0, { title: t('reg__type', 'Typ'), field: 'typeLabel', headerFilter: 'input', width: 150 });
-      cols.push({ title: t('reg__map', 'Karte'), field: 'map', hozAlign: 'right', sorter: 'number', width: 90 });
+      cols.push({ title: t('reg__map', 'Karte'), field: 'map', hozAlign: 'right', sorter: 'number', width: 110 });
     }
     table = new Tabulator(holder, {
       data: data, columns: cols, layout: 'fitColumns',

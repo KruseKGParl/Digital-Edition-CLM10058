@@ -6,10 +6,11 @@
     <xsl:template name="nav_bar">
         <a class="visually-hidden-focusable" href="#main" data-i18n="navbar__skip">Zum Hauptinhalt springen</a>
         <header>
-            <nav aria-label="Primary" class="navbar navbar-expand-lg bg-body-tertiary">
-                <div class="container-fluid">
+            <nav aria-label="Primary" class="navbar navbar-expand-lg site-header" data-bs-theme="dark">
+                <div class="container-fluid px-4">
                     <a class="navbar-brand" href="index.html">
-                        <xsl:value-of select="$project_short_title"/>
+                        <span>Isidor von Sevilla · Clm 10058</span>
+                        <small>Etymologiae XIV · Mappa Mundi</small>
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -17,19 +18,8 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-i18n="navbar__project">Projekt</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="dropdown-item" href="about.html" data-i18n="navbar__about">Über die Edition</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="imprint.html" data-i18n="navbar__imprint">Impressum</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-i18n="navbar__text">Text</a>
-                                <ul class="dropdown-menu">
+                                <ul class="dropdown-menu" data-bs-theme="light">
                                     <li>
                                         <a class="dropdown-item" href="fol154r.html">fol. 154r – 165v</a>
                                     </li>
@@ -43,12 +33,23 @@
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-i18n="navbar__register">Register</a>
-                                <ul class="dropdown-menu">
+                                <ul class="dropdown-menu" data-bs-theme="light">
                                     <li>
                                         <a class="dropdown-item" href="listperson.html" data-i18n="navbar__persons">Personen</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="listplace.html" data-i18n="navbar__places">Orte</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" data-i18n="navbar__project">Projekt</a>
+                                <ul class="dropdown-menu" data-bs-theme="light">
+                                    <li>
+                                        <a class="dropdown-item" href="about.html" data-i18n="navbar__about">Über die Edition</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="imprint.html" data-i18n="navbar__imprint">Impressum</a>
                                     </li>
                                 </ul>
                             </li>

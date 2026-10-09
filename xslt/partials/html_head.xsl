@@ -26,6 +26,8 @@
         <link href="vendor/bootstrap-5.3.5-dist/css/bootstrap.min.css" rel="stylesheet"/>
         <link rel="stylesheet" href="vendor/bootstrap-icons/font/bootstrap-icons.min.css" />
         <link rel="stylesheet" href="css/style.css" type="text/css"></link>
+        <link rel="stylesheet" href="css/theme.css" type="text/css"></link>
+        <meta name="theme-color" content="#1e2f4d"/>
         <script>
             (function () {
                 var l = '';

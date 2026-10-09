@@ -30,7 +30,7 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                    <nav aria-label="breadcrumb" class="container page-breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.html"><xsl:value-of select="$project_short_title"/></a></li>
                             <li class="breadcrumb-item active" aria-current="page">
@@ -41,15 +41,33 @@
                         </ol>
                     </nav>
                     <div class="container">
-                        <h1>
+                        <h1 class="page-title">
                             <xsl:for-each select=".//tei:title[@type = 'main']">
                                 <span class="lang-{@xml:lang}"><xsl:value-of select="."/></span>
                             </xsl:for-each>
                         </h1>
-                        <div class="meta-text">
-                            <xsl:apply-templates select=".//tei:body"/>
+                        <div class="row g-5">
+                            <div class="col-lg-8">
+                                <div class="meta-text">
+                                    <xsl:apply-templates select=".//tei:body"/>
+                                </div>
+                            </div>
+                            <xsl:if test="count(.//tei:body/tei:div[1]/tei:head) gt 1">
+                                <aside class="col-lg-4 d-none d-lg-block">
+                                    <nav class="page-toc" aria-label="Inhalt">
+                                        <h2 data-i18n="common__on_this_page">Auf dieser Seite</h2>
+                                        <xsl:for-each select=".//tei:body/tei:div[@xml:lang]">
+                                            <ul class="lang-{@xml:lang}">
+                                                <xsl:for-each select="tei:head">
+                                                    <li><a href="#{generate-id()}"><xsl:value-of select="."/></a></li>
+                                                </xsl:for-each>
+                                            </ul>
+                                        </xsl:for-each>
+                                    </nav>
+                                </aside>
+                            </xsl:if>
                         </div>
-                        <div class="text-center p-4">
+                        <div>
                             <xsl:call-template name="blockquote">
                                 <xsl:with-param name="pageId" select="$link"/>
                             </xsl:call-template>
@@ -66,7 +84,7 @@
         <div class="lang-{@xml:lang}" lang="{@xml:lang}"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="tei:div"><div><xsl:apply-templates/></div></xsl:template>
-    <xsl:template match="tei:head"><h2 class="h4 mt-4"><xsl:apply-templates/></h2></xsl:template>
+    <xsl:template match="tei:head"><h2 id="{generate-id()}"><xsl:apply-templates/></h2></xsl:template>
     <xsl:template match="tei:p"><p><xsl:apply-templates/></p></xsl:template>
     <xsl:template match="tei:list"><ul><xsl:apply-templates/></ul></xsl:template>
     <xsl:template match="tei:item"><li><xsl:apply-templates/></li></xsl:template>

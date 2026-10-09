@@ -29,12 +29,13 @@
                     <xsl:with-param name="pageId" select="'karte.html'"/>
                     <xsl:with-param name="zoteroTitle" select="$doc_title"/>
                 </xsl:call-template>
+                <link rel="stylesheet" href="css/edition.css" type="text/css"/>
                 <link rel="stylesheet" href="css/karte.css" type="text/css"/>
             </head>
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-4 pt-3">
+                    <nav aria-label="breadcrumb" class="container-fluid px-4 page-breadcrumb">
                         <ol class="breadcrumb mb-2">
                             <li class="breadcrumb-item">
                                 <a href="index.html"><xsl:value-of select="$project_short_title"/></a>
@@ -43,8 +44,8 @@
                         </ol>
                     </nav>
                     <div class="container-fluid px-4">
-                        <div class="d-flex flex-wrap align-items-center gap-2 mb-2">
-                            <h1 class="h4 mb-0" data-i18n="map__title">Kartenedition – Mappa Mundi (fol. 154v)</h1>
+                        <div class="edition-toolbar d-flex flex-wrap align-items-center gap-2">
+                            <h1 class="mb-0" data-i18n="map__title">Kartenedition – Mappa Mundi (fol. 154v)</h1>
                             <a class="btn btn-outline-secondary btn-sm ms-auto" href="fol154v.html">
                                 <i class="bi bi-book"></i> <span>fol. 154v</span>
                             </a>
@@ -52,14 +53,16 @@
                                 <i class="bi bi-filetype-xml"></i><span class="visually-hidden">TEI/XML</span>
                             </a>
                         </div>
-                        <p class="small text-muted mb-2"><i class="bi bi-info-circle"></i> <span data-i18n="map__hint">Klicken Sie auf eine Zone.</span></p>
+                        <p class="edition-hint"><i class="bi bi-info-circle"></i> <span data-i18n="map__hint">Klicken Sie auf eine Zone.</span></p>
                         <div class="row map-row">
                             <div class="col-lg-8">
                                 <div id="mapViewer" data-info="{$info_url}"
                                     data-width="{$graphic/@lrx}" data-height="{$graphic/@lry}"></div>
-                                <p class="small text-muted mt-1 mb-0" data-i18n="map__credit">Digitalisat: Bayerische Staatsbibliothek München</p>
+                                <p class="facs-credit" data-i18n="map__credit">Digitalisat: Bayerische Staatsbibliothek München</p>
                             </div>
-                            <div class="col-lg-4 map-side">
+                            <div class="col-lg-4">
+                              <div class="map-side">
+                               <div class="map-side-head">
                                 <div class="input-group input-group-sm mb-2">
                                     <span class="input-group-text"><i class="bi bi-search"></i></span>
                                     <input type="search" id="labelSearch" class="form-control" data-i18n="[placeholder]map__search" placeholder="Beschriftung suchen …"/>
@@ -75,12 +78,14 @@
                                     </div>
                                 </div>
                                 <div id="labelDetail" class="label-detail card card-body mb-2" hidden="hidden" aria-live="polite"></div>
-                                <div id="labelList" class="label-list accordion accordion-flush">
+                               </div>
+                                <div id="labelList" class="label-list">
                                     <xsl:apply-templates select=".//tei:body/tei:div"/>
                                 </div>
+                              </div>
                             </div>
                         </div>
-                        <div class="text-center p-4">
+                        <div>
                             <xsl:call-template name="blockquote">
                                 <xsl:with-param name="pageId" select="'karte.html'"/>
                             </xsl:call-template>

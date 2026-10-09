@@ -95,5 +95,14 @@
     "map__shown": "shown",
     "maptype__ety": "Etymology",
     "maptype__des": "Description",
-    "map__credit": "Digital copy: Bavarian State Library Munich, Clm 10058, fol. 154v, embedded via IIIF."
+    "map__credit": "Digital copy: Bavarian State Library Munich, Clm 10058, fol. 154v, embedded via IIIF.",
+    "index__eyebrow": "Digital edition",
+    "index__hero_alt": "The Mappa Mundi of manuscript Clm 10058, fol. 154v",
+    "index__hero_caption": "Mappa Mundi, fol. 154v · Munich, BSB, Clm 10058",
+    "facts__folios": "Folios",
+    "facts__labels": "Map inscriptions",
+    "facts__places": "Places in the index",
+    "facts__persons": "Persons in the index",
+    "footer__links": "Edition",
+    "common__on_this_page": "On this page"
 }

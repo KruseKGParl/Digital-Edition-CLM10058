@@ -25,7 +25,7 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                    <nav aria-label="breadcrumb" class="container page-breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">
                                 <a href="index.html">
@@ -38,7 +38,7 @@
                         </ol>
                     </nav>
                     <div class="container">
-                        <h1>404</h1>
+                        <h1 class="page-title">404</h1>
                     </div>
                 </main>
                 <xsl:call-template name="html_footer"/>

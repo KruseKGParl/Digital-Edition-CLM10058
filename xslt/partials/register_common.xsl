@@ -34,7 +34,7 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                    <nav aria-label="breadcrumb" class="container page-breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.html"><xsl:value-of select="$project_short_title"/></a></li>
                             <li class="breadcrumb-item"><span data-i18n="navbar__register">Register</span></li>
@@ -42,7 +42,7 @@
                         </ol>
                     </nav>
                     <div class="container">
-                        <h1 data-i18n="{$title_key}"><xsl:value-of select="$title"/></h1>
+                        <h1 class="page-title" data-i18n="{$title_key}"><xsl:value-of select="$title"/></h1>
                         <p class="text-muted small"><span data-i18n="reg__mentions_hint">Belegstellen: Blatt, Spalte.Zeile</span></p>
                         <table id="regTable" class="table table-sm register-table" data-kind="{if (//tei:person) then 'person' else 'place'}">
                             <thead>
@@ -74,7 +74,7 @@
                                 </xsl:for-each>
                             </tbody>
                         </table>
-                        <div class="text-center p-4">
+                        <div>
                             <xsl:call-template name="blockquote">
                                 <xsl:with-param name="pageId" select="$page"/>
                             </xsl:call-template>
@@ -104,7 +104,7 @@
                     <body class="d-flex flex-column h-100">
                         <xsl:call-template name="nav_bar"/>
                         <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                            <nav aria-label="breadcrumb" class="container page-breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="index.html"><xsl:value-of select="$project_short_title"/></a></li>
                                     <li class="breadcrumb-item"><a href="{$page}" data-i18n="{$title_key}"><xsl:value-of select="$title"/></a></li>
@@ -112,13 +112,13 @@
                                 </ol>
                             </nav>
                             <div class="container">
-                                <h1><xsl:value-of select="$name"/></h1>
+                                <h1 class="mb-1"><xsl:value-of select="$name"/></h1>
                                 <p class="text-muted">
                                     <span data-i18n="{if (self::tei:person) then 'ent__person' else 'ent__place'}"></span>
                                     <xsl:if test="@type"> · <span data-i18n="type__{@type}"><xsl:value-of select="@type"/></span></xsl:if>
                                 </p>
                                 <xsl:call-template name="register_detail"/>
-                                <div class="text-center p-4">
+                                <div>
                                     <xsl:call-template name="blockquote">
                                         <xsl:with-param name="pageId" select="$filename"/>
                                     </xsl:call-template>
@@ -133,7 +133,7 @@
     </xsl:template>
 
     <xsl:template name="register_detail">
-        <dl class="row">
+        <dl class="row detail-list">
             <xsl:if test="(tei:persName | tei:placeName)[@type = 'variant']">
                 <dt class="col-sm-3" data-i18n="ent__variants">Belegformen</dt>
                 <dd class="col-sm-9"><xsl:value-of select="string-join((tei:persName | tei:placeName)[@type = 'variant'], ', ')"/></dd>

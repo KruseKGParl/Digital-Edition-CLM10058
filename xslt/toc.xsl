@@ -27,15 +27,15 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-5 p-3">
+                    <nav aria-label="breadcrumb" class="container page-breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="index.html"><xsl:value-of select="$project_short_title"/></a></li>
                             <li class="breadcrumb-item active" aria-current="page" data-i18n="navbar__toc">Blattübersicht</li>
                         </ol>
                     </nav>
                     <div class="container">
-                        <h1 data-i18n="navbar__toc">Blattübersicht</h1>
-                        <table class="table table-hover align-middle">
+                        <h1 class="page-title" data-i18n="navbar__toc">Blattübersicht</h1>
+                        <div class="table-wrap"><table class="table table-hover align-middle">
                             <thead>
                                 <tr>
                                     <th scope="col" data-i18n="toc__fol">Blatt</th>
@@ -65,8 +65,8 @@
                                     <td class="text-end">–</td>
                                 </tr>
                             </tbody>
-                        </table>
-                        <div class="text-center p-4">
+                        </table></div>
+                        <div>
                             <xsl:call-template name="blockquote"><xsl:with-param name="pageId" select="'toc.html'"/></xsl:call-template>
                         </div>
                     </div>

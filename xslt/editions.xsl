@@ -39,7 +39,7 @@
             <body class="d-flex flex-column h-100">
                 <xsl:call-template name="nav_bar"/>
                 <main id="main" tabindex="-1" class="flex-shrink-0 flex-grow-1">
-                    <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="ps-4 pt-3">
+                    <nav aria-label="breadcrumb" class="container-fluid px-4 page-breadcrumb">
                         <ol class="breadcrumb mb-2">
                             <li class="breadcrumb-item">
                                 <a href="index.html"><xsl:value-of select="$project_short_title"/></a>
@@ -59,7 +59,7 @@
                                 href="{if (ends-with($prev, '.html')) then $prev else '#'}" data-i18n="[title]text__prev;[aria-label]text__prev">
                                 <i class="bi bi-chevron-left"></i>
                             </a>
-                            <h1 class="h4 mb-0 mx-1"><xsl:value-of select="$doc_title"/></h1>
+                            <h1 class="mb-0"><xsl:value-of select="$doc_title"/></h1>
                             <a class="btn btn-outline-secondary btn-sm {if (ends-with($next, '.html')) then '' else 'disabled'}"
                                 href="{if (ends-with($next, '.html')) then $next else '#'}" data-i18n="[title]text__next;[aria-label]text__next">
                                 <i class="bi bi-chevron-right"></i>
@@ -91,9 +91,9 @@
                                 </a>
                             </div>
                         </div>
-                        <p class="small text-muted mb-2">
+                        <p class="edition-hint">
                             <i class="bi bi-info-circle"></i> <span data-i18n="text__hint">Klicken Sie auf einen Personen- oder Ortsnamen.</span>
-                            <span class="ms-3 entity-legend"><span class="ent person">Person</span> <span class="ent place">Ort/Place</span></span>
+                            <span class="ms-3 entity-legend"><span class="ent person" data-i18n="ent__person">Person</span> <span class="ent place" data-i18n="ent__place">Ort</span></span>
                         </p>
                         <div class="row edition-row" id="editionRow">
                             <div class="col-lg-6 text-col" id="textCol">
@@ -103,10 +103,10 @@
                             </div>
                             <div class="col-lg-6 facs-col" id="facsCol">
                                 <div id="osd" data-info="{$info_url}"></div>
-                                <p class="small text-muted mt-1 mb-0" data-i18n="text__facs_credit">Digitalisat: Bayerische Staatsbibliothek München</p>
+                                <p class="facs-credit" data-i18n="text__facs_credit">Digitalisat: Bayerische Staatsbibliothek München</p>
                             </div>
                         </div>
-                        <div class="text-center p-4">
+                        <div>
                             <xsl:call-template name="blockquote">
                                 <xsl:with-param name="pageId" select="$link"/>
                             </xsl:call-template>

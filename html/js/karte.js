@@ -61,7 +61,9 @@
     // Liste: Abschnitt aufklappen und Eintrag in Sicht bringen
     var det = li.closest('details');
     if (det) det.open = true;
-    li.scrollIntoView({ block: 'nearest' });
+    // nur die Liste rollen, nicht die ganze Seite
+    var list = document.getElementById('labelList');
+    list.scrollTo({ top: Math.max(0, li.offsetTop - list.clientHeight / 3), behavior: 'smooth' });
   }
 
   function focusOn(li) {

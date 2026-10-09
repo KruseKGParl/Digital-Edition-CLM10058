@@ -7,14 +7,14 @@
         <xsl:param name="pageId" select="''"></xsl:param>
         <xsl:param name="customUrl" select="$base_url"></xsl:param>
         <xsl:variable name="fullUrl" select="concat($customUrl, $pageId)"/>
-        <div>
-            <h2 class="fs-5" data-i18n="common__cite">Zitiervorschlag</h2>
-            <blockquote class="blockquote fs-6">
+        <section class="cite-box">
+            <h2 data-i18n="common__cite">Zitiervorschlag</h2>
+            <blockquote>
                 <!-- TODO: Zitiervorschlag (Angaben, Jahr) wird später übernommen -->
-                <p>
+                <p class="mb-0">
                     Maximilian Kruse (Bearb.): <xsl:value-of select="$project_title"/>. Digitale Edition. Universität Paderborn 2023 (<a href="{$fullUrl}"><xsl:value-of select="$fullUrl"/></a>).
                 </p>
             </blockquote>
-        </div>
+        </section>
     </xsl:template>
 </xsl:stylesheet>
